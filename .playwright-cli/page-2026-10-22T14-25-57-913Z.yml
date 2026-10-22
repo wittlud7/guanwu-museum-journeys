@@ -1,0 +1,160 @@
+- generic [active] [ref=e1]:
+  - complementary [ref=e2]:
+    - link "观 观物 GUANWU" [ref=e3] [cursor=pointer]:
+      - /url: "#discover"
+      - generic [ref=e4]: 观
+      - generic [ref=e5]:
+        - text: 观物
+        - generic [ref=e6]: GUANWU
+    - generic [ref=e7]: 与世界，重新相遇
+    - navigation [ref=e8]:
+      - link "发现" [ref=e9] [cursor=pointer]:
+        - /url: "#discover"
+      - link "博物馆藏" [ref=e13] [cursor=pointer]:
+        - /url: "#collection"
+      - link "山河漫游" [ref=e17] [cursor=pointer]:
+        - /url: "#journeys"
+      - link "我的收藏" [ref=e21] [cursor=pointer]:
+        - /url: "#saved"
+    - generic [ref=e25]:
+      - generic [ref=e26]: 一物一世界一步一山河
+      - button "观物 · 知行会员 ↗ 把好奇，交给更大的世界 探索会员权益 →" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - text: 观物 · 知行会员
+          - generic [ref=e29]: ↗
+        - generic [ref=e30]: 把好奇，交给更大的世界
+        - emphasis [ref=e31]: 探索会员权益 →
+      - generic [ref=e32]:
+        - text: 博物与山河的随身指南
+        - generic [ref=e33]: © 2026 观物
+  - generic [ref=e34]:
+    - banner [ref=e35]:
+      - generic [ref=e36]:
+        - text: 观物手记 /
+        - strong [ref=e37]: 发现灵感
+      - generic [ref=e38]:
+        - button "全部目的地 ⌄" [ref=e39] [cursor=pointer]:
+          - generic [ref=e42]: 全部目的地
+          - generic [ref=e43]: ⌄
+        - button "搜索馆藏和目的地" [ref=e44] [cursor=pointer]
+        - button "我的足迹" [ref=e47] [cursor=pointer]: 观
+    - main [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - generic [ref=e51]: A LITTLE CURIOSITY, A BIGGER WORLD
+          - heading "让好奇心，带你远行" [level=1] [ref=e52]
+          - paragraph [ref=e53]: 走进一座博物馆，读懂一方水土。每一次相遇，都值得细看。
+        - generic [ref=e54]: 慢慢看，才看得见。
+      - region "本期精选：长城" [ref=e55]:
+        - img "苍翠群山中的长城" [ref=e56]
+        - generic [ref=e57]:
+          - generic [ref=e58]: 本期精选 · 山河之间
+          - heading "山河入眼， 文物入心。" [level=2] [ref=e59]: 山河入眼，文物入心。
+          - paragraph [ref=e60]: 越过时光的山脊，与千年的故事不期而遇。从一处风景开始，重新认识脚下的土地。
+          - button "开启这段旅程" [ref=e61] [cursor=pointer]
+        - generic [ref=e64]:
+          - generic [ref=e65]: 中国 · 长城 / THE GREAT WALL
+          - generic [ref=e67]: 01 / 01
+      - generic [ref=e68]:
+        - button "博物馆藏 时间里的珍藏 ↗" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - text: 博物馆藏
+            - generic [ref=e73]: 时间里的珍藏
+          - generic [ref=e74]: ↗
+        - button "山河漫游 土地上的故事 ↗" [ref=e75] [cursor=pointer]:
+          - generic [ref=e78]:
+            - text: 山河漫游
+            - generic [ref=e79]: 土地上的故事
+          - generic [ref=e80]: ↗
+        - button "每日一物 与一件好物相遇 ↗" [ref=e81] [cursor=pointer]:
+          - generic [ref=e84]:
+            - text: 每日一物
+            - generic [ref=e85]: 与一件好物相遇
+          - generic [ref=e86]: ↗
+        - button "深度赏读 把美看得更深 ↗" [ref=e87] [cursor=pointer]:
+          - generic [ref=e90]:
+            - text: 深度赏读
+            - generic [ref=e91]: 把美看得更深
+          - generic [ref=e92]: ↗
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - heading "值得驻足" [level=2] [ref=e96]
+            - generic [ref=e97]: CURATED COLLECTIONS
+          - link "探索全部馆藏" [ref=e98] [cursor=pointer]:
+            - /url: "#collection"
+        - tablist "馆藏分类" [ref=e101]:
+          - tab "精选推荐" [selected] [ref=e102] [cursor=pointer]
+          - tab "青铜之美" [ref=e103] [cursor=pointer]
+          - tab "陶瓷之美" [ref=e104] [cursor=pointer]
+          - tab "书画之美" [ref=e105] [cursor=pointer]
+        - generic [ref=e106]:
+          - article [ref=e107]:
+            - button "查看错铜青铜壶" [ref=e108] [cursor=pointer]:
+              - img "错铜青铜壶，大都会艺术博物馆开放馆藏" [ref=e109]
+              - generic [ref=e110]: 免费赏读
+            - button "收藏这件文物" [ref=e111] [cursor=pointer]
+            - heading [level=3] [ref=e114]:
+              - button "错铜青铜壶" [ref=e115] [cursor=pointer]
+            - generic [ref=e116]: 东周 · 公元前5世纪
+            - generic [ref=e117]:
+              - generic [ref=e118]: 大都会艺术博物馆
+              - generic [ref=e119]: 约 3 分钟 ↗
+          - article [ref=e120]:
+            - button "查看乾隆时期瓷瓶" [ref=e121] [cursor=pointer]:
+              - img "乾隆时期瓷瓶，大都会艺术博物馆开放馆藏" [ref=e122]
+              - generic [ref=e123]: 免费赏读
+            - button "收藏这件文物" [ref=e124] [cursor=pointer]
+            - heading [level=3] [ref=e127]:
+              - button "乾隆时期瓷瓶" [ref=e128] [cursor=pointer]
+            - generic [ref=e129]: 清 · 乾隆时期（1736—1795）
+            - generic [ref=e130]:
+              - generic [ref=e131]: 大都会艺术博物馆
+              - generic [ref=e132]: 约 3 分钟 ↗
+          - article [ref=e133]:
+            - button "查看陈洪绶《山水》" [ref=e134] [cursor=pointer]:
+              - img "陈洪绶《山水》，大都会艺术博物馆开放馆藏" [ref=e135]
+              - generic [ref=e136]: 深度解读
+            - button "收藏这件文物" [ref=e137] [cursor=pointer]
+            - heading [level=3] [ref=e140]:
+              - button "陈洪绶《山水》" [ref=e141] [cursor=pointer]
+            - generic [ref=e142]: 明 · 陈洪绶（1598/99—1652）
+            - generic [ref=e143]:
+              - generic [ref=e144]: 大都会艺术博物馆
+              - generic [ref=e145]: 约 4 分钟 ↗
+          - article [ref=e146]:
+            - button "查看北方有盖铜釜" [ref=e147] [cursor=pointer]:
+              - img "北方有盖铜釜，大都会艺术博物馆开放馆藏" [ref=e148]
+              - generic [ref=e149]: 深度解读
+            - button "收藏这件文物" [ref=e150] [cursor=pointer]
+            - heading [level=3] [ref=e153]:
+              - button "北方有盖铜釜" [ref=e154] [cursor=pointer]
+            - generic [ref=e155]: 中国北方 · 年代见馆方资料
+            - generic [ref=e156]:
+              - generic [ref=e157]: 大都会艺术博物馆
+              - generic [ref=e158]: 约 3 分钟 ↗
+      - generic [ref=e159]:
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - heading "把风景读成故事" [level=2] [ref=e162]
+            - generic [ref=e163]: BEYOND THE MUSEUM
+          - link "去山河间走走" [ref=e164] [cursor=pointer]:
+            - /url: "#journeys"
+        - generic [ref=e167]:
+          - button [ref=e168] [cursor=pointer]:
+            - img "长城沿山脊蜿蜒延伸" [ref=e169]
+            - generic [ref=e170]:
+              - text: BEIJING · 北京
+              - heading "循着山脊，读一段长城" [level=3] [ref=e171]
+              - paragraph [ref=e172]: 山河漫游 · 3 个观察停靠点 ↗
+          - generic [ref=e173]:
+            - generic [ref=e174]: THE ART OF LOOKING
+            - heading "不必急着看完， 试着真正看见。" [level=3] [ref=e175]: 不必急着看完，试着真正看见。
+            - paragraph [ref=e176]: 从一条纹样、一抹釉色开始，让观看成为你与历史之间的对话。
+            - button "写给第一次走进博物馆的你 ↗" [ref=e177] [cursor=pointer]
+            - text: 物
+    - contentinfo [ref=e178]:
+      - generic [ref=e179]: 观物 GUANWU
+      - generic [ref=e180]: 让每一次驻足，都与美相遇。
+      - button "关于观物与图片来源 ↗" [ref=e181] [cursor=pointer]
+  - status

@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#f7f7f2"><meta name="description" content="观物，随身的博物与山河指南。发现馆藏之美，读懂沿途风景。"><title>观物 GUANWU · 博物与山河</title><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css"></head>
+<body>
+<svg class="svg-defs" xmlns="http://www.w3.org/2000/svg"><defs>
+<symbol id="i-discover" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m16 8-2.5 5.5L8 16l2.5-5.5Z"/></symbol>
+<symbol id="i-museum" viewBox="0 0 24 24"><path d="m3 8 9-5 9 5M3 10h18M5 10v9m7-9v9m7-9v9M3 21h18"/></symbol>
+<symbol id="i-route" viewBox="0 0 24 24"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2ZM9 3v16m6-14v16"/></symbol>
+<symbol id="i-heart" viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0l-1 1-1-1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"/></symbol>
+<symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+</defs></svg>
+<aside class="sidebar"><a class="brand" href="#discover"><span class="seal">观</span><span>观物<small>GUANWU</small></span></a><div class="side-caption">与世界，重新相遇</div><nav class="navigation"><a href="#discover" data-nav="discover"><svg><use href="#i-discover"/></svg><span>发现</span><i>Discover</i></a><a href="#collection" data-nav="collection"><svg><use href="#i-museum"/></svg><span>博物馆藏</span><i>Collections</i></a><a href="#journeys" data-nav="journeys"><svg><use href="#i-route"/></svg><span>山河漫游</span><i>Journeys</i></a><a href="#saved" data-nav="saved"><svg><use href="#i-heart"/></svg><span>我的收藏</span><i>Saved</i></a></nav><div class="side-bottom"><div class="side-note">一物一世界<br>一步一山河</div><button class="member-card" data-action="membership"><span>观物 · 知行会员 <b>↗</b></span><small>把好奇，交给更大的世界</small><em>探索会员权益 →</em></button><div class="side-footer">博物与山河的随身指南 <span>© 2026 观物</span></div></div></aside>
+<div class="main-shell"><header class="topbar"><div class="breadcrumb">观物手记 <span>/</span> <strong id="page-label">发现灵感</strong></div><div class="top-actions"><button class="location" data-action="location"><svg><use href="#i-pin"/></svg><span id="city-label">全部目的地</span><span class="chevron">⌄</span></button><button class="search-trigger" data-action="search" aria-label="搜索馆藏和目的地"><svg><use href="#i-search"/></svg></button><button class="avatar" data-action="profile" aria-label="我的足迹">观</button></div></header>
+<main id="app" tabindex="-1"></main><footer class="page-footer"><span>观物 GUANWU</span><span>让每一次驻足，都与美相遇。</span><button data-action="about">关于观物与图片来源 ↗</button></footer></div>
+<dialog id="modal" aria-labelledby="modal-title"><div id="modal-content"></div><button class="close-dialog" aria-label="关闭弹窗">×</button></dialog><div id="toast" role="status" aria-live="polite"></div><script src="app.js"></script>
+</body></html>
