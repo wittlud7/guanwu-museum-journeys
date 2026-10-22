@@ -1,4 +1,5 @@
 output/
+.playwright-cli/
 *.tar.gz
 *.zip
 node_modules/
