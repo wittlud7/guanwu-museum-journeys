@@ -48,7 +48,7 @@ assert assets.is_dir()
 with tarfile.open(archive,'w:gz') as tar:
  tar.add(assets,arcname='dist')
  body=(root/'.openai/hosting.json').read_bytes()
- if (assets/'.openai/hosting.json').exists():assert (assets/'.openai/hosting.json').read_bytes()==body
+ if (assets/'.openai/hosting.json').exists():assert json.loads((assets/'.openai/hosting.json').read_bytes())==json.loads(body)
  else:
   entry=tarfile.TarInfo('dist/.openai/hosting.json');entry.size=len(body);tar.addfile(entry,io.BytesIO(body))
 with tarfile.open(archive) as tar:
