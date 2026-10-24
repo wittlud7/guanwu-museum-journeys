@@ -1,0 +1,1 @@
+Page({onLoad(){wx.navigateBack({delta:1})}});

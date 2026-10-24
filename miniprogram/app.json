@@ -1,1 +1,50 @@
-{"pages":["pages/index/index"],"window":{"navigationBarTitleText":"观物 · 博物与山河","navigationBarBackgroundColor":"#f7f7f2","navigationBarTextStyle":"black","backgroundColor":"#f7f7f2"},"style":"v2","sitemapLocation":"sitemap.json"}
+{
+  "pages": [
+    "pages/atlas/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "观物 · 城市非遗指南",
+    "navigationBarBackgroundColor": "#f7f7f2",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f7f7f2"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "subPackages": [
+    {
+      "root": "media/beijing",
+      "name": "beijing",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/hangzhou",
+      "name": "hangzhou",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/nanjing",
+      "name": "nanjing",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/chengdu",
+      "name": "chengdu",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/guangzhou",
+      "name": "guangzhou",
+      "pages": [
+        "guide/index"
+      ]
+    }
+  ]
+}

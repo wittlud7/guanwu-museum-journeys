@@ -4,3 +4,6 @@ output/
 *.zip
 node_modules/
 __pycache__/
+.runtime/
+.venv/
+tmp/
