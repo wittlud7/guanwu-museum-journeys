@@ -47,8 +47,12 @@ assets=root/('server-app/dist' if worker else 'dist');assert not any(p.is_symlin
 assert assets.is_dir()
 with tarfile.open(archive,'w:gz') as tar:
  tar.add(assets,arcname='dist')
- body=(root/'.openai/hosting.json').read_bytes();entry=tarfile.TarInfo('dist/.openai/hosting.json');entry.size=len(body);tar.addfile(entry,io.BytesIO(body))
+ body=(root/'.openai/hosting.json').read_bytes()
+ if (assets/'.openai/hosting.json').exists():assert (assets/'.openai/hosting.json').read_bytes()==body
+ else:
+  entry=tarfile.TarInfo('dist/.openai/hosting.json');entry.size=len(body);tar.addfile(entry,io.BytesIO(body))
 with tarfile.open(archive) as tar:
+ assert len(tar.getnames())==len(set(tar.getnames())),'Duplicate archive paths'
  assert ('dist/server/index.js' if worker else 'dist/index.html') in tar.getnames() and 'dist/.openai/hosting.json' in tar.getnames()
  if worker:assert 'dist/client/index.html' in tar.getnames()
 assert git(['rev-parse','HEAD'])==sha and not git(['status','--porcelain'])
