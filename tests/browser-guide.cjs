@@ -6,11 +6,11 @@ async (page) => {
  await page.setViewportSize({width:390,height:844});await page.goto(base+'?qa='+Date.now()+'#discover');await go('discover');
  await page.evaluate(async()=>{localStorage.clear();for(const r of await navigator.serviceWorker.getRegistrations())await r.unregister();for(const k of await caches.keys())if(k.startsWith('guanwu-'))await caches.delete(k)});
  await page.reload();await page.locator('.museum-card').first().waitFor();
- check(await page.locator('.museum-card').count()===5,'首页五座馆');
+ check(await page.locator('.museum-card').count()===11,'首页十一座馆');
  await page.getByRole('button',{name:'查看广州精选',exact:true}).click();
  check((await page.locator('.heritage-hero').getAttribute('aria-label')).includes('粤剧'),'切换广州头图');
  await page.locator('[data-city="杭州"]').click();check(await page.locator('.museum-card').count()===1,'杭州筛选');
- await page.locator('[data-city="全部"]').click();await page.getByRole('link',{name:'非遗场馆',exact:true}).click();
+ await page.locator('[data-city="全部"]').click();await page.getByRole('link',{name:'博物馆',exact:true}).click();
  await page.locator('#collection-search').fill('云锦');check(await page.locator('.museum-card').count()===1,'云锦场馆搜索');check(await page.locator('.craft-card').count()===1,'云锦工艺搜索');
  await page.locator('#collection-search').fill('火星不存在');check(await page.getByText('暂时没有找到这段故事').isVisible(),'空状态');
  await page.getByRole('button',{name:'重新发现 →',exact:true}).click();
@@ -65,5 +65,5 @@ async (page) => {
  check(errors.length===0,'JS错误：'+errors.join(','));
  await page.screenshot({path:'output/playwright/heritage-museum-mobile.png',fullPage:true});
  await go('discover');await page.screenshot({path:'output/playwright/heritage-home-mobile.png',fullPage:true});
- return {status:'passed',museumCities:5,craftTopics:8,widths:[360,390,768,1280],routesPerWidth:13,offlineAudio:true,search:true,gallery:true,notes:true,itinerary:true,quiz:true,javascriptErrors:errors};
+ return {status:'passed',museumCities:11,craftTopics:8,widths:[360,390,768,1280],routesPerWidth:13,offlineAudio:true,search:true,gallery:true,notes:true,itinerary:true,quiz:true,javascriptErrors:errors};
 }

@@ -4,26 +4,30 @@ from PIL import Image
 import json,subprocess,shutil
 root=Path(__file__).resolve().parents[1];native=root/'miniprogram'
 data=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/heritage-data.js')))"],cwd=root,encoding='utf-8'))
+expansion=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/expansion-data.js')))"],cwd=root,encoding='utf-8'))
+data['museums']+=expansion['museums']
+data['crafts']+=[dict(a,audio=False,category='文物 · '+a['material']) for a in expansion['artifacts']]
 credits=json.loads((root/'dist/assets/heritage/credits.json').read_text(encoding='utf-8'))
+credits.update({p['id']:p for p in (expansion['images'] if isinstance(expansion['images'],list) else expansion['images'].values())})
 (native/'data.js').write_text('module.exports='+json.dumps(data,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
 (native/'credits.js').write_text('module.exports='+json.dumps(credits,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
 thumb=native/'thumbs';thumb.mkdir(exist_ok=True)
 for key,c in credits.items():
  im=Image.open(root/'dist'/c['src']).convert('RGB');im.thumbnail((480,480));im.save(thumb/(key+'.jpg'),quality=77,optimize=True)
-config=json.loads((native/'app.json').read_text(encoding='utf-8'));config['subPackages']=[];config['pages']=['pages/atlas/index'];config['window']['navigationBarTitleText']='观物 · 城市非遗指南'
+config=json.loads((native/'app.json').read_text(encoding='utf-8'));config['subPackages']=[];config['pages']=['pages/atlas/index'];config['window']['navigationBarTitleText']='观物 · 城市博物馆指南'
 for m in data['museums']:
  city=m['id'];sub=native/'media'/city;assets=sub/'assets';assets.mkdir(parents=True,exist_ok=True)
  cs=[c for c in data['crafts'] if c['museum']==city];keys=set(m['gallery'])
  for c in cs:keys.update(c['gallery'])
  for key in keys:
   im=Image.open(root/'dist'/credits[key]['src']).convert('RGB');im.thumbnail((1000,1000));im.save(assets/(key+'.jpg'),quality=77,optimize=True)
- audio=[f'{city}-{i}' for i in range(3)]+['craft-'+c['id'] for c in cs]
+ audio=[f'{city}-{i}' for i,c in enumerate(m['chapters']) if c.get('audio') is not False]+['craft-'+c['id'] for c in cs if c.get('audio') is not False]
  for clip in audio:shutil.copyfile(root/'dist/assets/audio'/(clip+'.mp3'),assets/(clip+'.mp3'))
  guide=sub/'guide';guide.mkdir(exist_ok=True)
  (guide/'index.js').write_text("Page(require('../../../shared/guide-page.js')('"+city+"'));",encoding='utf-8')
  shutil.copyfile(native/'shared/guide.wxml',guide/'index.wxml')
  (guide/'index.wxss').write_text('@import "/shared/guide.wxss";',encoding='utf-8')
- (guide/'index.json').write_text('{"navigationBarTitleText":"观物 · 城市非遗导览"}',encoding='utf-8')
+ (guide/'index.json').write_text('{"navigationBarTitleText":"观物 · 城市博物馆导览"}',encoding='utf-8')
  config['subPackages'].append({'root':'media/'+city,'name':city,'pages':['guide/index']})
  size=sum(p.stat().st_size for p in sub.rglob('*') if p.is_file());assert size<2*1024*1024,(city,size)
  print(city,round(size/1024),'KB')

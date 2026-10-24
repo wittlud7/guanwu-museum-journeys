@@ -1,0 +1,1511 @@
+(function(root){
+"use strict";
+const data={
+  "museums": [
+    {
+      "id": "xian",
+      "city": "西安",
+      "roman": "XIAN",
+      "name": "陕西历史博物馆",
+      "fullName": "陕西历史博物馆",
+      "kind": "综合历史馆",
+      "cover": "xian-exterior",
+      "gallery": [
+        "xian-exterior",
+        "agate-cup",
+        "du-tally",
+        "mandarin-gold-bowl"
+      ],
+      "theme": "把长安的光，藏进一次凝视",
+      "quote": "把一次旅行，变成一次认真观看。",
+      "intro": "从秦的制度到唐的日常，沿着金属、石材与器形，读懂古都的不同侧面。",
+      "address": "西安市雁塔区小寨东路91号",
+      "duration": "建议 90—120 分钟（可按体力缩短）",
+      "tags": [
+        "文物",
+        "城市漫游",
+        "观察导览"
+      ],
+      "crafts": [],
+      "artifacts": [
+        "agate-cup",
+        "du-tally",
+        "mandarin-gold-bowl"
+      ],
+      "official": "https://www.sxhm.com/",
+      "sources": [
+        {
+          "title": "陕西历史博物馆官方网站",
+          "url": "https://www.sxhm.com/"
+        },
+        {
+          "title": "陕西历史博物馆 · 镶金兽首玛瑙杯",
+          "url": "https://www.sxhm.com/collections/detail/512.html"
+        },
+        {
+          "title": "陕西历史博物馆 · 错金杜虎符",
+          "url": "https://www.sxhm.com/collections/detail/518.html"
+        },
+        {
+          "title": "陕西历史博物馆 · 鸳鸯莲瓣纹金碗",
+          "url": "https://www.sxhm.com/collections/detail/9975.html"
+        }
+      ],
+      "tips": [
+        "先从馆方渠道确认到访馆区、预约要求与当天开放情况。",
+        "本应用提供馆藏知识，不保证资料中每件文物当天在展。",
+        "顺序为主题观看建议，不代表馆内真实位置；请结合现场指引，累了随时休息。"
+      ],
+      "chapters": [
+        {
+          "title": "初见 · 西安的时间入口",
+          "text": "从秦的制度到唐的日常，沿着金属、石材与器形，读懂古都的不同侧面。今天可以先选择一件感兴趣的文物，从整体轮廓看起，再读展签。这里的推荐是主题观看线索，不代表馆内实际展陈位置。",
+          "audio": false
+        },
+        {
+          "title": "细看 · 选一处细节",
+          "text": "不必急着看完所有展厅。先找材料、纹样与用途之间的关系，再将观察与标签文字相互印证。遇到不知道的名字，可以记下展签，用观物继续查阅相关条目。",
+          "audio": false
+        },
+        {
+          "title": "带走 · 一个自己的问题",
+          "text": "结束参观前，回想今天最让你愿意停留的一件文物。它的哪一个细节改变了你的第一印象？写进手记，也可以把这个问题交给随行助手，带着来源继续探索。",
+          "audio": false
+        }
+      ]
+    },
+    {
+      "id": "shanghai",
+      "city": "上海",
+      "roman": "SHANGHAI",
+      "name": "上海博物馆",
+      "fullName": "上海博物馆",
+      "kind": "综合艺术馆",
+      "cover": "shanghai-exterior",
+      "gallery": [
+        "shanghai-exterior",
+        "da-ke-ding",
+        "zi-zhong-pan",
+        "shangyang-measure"
+      ],
+      "theme": "从一行铭文，走进一段历史",
+      "quote": "把一次旅行，变成一次认真观看。",
+      "intro": "用鼎、盘与量器串起一条观看线索：器物既有形状，也保存着人的名字与制度的痕迹。",
+      "address": "上海市黄浦区人民大道201号（人民广场馆）；浦东新区世纪大道1952号（东馆）",
+      "duration": "建议 90—120 分钟（可按体力缩短）",
+      "tags": [
+        "文物",
+        "城市漫游",
+        "观察导览"
+      ],
+      "crafts": [],
+      "artifacts": [
+        "da-ke-ding",
+        "zi-zhong-pan",
+        "shangyang-measure"
+      ],
+      "official": "https://www.shanghaimuseum.net/",
+      "sources": [
+        {
+          "title": "上海博物馆官方网站",
+          "url": "https://www.shanghaimuseum.net/"
+        },
+        {
+          "title": "上海博物馆 · 大克鼎",
+          "url": "https://www.shanghaimuseum.cn/mu/frontend/pg/m/article/id/CI00000656"
+        },
+        {
+          "title": "上海博物馆 · 子仲姜盘",
+          "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00000699"
+        },
+        {
+          "title": "上海博物馆 · 商鞅方升",
+          "url": "https://www.shanghaimuseum.net/resource/museum_files/show_files/20180903105852824/index.html"
+        }
+      ],
+      "tips": [
+        "先从馆方渠道确认到访馆区、预约要求与当天开放情况。",
+        "本应用提供馆藏知识，不保证资料中每件文物当天在展。",
+        "顺序为主题观看建议，不代表馆内真实位置；请结合现场指引，累了随时休息。"
+      ],
+      "chapters": [
+        {
+          "title": "初见 · 上海的时间入口",
+          "text": "用鼎、盘与量器串起一条观看线索：器物既有形状，也保存着人的名字与制度的痕迹。今天可以先选择一件感兴趣的文物，从整体轮廓看起，再读展签。这里的推荐是主题观看线索，不代表馆内实际展陈位置。",
+          "audio": false
+        },
+        {
+          "title": "细看 · 选一处细节",
+          "text": "不必急着看完所有展厅。先找材料、纹样与用途之间的关系，再将观察与标签文字相互印证。遇到不知道的名字，可以记下展签，用观物继续查阅相关条目。",
+          "audio": false
+        },
+        {
+          "title": "带走 · 一个自己的问题",
+          "text": "结束参观前，回想今天最让你愿意停留的一件文物。它的哪一个细节改变了你的第一印象？写进手记，也可以把这个问题交给随行助手，带着来源继续探索。",
+          "audio": false
+        }
+      ]
+    },
+    {
+      "id": "suzhou",
+      "city": "苏州",
+      "roman": "SUZHOU",
+      "name": "苏州博物馆",
+      "fullName": "苏州博物馆",
+      "kind": "地方历史艺术馆",
+      "cover": "suzhou-exterior",
+      "gallery": [
+        "suzhou-exterior",
+        "pearl-pillar"
+      ],
+      "theme": "让江南的细节，慢慢显影",
+      "quote": "把一次旅行，变成一次认真观看。",
+      "intro": "从瓷器的釉色、宝幢的结构到银器的日常用途，认识吴地工艺与生活。",
+      "address": "苏州市姑苏区东北街204号（本馆）",
+      "duration": "建议 90—120 分钟（可按体力缩短）",
+      "tags": [
+        "文物",
+        "城市漫游",
+        "观察导览"
+      ],
+      "crafts": [],
+      "artifacts": [
+        "lotus-bowl",
+        "pearl-pillar",
+        "silver-lian"
+      ],
+      "official": "https://www.szmuseum.com/",
+      "sources": [
+        {
+          "title": "苏州博物馆官方网站",
+          "url": "https://www.szmuseum.com/"
+        },
+        {
+          "title": "苏州博物馆 · 秘色瓷莲花碗",
+          "url": "https://file.szmuseum.com/WaterMark/门户网站多媒体文件/academic/2019/201911_msclhwdqsjs_cheny.pdf"
+        },
+        {
+          "title": "苏州博物馆 · 真珠舍利宝幢",
+          "url": "https://file.szmuseum.com/WaterMark/门户网站多媒体文件/202303201516026xhtSc.pdf"
+        },
+        {
+          "title": "苏州博物馆 · 银奁",
+          "url": "https://file.szmuseum.com/WaterMark/门户网站多媒体文件/202303201516026xhtSc.pdf"
+        }
+      ],
+      "tips": [
+        "先从馆方渠道确认到访馆区、预约要求与当天开放情况。",
+        "本应用提供馆藏知识，不保证资料中每件文物当天在展。",
+        "顺序为主题观看建议，不代表馆内真实位置；请结合现场指引，累了随时休息。"
+      ],
+      "chapters": [
+        {
+          "title": "初见 · 苏州的时间入口",
+          "text": "从瓷器的釉色、宝幢的结构到银器的日常用途，认识吴地工艺与生活。今天可以先选择一件感兴趣的文物，从整体轮廓看起，再读展签。这里的推荐是主题观看线索，不代表馆内实际展陈位置。",
+          "audio": false
+        },
+        {
+          "title": "细看 · 选一处细节",
+          "text": "不必急着看完所有展厅。先找材料、纹样与用途之间的关系，再将观察与标签文字相互印证。遇到不知道的名字，可以记下展签，用观物继续查阅相关条目。",
+          "audio": false
+        },
+        {
+          "title": "带走 · 一个自己的问题",
+          "text": "结束参观前，回想今天最让你愿意停留的一件文物。它的哪一个细节改变了你的第一印象？写进手记，也可以把这个问题交给随行助手，带着来源继续探索。",
+          "audio": false
+        }
+      ]
+    },
+    {
+      "id": "wuhan",
+      "city": "武汉",
+      "roman": "WUHAN",
+      "name": "湖北省博物馆",
+      "fullName": "湖北省博物馆",
+      "kind": "综合历史馆",
+      "cover": "wuhan-exterior",
+      "gallery": [
+        "wuhan-exterior",
+        "goujian-sword",
+        "zeng-bells",
+        "zeng-zunpan"
+      ],
+      "theme": "在荆楚，读懂金石的回声",
+      "quote": "把一次旅行，变成一次认真观看。",
+      "intro": "一把剑、一套钟、一组尊盘。循着纹饰、声音与结构，进入先秦工艺的世界。",
+      "address": "武汉市武昌区东湖路160号",
+      "duration": "建议 90—120 分钟（可按体力缩短）",
+      "tags": [
+        "文物",
+        "城市漫游",
+        "观察导览"
+      ],
+      "crafts": [],
+      "artifacts": [
+        "goujian-sword",
+        "zeng-bells",
+        "zeng-zunpan"
+      ],
+      "official": "https://www.hbww.org.cn/",
+      "sources": [
+        {
+          "title": "湖北省博物馆官方网站",
+          "url": "https://www.hbww.org.cn/"
+        },
+        {
+          "title": "湖北省博物馆 · 越王勾践剑",
+          "url": "https://www.hbww.org.cn/zgzb/p/4694.html"
+        },
+        {
+          "title": "湖北省博物馆 · 曾侯乙编钟",
+          "url": "https://www.hbww.org.cn/zgzb/p/4695.html"
+        },
+        {
+          "title": "湖北省博物馆 · 曾侯乙尊盘",
+          "url": "https://www.hbww.org.cn/zgzb/p/6911.html"
+        }
+      ],
+      "tips": [
+        "先从馆方渠道确认到访馆区、预约要求与当天开放情况。",
+        "本应用提供馆藏知识，不保证资料中每件文物当天在展。",
+        "顺序为主题观看建议，不代表馆内真实位置；请结合现场指引，累了随时休息。"
+      ],
+      "chapters": [
+        {
+          "title": "初见 · 武汉的时间入口",
+          "text": "一把剑、一套钟、一组尊盘。循着纹饰、声音与结构，进入先秦工艺的世界。今天可以先选择一件感兴趣的文物，从整体轮廓看起，再读展签。这里的推荐是主题观看线索，不代表馆内实际展陈位置。",
+          "audio": false
+        },
+        {
+          "title": "细看 · 选一处细节",
+          "text": "不必急着看完所有展厅。先找材料、纹样与用途之间的关系，再将观察与标签文字相互印证。遇到不知道的名字，可以记下展签，用观物继续查阅相关条目。",
+          "audio": false
+        },
+        {
+          "title": "带走 · 一个自己的问题",
+          "text": "结束参观前，回想今天最让你愿意停留的一件文物。它的哪一个细节改变了你的第一印象？写进手记，也可以把这个问题交给随行助手，带着来源继续探索。",
+          "audio": false
+        }
+      ]
+    },
+    {
+      "id": "zhengzhou",
+      "city": "郑州",
+      "roman": "ZHENGZHOU",
+      "name": "河南博物院",
+      "fullName": "河南博物院",
+      "kind": "综合历史馆",
+      "cover": "zhengzhou-exterior",
+      "gallery": [
+        "zhengzhou-exterior",
+        "jiahu-flute",
+        "lotus-crane-hu"
+      ],
+      "theme": "在中原，看见时间的层次",
+      "quote": "把一次旅行，变成一次认真观看。",
+      "intro": "从骨笛到青铜器，不急着跨越所有年代。先挑一个细节，让远古的创造变得具体。",
+      "address": "郑州市金水区农业路8号",
+      "duration": "建议 90—120 分钟（可按体力缩短）",
+      "tags": [
+        "文物",
+        "城市漫游",
+        "观察导览"
+      ],
+      "crafts": [],
+      "artifacts": [
+        "jiahu-flute",
+        "fuhao-owl",
+        "lotus-crane-hu"
+      ],
+      "official": "https://www.chnmus.net/",
+      "sources": [
+        {
+          "title": "河南博物院官方网站",
+          "url": "https://www.chnmus.net/"
+        },
+        {
+          "title": "河南博物院 · 贾湖骨笛",
+          "url": "https://www.chnmus.net/ch/orchestra/culturalRelic/details.html?id=519116217447660468"
+        },
+        {
+          "title": "河南博物院 · 妇好鸮尊",
+          "url": "https://www.chnmus.net/ch/collection/treasure/details.html?id=508163196212274341"
+        },
+        {
+          "title": "河南博物院 · 莲鹤方壶",
+          "url": "https://www.chnmus.net/sitesources/hnsbwy/page_pc/dzjp/zpjc/articlea46f687a6905473b802616ef859d14de.html"
+        }
+      ],
+      "tips": [
+        "先从馆方渠道确认到访馆区、预约要求与当天开放情况。",
+        "本应用提供馆藏知识，不保证资料中每件文物当天在展。",
+        "顺序为主题观看建议，不代表馆内真实位置；请结合现场指引，累了随时休息。"
+      ],
+      "chapters": [
+        {
+          "title": "初见 · 郑州的时间入口",
+          "text": "从骨笛到青铜器，不急着跨越所有年代。先挑一个细节，让远古的创造变得具体。今天可以先选择一件感兴趣的文物，从整体轮廓看起，再读展签。这里的推荐是主题观看线索，不代表馆内实际展陈位置。",
+          "audio": false
+        },
+        {
+          "title": "细看 · 选一处细节",
+          "text": "不必急着看完所有展厅。先找材料、纹样与用途之间的关系，再将观察与标签文字相互印证。遇到不知道的名字，可以记下展签，用观物继续查阅相关条目。",
+          "audio": false
+        },
+        {
+          "title": "带走 · 一个自己的问题",
+          "text": "结束参观前，回想今天最让你愿意停留的一件文物。它的哪一个细节改变了你的第一印象？写进手记，也可以把这个问题交给随行助手，带着来源继续探索。",
+          "audio": false
+        }
+      ]
+    },
+    {
+      "id": "changsha",
+      "city": "长沙",
+      "roman": "CHANGSHA",
+      "name": "湖南博物院",
+      "fullName": "湖南博物院",
+      "kind": "综合历史馆",
+      "cover": "changsha-exterior",
+      "gallery": [
+        "changsha-exterior",
+        "gauze-gown",
+        "mawangdui-banner",
+        "vermilion-coffin"
+      ],
+      "theme": "在轻纱与漆色中，遇见汉代",
+      "quote": "把一次旅行，变成一次认真观看。",
+      "intro": "把目光放慢，观看马王堆出土的丝织品、帛画与漆木器。材料也能成为理解历史的入口。",
+      "address": "长沙市开福区东风路50号",
+      "duration": "建议 90—120 分钟（可按体力缩短）",
+      "tags": [
+        "文物",
+        "城市漫游",
+        "观察导览"
+      ],
+      "crafts": [],
+      "artifacts": [
+        "gauze-gown",
+        "mawangdui-banner",
+        "vermilion-coffin"
+      ],
+      "official": "https://web.hnmuseum.com/",
+      "sources": [
+        {
+          "title": "湖南博物院官方网站",
+          "url": "https://web.hnmuseum.com/"
+        },
+        {
+          "title": "湖南博物院 · 直裾素纱襌衣",
+          "url": "https://web.hnmuseum.com/en/content/changsha-mawangdui-han-dynasty-tombs-exhibition"
+        },
+        {
+          "title": "湖南博物院 · 马王堆一号墓T形帛画",
+          "url": "https://web.hnmuseum.com/en/content/changsha-mawangdui-han-dynasty-tombs-exhibition"
+        },
+        {
+          "title": "湖南博物院 · 马王堆一号墓黑地彩绘棺",
+          "url": "https://web.hnmuseum.com/en/content/changsha-mawangdui-han-dynasty-tombs-exhibition"
+        }
+      ],
+      "tips": [
+        "先从馆方渠道确认到访馆区、预约要求与当天开放情况。",
+        "本应用提供馆藏知识，不保证资料中每件文物当天在展。",
+        "顺序为主题观看建议，不代表馆内真实位置；请结合现场指引，累了随时休息。"
+      ],
+      "chapters": [
+        {
+          "title": "初见 · 长沙的时间入口",
+          "text": "把目光放慢，观看马王堆出土的丝织品、帛画与漆木器。材料也能成为理解历史的入口。今天可以先选择一件感兴趣的文物，从整体轮廓看起，再读展签。这里的推荐是主题观看线索，不代表馆内实际展陈位置。",
+          "audio": false
+        },
+        {
+          "title": "细看 · 选一处细节",
+          "text": "不必急着看完所有展厅。先找材料、纹样与用途之间的关系，再将观察与标签文字相互印证。遇到不知道的名字，可以记下展签，用观物继续查阅相关条目。",
+          "audio": false
+        },
+        {
+          "title": "带走 · 一个自己的问题",
+          "text": "结束参观前，回想今天最让你愿意停留的一件文物。它的哪一个细节改变了你的第一印象？写进手记，也可以把这个问题交给随行助手，带着来源继续探索。",
+          "audio": false
+        }
+      ]
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "agate-cup",
+      "museum": "xian",
+      "city": "西安",
+      "title": "镶金兽首玛瑙杯",
+      "period": "唐",
+      "material": "玛瑙、金",
+      "cover": "agate-cup",
+      "gallery": [
+        "agate-cup"
+      ],
+      "category": "玛瑙、金",
+      "label": "馆藏文物资料",
+      "intro": "石材自己的纹路，也参与了器物的设计。",
+      "body": "杯体以缠丝玛瑙雕成，前端为兽首，兽嘴处的金塞可以取下。馆方介绍将这种器形与“来通”酒具联系起来，同时明确其产地仍有学术争议。",
+      "look": "先找玛瑙的色带，再看色带如何顺着杯体与兽首展开。不要把关于产地的推测当成定论。",
+      "source": {
+        "title": "陕西历史博物馆 · 镶金兽首玛瑙杯",
+        "url": "https://www.sxhm.com/collections/detail/512.html"
+      },
+      "tags": [
+        "唐",
+        "玛瑙、金",
+        "西安"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "这件杯子的主要材料是什么？",
+        "options": [
+          "玛瑙",
+          "白瓷",
+          "竹"
+        ],
+        "answer": 0,
+        "explain": "先找玛瑙的色带，再看色带如何顺着杯体与兽首展开。不要把关于产地的推测当成定论。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "镶金兽首玛瑙杯。石材自己的纹路，也参与了器物的设计。杯体以缠丝玛瑙雕成，前端为兽首，兽嘴处的金塞可以取下。馆方介绍将这种器形与“来通”酒具联系起来，同时明确其产地仍有学术争议。观看时，先找玛瑙的色带，再看色带如何顺着杯体与兽首展开。不要把关于产地的推测当成定论。"
+    },
+    {
+      "id": "du-tally",
+      "museum": "xian",
+      "city": "西安",
+      "title": "错金杜虎符",
+      "period": "秦",
+      "material": "青铜、错金",
+      "cover": "du-tally",
+      "gallery": [
+        "du-tally"
+      ],
+      "category": "青铜、错金",
+      "label": "馆藏文物资料",
+      "intro": "一只小虎，保存着调兵的规则。",
+      "body": "现存的是左半符。虎身有九行四十字错金铭文，涉及君王与杜地各执一半、合符发兵的制度，也记载了烽火报警的紧急例外。",
+      "look": "看虎的行走姿态与身上的文字，想一想：凭证为什么要被分为两半？",
+      "source": {
+        "title": "陕西历史博物馆 · 错金杜虎符",
+        "url": "https://www.sxhm.com/collections/detail/518.html"
+      },
+      "tags": [
+        "秦",
+        "青铜、错金",
+        "西安"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "虎符在这里主要是什么？",
+        "options": [
+          "调兵凭证",
+          "玩具",
+          "酒杯"
+        ],
+        "answer": 0,
+        "explain": "看虎的行走姿态与身上的文字，想一想：凭证为什么要被分为两半？"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "错金杜虎符。一只小虎，保存着调兵的规则。现存的是左半符。虎身有九行四十字错金铭文，涉及君王与杜地各执一半、合符发兵的制度，也记载了烽火报警的紧急例外。观看时，看虎的行走姿态与身上的文字，想一想：凭证为什么要被分为两半？"
+    },
+    {
+      "id": "mandarin-gold-bowl",
+      "museum": "xian",
+      "city": "西安",
+      "title": "鸳鸯莲瓣纹金碗",
+      "period": "唐",
+      "material": "金",
+      "cover": "mandarin-gold-bowl",
+      "gallery": [
+        "mandarin-gold-bowl"
+      ],
+      "category": "金",
+      "label": "馆藏文物资料",
+      "intro": "金属的光，也可以读成一层层纹样。",
+      "body": "馆方将此碗断代为唐代，并列入金银器藏品。观看时，可以从器名中的“鸳鸯”与“莲瓣”两条线索入手，辨认动植物题材如何组织在碗的曲面上。",
+      "look": "先分清碗的整体器形与表面装饰，再找一个纹样单元；远看光泽，近看线条。",
+      "source": {
+        "title": "陕西历史博物馆 · 鸳鸯莲瓣纹金碗",
+        "url": "https://www.sxhm.com/collections/detail/9975.html"
+      },
+      "tags": [
+        "唐",
+        "金",
+        "西安"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "器名里的“莲瓣”指向什么观察线索？",
+        "options": [
+          "花瓣纹样",
+          "兵器长度",
+          "乐器音高"
+        ],
+        "answer": 0,
+        "explain": "先分清碗的整体器形与表面装饰，再找一个纹样单元；远看光泽，近看线条。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "鸳鸯莲瓣纹金碗。金属的光，也可以读成一层层纹样。馆方将此碗断代为唐代，并列入金银器藏品。观看时，可以从器名中的“鸳鸯”与“莲瓣”两条线索入手，辨认动植物题材如何组织在碗的曲面上。观看时，先分清碗的整体器形与表面装饰，再找一个纹样单元；远看光泽，近看线条。"
+    },
+    {
+      "id": "da-ke-ding",
+      "museum": "shanghai",
+      "city": "上海",
+      "title": "大克鼎",
+      "period": "西周中期",
+      "material": "青铜",
+      "cover": "da-ke-ding",
+      "gallery": [
+        "da-ke-ding"
+      ],
+      "category": "青铜",
+      "label": "馆藏文物资料",
+      "intro": "一件鼎，既是造型，也是文字档案。",
+      "body": "大克鼎的腹内有长篇铭文，记载作器者克及周王的册命与赏赐。鼎身装饰的波曲纹和兽面纹，为理解西周青铜艺术提供了具体线索。",
+      "look": "先看三足如何支撑鼎腹，再沿腹部纹样看它怎样重复。铭文请以馆方释读为准。",
+      "source": {
+        "title": "上海博物馆 · 大克鼎",
+        "url": "https://www.shanghaimuseum.cn/mu/frontend/pg/m/article/id/CI00000656"
+      },
+      "tags": [
+        "西周中期",
+        "青铜",
+        "上海"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "鼎内的铭文能帮助我们了解什么？",
+        "options": [
+          "册命与赏赐等历史信息",
+          "今天的交通实况",
+          "未来天气"
+        ],
+        "answer": 0,
+        "explain": "先看三足如何支撑鼎腹，再沿腹部纹样看它怎样重复。铭文请以馆方释读为准。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "大克鼎。一件鼎，既是造型，也是文字档案。大克鼎的腹内有长篇铭文，记载作器者克及周王的册命与赏赐。鼎身装饰的波曲纹和兽面纹，为理解西周青铜艺术提供了具体线索。观看时，先看三足如何支撑鼎腹，再沿腹部纹样看它怎样重复。铭文请以馆方释读为准。"
+    },
+    {
+      "id": "zi-zhong-pan",
+      "museum": "shanghai",
+      "city": "上海",
+      "title": "子仲姜盘",
+      "period": "春秋早期",
+      "material": "青铜",
+      "cover": "zi-zhong-pan",
+      "gallery": [
+        "zi-zhong-pan"
+      ],
+      "category": "青铜",
+      "label": "馆藏文物资料",
+      "intro": "静止的盘里，藏着一个水生世界。",
+      "body": "这是古代盥洗用的承水器。盘内饰有鸟、鱼、龟、蛙，立体动物能够转动；内底铭文记载了为子仲姜作盘的事情。转动结构体现了设计与铸造的巧思。",
+      "look": "在图片或展柜外观察动物的排列。想象有水时的景象，但请勿触摸或尝试转动文物。",
+      "source": {
+        "title": "上海博物馆 · 子仲姜盘",
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00000699"
+      },
+      "tags": [
+        "春秋早期",
+        "青铜",
+        "上海"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "这件盘原本属于哪一类器物？",
+        "options": [
+          "盥洗承水器",
+          "打击乐器",
+          "兵器"
+        ],
+        "answer": 0,
+        "explain": "在图片或展柜外观察动物的排列。想象有水时的景象，但请勿触摸或尝试转动文物。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "子仲姜盘。静止的盘里，藏着一个水生世界。这是古代盥洗用的承水器。盘内饰有鸟、鱼、龟、蛙，立体动物能够转动；内底铭文记载了为子仲姜作盘的事情。转动结构体现了设计与铸造的巧思。观看时，在图片或展柜外观察动物的排列。想象有水时的景象，但请勿触摸或尝试转动文物。"
+    },
+    {
+      "id": "shangyang-measure",
+      "museum": "shanghai",
+      "city": "上海",
+      "title": "商鞅方升",
+      "period": "战国（秦）",
+      "material": "青铜",
+      "cover": "shangyang-measure",
+      "gallery": [
+        "shangyang-measure"
+      ],
+      "category": "青铜",
+      "label": "馆藏文物资料",
+      "intro": "把抽象的制度，变成有形的容量。",
+      "body": "方升是古代量器。器上铭文关联商鞅时期的量制与秦统一后的诏令，是研究古代度量衡的重要实物。它的意义不只在器形，也在标准如何被记录和推行。",
+      "look": "留意方形容量空间与侧柄，再找铭文的位置。量器可以让“标准”成为可检查的东西。",
+      "source": {
+        "title": "上海博物馆 · 商鞅方升",
+        "url": "https://www.shanghaimuseum.net/resource/museum_files/show_files/20180903105852824/index.html"
+      },
+      "tags": [
+        "战国（秦）",
+        "青铜",
+        "上海"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "方升主要用来测量什么？",
+        "options": [
+          "容量",
+          "风速",
+          "音高"
+        ],
+        "answer": 0,
+        "explain": "留意方形容量空间与侧柄，再找铭文的位置。量器可以让“标准”成为可检查的东西。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "商鞅方升。把抽象的制度，变成有形的容量。方升是古代量器。器上铭文关联商鞅时期的量制与秦统一后的诏令，是研究古代度量衡的重要实物。它的意义不只在器形，也在标准如何被记录和推行。观看时，留意方形容量空间与侧柄，再找铭文的位置。量器可以让“标准”成为可检查的东西。"
+    },
+    {
+      "id": "lotus-bowl",
+      "museum": "suzhou",
+      "city": "苏州",
+      "title": "秘色瓷莲花碗",
+      "period": "五代",
+      "material": "青瓷",
+      "cover": "suzhou-exterior",
+      "gallery": [
+        "suzhou-exterior"
+      ],
+      "category": "青瓷",
+      "label": "馆藏知识 · 配图为馆舍",
+      "intro": "碗与托相遇，像一朵被釉色凝住的花。",
+      "body": "此器由碗与盏托组成，是苏州博物馆馆藏珍品。馆方研究文章讨论了它从虎丘塔发现后，如何逐步被认识为秘色瓷的过程。",
+      "look": "分别观察碗与盏托的莲花装饰，再看两者组合时轮廓如何呼应。",
+      "source": {
+        "title": "苏州博物馆 · 秘色瓷莲花碗",
+        "url": "https://file.szmuseum.com/WaterMark/门户网站多媒体文件/academic/2019/201911_msclhwdqsjs_cheny.pdf"
+      },
+      "tags": [
+        "五代",
+        "青瓷",
+        "苏州"
+      ],
+      "sourceRemarks": "当前配图为苏州博物馆馆舍资料照片，不是此文物照片。本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "莲花碗由哪些部分组成？",
+        "options": [
+          "碗与盏托",
+          "钟与钟架",
+          "剑与盾"
+        ],
+        "answer": 0,
+        "explain": "分别观察碗与盏托的莲花装饰，再看两者组合时轮廓如何呼应。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "秘色瓷莲花碗。碗与托相遇，像一朵被釉色凝住的花。此器由碗与盏托组成，是苏州博物馆馆藏珍品。馆方研究文章讨论了它从虎丘塔发现后，如何逐步被认识为秘色瓷的过程。观看时，分别观察碗与盏托的莲花装饰，再看两者组合时轮廓如何呼应。"
+    },
+    {
+      "id": "pearl-pillar",
+      "museum": "suzhou",
+      "city": "苏州",
+      "title": "真珠舍利宝幢",
+      "period": "北宋",
+      "material": "复合材料工艺",
+      "cover": "pearl-pillar",
+      "gallery": [
+        "pearl-pillar"
+      ],
+      "category": "复合材料工艺",
+      "label": "馆藏文物资料",
+      "intro": "细密的装饰，需要从结构开始看。",
+      "body": "宝幢是苏州博物馆馆藏珍品，与瑞光塔出土文物相关。与其一下寻找所有细部，不如先分辨底座、主体与顶部，理解多层结构怎样构成整体。",
+      "look": "从下向上看层次，再挑一处连接或装饰停留。原件与复制件要以现场标识区分。",
+      "source": {
+        "title": "苏州博物馆 · 真珠舍利宝幢",
+        "url": "https://file.szmuseum.com/WaterMark/门户网站多媒体文件/202303201516026xhtSc.pdf"
+      },
+      "tags": [
+        "北宋",
+        "复合材料工艺",
+        "苏州"
+      ],
+      "sourceRemarks": "照片来源标题指向瑞光寺塔宝幢，描述栏误写“虎丘”；本条按馆方资料采用瑞光塔关联，不沿用该误写。照片未明确原件或复制件，不作原件承诺。",
+      "quiz": {
+        "question": "观看宝幢适合先做什么？",
+        "options": [
+          "分辨整体层次",
+          "触碰装饰件",
+          "隔着展柜敲击"
+        ],
+        "answer": 0,
+        "explain": "从下向上看层次，再挑一处连接或装饰停留。原件与复制件要以现场标识区分。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "真珠舍利宝幢。细密的装饰，需要从结构开始看。宝幢是苏州博物馆馆藏珍品，与瑞光塔出土文物相关。与其一下寻找所有细部，不如先分辨底座、主体与顶部，理解多层结构怎样构成整体。观看时，从下向上看层次，再挑一处连接或装饰停留。原件与复制件要以现场标识区分。"
+    },
+    {
+      "id": "silver-lian",
+      "museum": "suzhou",
+      "city": "苏州",
+      "title": "银奁",
+      "period": "馆藏银器（年代见馆方展签）",
+      "material": "银",
+      "cover": "suzhou-exterior",
+      "gallery": [
+        "suzhou-exterior"
+      ],
+      "category": "银",
+      "label": "馆藏知识 · 配图为馆舍",
+      "intro": "从精巧容器，想象日常生活。",
+      "body": "苏州博物馆的官方参观折页将银奁列入馆藏珍品。奁是一类盛放梳妆用具的容器，观看时可以关注“收纳”这一日常需求怎样变成工艺设计。",
+      "look": "看整体轮廓、分层与配套小件，想想不同大小的物件会怎样被安排。",
+      "source": {
+        "title": "苏州博物馆 · 银奁",
+        "url": "https://file.szmuseum.com/WaterMark/门户网站多媒体文件/202303201516026xhtSc.pdf"
+      },
+      "tags": [
+        "馆藏银器（年代见馆方展签）",
+        "银",
+        "苏州"
+      ],
+      "sourceRemarks": "当前配图为苏州博物馆馆舍资料照片，不是此文物照片。本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "“奁”通常与哪类生活用途相关？",
+        "options": [
+          "梳妆收纳",
+          "测量风速",
+          "城墙防御"
+        ],
+        "answer": 0,
+        "explain": "看整体轮廓、分层与配套小件，想想不同大小的物件会怎样被安排。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "银奁。从精巧容器，想象日常生活。苏州博物馆的官方参观折页将银奁列入馆藏珍品。奁是一类盛放梳妆用具的容器，观看时可以关注“收纳”这一日常需求怎样变成工艺设计。观看时，看整体轮廓、分层与配套小件，想想不同大小的物件会怎样被安排。"
+    },
+    {
+      "id": "goujian-sword",
+      "museum": "wuhan",
+      "city": "武汉",
+      "title": "越王勾践剑",
+      "period": "春秋晚期",
+      "material": "青铜",
+      "cover": "goujian-sword",
+      "gallery": [
+        "goujian-sword"
+      ],
+      "category": "青铜",
+      "label": "馆藏文物资料",
+      "intro": "把目光从锋利，移向纹饰与文字。",
+      "body": "此剑于1965年出土于湖北江陵望山一号楚墓。剑身有黑色菱形花纹，近剑格处有鸟篆铭文。馆方说明将铭文中的“鸠浅”考证为勾践。",
+      "look": "观察剑身菱形纹与剑格的镶嵌，再找铭文所在区域。不要凭肉眼照片自行辨认全部古文字。",
+      "source": {
+        "title": "湖北省博物馆 · 越王勾践剑",
+        "url": "https://www.hbww.org.cn/zgzb/p/4694.html"
+      },
+      "tags": [
+        "春秋晚期",
+        "青铜",
+        "武汉"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "剑上铭文属于哪类观察线索？",
+        "options": [
+          "文字与身份线索",
+          "现代生产条码",
+          "导航二维码"
+        ],
+        "answer": 0,
+        "explain": "观察剑身菱形纹与剑格的镶嵌，再找铭文所在区域。不要凭肉眼照片自行辨认全部古文字。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "越王勾践剑。把目光从锋利，移向纹饰与文字。此剑于1965年出土于湖北江陵望山一号楚墓。剑身有黑色菱形花纹，近剑格处有鸟篆铭文。馆方说明将铭文中的“鸠浅”考证为勾践。观看时，观察剑身菱形纹与剑格的镶嵌，再找铭文所在区域。不要凭肉眼照片自行辨认全部古文字。"
+    },
+    {
+      "id": "zeng-bells",
+      "museum": "wuhan",
+      "city": "武汉",
+      "title": "曾侯乙编钟",
+      "period": "战国早期",
+      "material": "青铜、木",
+      "cover": "zeng-bells",
+      "gallery": [
+        "zeng-bells"
+      ],
+      "category": "青铜、木",
+      "label": "馆藏文物资料",
+      "intro": "声音的秩序，也能被铸进器物。",
+      "body": "1978年出土于曾侯乙墓的这套编钟共六十五件，分层成组悬挂。钟与相关构件上的铭文保存了记事、标音与乐律知识。",
+      "look": "先看大小钟如何排列，再观察钟体形状。应用导览语音不是原编钟的实录。",
+      "source": {
+        "title": "湖北省博物馆 · 曾侯乙编钟",
+        "url": "https://www.hbww.org.cn/zgzb/p/4695.html"
+      },
+      "tags": [
+        "战国早期",
+        "青铜、木",
+        "武汉"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "这套编钟共有多少件？",
+        "options": [
+          "65件",
+          "5件",
+          "650件"
+        ],
+        "answer": 0,
+        "explain": "先看大小钟如何排列，再观察钟体形状。应用导览语音不是原编钟的实录。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "曾侯乙编钟。声音的秩序，也能被铸进器物。1978年出土于曾侯乙墓的这套编钟共六十五件，分层成组悬挂。钟与相关构件上的铭文保存了记事、标音与乐律知识。观看时，先看大小钟如何排列，再观察钟体形状。应用导览语音不是原编钟的实录。"
+    },
+    {
+      "id": "zeng-zunpan",
+      "museum": "wuhan",
+      "city": "武汉",
+      "title": "曾侯乙尊盘",
+      "period": "战国早期",
+      "material": "青铜",
+      "cover": "zeng-zunpan",
+      "gallery": [
+        "zeng-zunpan"
+      ],
+      "category": "青铜",
+      "label": "馆藏文物资料",
+      "intro": "像云，也像彼此盘绕的龙蛇。",
+      "body": "尊盘由尊与盘两件器物组成，1978年出土于曾侯乙墓。口沿的多层镂空附饰与器身龙蛇纹，展现了复杂的结构设计。",
+      "look": "把目光放在口沿，分辨表面花纹与支撑它的结构；复杂的视觉效果并不是一张平面图案。",
+      "source": {
+        "title": "湖北省博物馆 · 曾侯乙尊盘",
+        "url": "https://www.hbww.org.cn/zgzb/p/6911.html"
+      },
+      "tags": [
+        "战国早期",
+        "青铜",
+        "武汉"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "尊盘由什么组成？",
+        "options": [
+          "尊与盘两件器物",
+          "一件剑与剑鞘",
+          "三只碗"
+        ],
+        "answer": 0,
+        "explain": "把目光放在口沿，分辨表面花纹与支撑它的结构；复杂的视觉效果并不是一张平面图案。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "曾侯乙尊盘。像云，也像彼此盘绕的龙蛇。尊盘由尊与盘两件器物组成，1978年出土于曾侯乙墓。口沿的多层镂空附饰与器身龙蛇纹，展现了复杂的结构设计。观看时，把目光放在口沿，分辨表面花纹与支撑它的结构；复杂的视觉效果并不是一张平面图案。"
+    },
+    {
+      "id": "jiahu-flute",
+      "museum": "zhengzhou",
+      "city": "郑州",
+      "title": "贾湖骨笛",
+      "period": "新石器时代",
+      "material": "骨",
+      "cover": "jiahu-flute",
+      "gallery": [
+        "jiahu-flute"
+      ],
+      "category": "骨",
+      "label": "馆藏文物资料",
+      "intro": "远古的声音，先留下了孔与管。",
+      "body": "河南舞阳贾湖遗址出土的骨笛，是研究早期音乐的重要实物。馆方资料介绍其以鸟类肢骨制成，开孔与调音反映了制作者对声音的认识。",
+      "look": "沿骨管观察音孔的排列。音孔数量与具体音阶不能简单画等号，声音还取决于器物与演奏方式。",
+      "source": {
+        "title": "河南博物院 · 贾湖骨笛",
+        "url": "https://www.chnmus.net/ch/orchestra/culturalRelic/details.html?id=519116217447660468"
+      },
+      "tags": [
+        "新石器时代",
+        "骨",
+        "郑州"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "骨笛最直接的制作材料是什么？",
+        "options": [
+          "骨",
+          "玻璃",
+          "金"
+        ],
+        "answer": 0,
+        "explain": "沿骨管观察音孔的排列。音孔数量与具体音阶不能简单画等号，声音还取决于器物与演奏方式。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "贾湖骨笛。远古的声音，先留下了孔与管。河南舞阳贾湖遗址出土的骨笛，是研究早期音乐的重要实物。馆方资料介绍其以鸟类肢骨制成，开孔与调音反映了制作者对声音的认识。观看时，沿骨管观察音孔的排列。音孔数量与具体音阶不能简单画等号，声音还取决于器物与演奏方式。"
+    },
+    {
+      "id": "fuhao-owl",
+      "museum": "zhengzhou",
+      "city": "郑州",
+      "title": "妇好鸮尊",
+      "period": "商代晚期",
+      "material": "青铜",
+      "cover": "zhengzhou-exterior",
+      "gallery": [
+        "zhengzhou-exterior"
+      ],
+      "category": "青铜",
+      "label": "馆藏知识 · 配图为馆舍",
+      "intro": "把鸟的形象，转化为稳固的器物。",
+      "body": "鸮尊出土于安阳殷墟妇好墓，因内壁“妇好”铭文得名。双足与下垂的宽尾构成三点支撑，猫头鹰形象与盛酒器的功能结合。",
+      "look": "看双足与尾巴怎样共同支撑器身，再找器物开口与盖的位置。同墓出土的近似鸮尊分藏不同馆，不混作同一件。",
+      "source": {
+        "title": "河南博物院 · 妇好鸮尊",
+        "url": "https://www.chnmus.net/ch/collection/treasure/details.html?id=508163196212274341"
+      },
+      "tags": [
+        "商代晚期",
+        "青铜",
+        "郑州"
+      ],
+      "sourceRemarks": "当前配图为河南博物院馆舍资料照片，不是此文物照片。本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "鸮尊的尾巴还起到了什么作用？",
+        "options": [
+          "帮助支撑器身",
+          "吹奏旋律",
+          "测量容量标准"
+        ],
+        "answer": 0,
+        "explain": "看双足与尾巴怎样共同支撑器身，再找器物开口与盖的位置。同墓出土的近似鸮尊分藏不同馆，不混作同一件。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "妇好鸮尊。把鸟的形象，转化为稳固的器物。鸮尊出土于安阳殷墟妇好墓，因内壁“妇好”铭文得名。双足与下垂的宽尾构成三点支撑，猫头鹰形象与盛酒器的功能结合。观看时，看双足与尾巴怎样共同支撑器身，再找器物开口与盖的位置。同墓出土的近似鸮尊分藏不同馆，不混作同一件。"
+    },
+    {
+      "id": "lotus-crane-hu",
+      "museum": "zhengzhou",
+      "city": "郑州",
+      "title": "莲鹤方壶",
+      "period": "春秋",
+      "material": "青铜",
+      "cover": "lotus-crane-hu",
+      "gallery": [
+        "lotus-crane-hu"
+      ],
+      "category": "青铜",
+      "label": "馆藏文物资料",
+      "intro": "厚重的青铜上，一只鹤正展开翅膀。",
+      "body": "壶盖上有莲瓣形装饰，中间立着展翅的鹤。器身还有龙形耳与立体小兽。1923年河南新郑出土的一对莲鹤方壶，分别藏于河南博物院与故宫博物院。",
+      "look": "从底部承托的小兽一直看到顶部的鹤，感受重量与向上动势之间的关系；本页照片为河南博物院藏器。",
+      "source": {
+        "title": "河南博物院 · 莲鹤方壶",
+        "url": "https://www.chnmus.net/sitesources/hnsbwy/page_pc/dzjp/zpjc/articlea46f687a6905473b802616ef859d14de.html"
+      },
+      "tags": [
+        "春秋",
+        "青铜",
+        "郑州"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "壶盖顶部站立的是什么？",
+        "options": [
+          "鹤",
+          "马",
+          "鱼"
+        ],
+        "answer": 0,
+        "explain": "从底部承托的小兽一直看到顶部的鹤，感受重量与向上动势之间的关系；本页照片为河南博物院藏器。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "莲鹤方壶。厚重的青铜上，一只鹤正展开翅膀。壶盖上有莲瓣形装饰，中间立着展翅的鹤。器身还有龙形耳与立体小兽。1923年河南新郑出土的一对莲鹤方壶，分别藏于河南博物院与故宫博物院。观看时，从底部承托的小兽一直看到顶部的鹤，感受重量与向上动势之间的关系；本页照片为河南博物院藏器。"
+    },
+    {
+      "id": "gauze-gown",
+      "museum": "changsha",
+      "city": "长沙",
+      "title": "直裾素纱襌衣",
+      "period": "西汉",
+      "material": "丝织品",
+      "cover": "gauze-gown",
+      "gallery": [
+        "gauze-gown"
+      ],
+      "category": "丝织品",
+      "label": "馆藏文物资料",
+      "intro": "轻薄，不等于简单。",
+      "body": "这件出自马王堆一号汉墓的纱衣，是理解汉代丝织工艺的重要实物。“襌”读作dān，指没有衬里的单衣。观察轻纱与缘边，可以看到不同织物各司其职。",
+      "look": "先看领口、袖口与衣身的差异，再观察纱的透明感。用途存在讨论，不把某种穿法当作唯一答案。",
+      "source": {
+        "title": "湖南博物院 · 直裾素纱襌衣",
+        "url": "https://web.hnmuseum.com/en/content/changsha-mawangdui-han-dynasty-tombs-exhibition"
+      },
+      "tags": [
+        "西汉",
+        "丝织品",
+        "长沙"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "“襌衣”的“襌”在这里是什么意思？",
+        "options": [
+          "没有衬里的单衣",
+          "专供僧人穿的禅衣",
+          "厚棉袄"
+        ],
+        "answer": 0,
+        "explain": "先看领口、袖口与衣身的差异，再观察纱的透明感。用途存在讨论，不把某种穿法当作唯一答案。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "直裾素纱襌衣。轻薄，不等于简单。这件出自马王堆一号汉墓的纱衣，是理解汉代丝织工艺的重要实物。“襌”读作dān，指没有衬里的单衣。观察轻纱与缘边，可以看到不同织物各司其职。观看时，先看领口、袖口与衣身的差异，再观察纱的透明感。用途存在讨论，不把某种穿法当作唯一答案。"
+    },
+    {
+      "id": "mawangdui-banner",
+      "museum": "changsha",
+      "city": "长沙",
+      "title": "马王堆一号墓T形帛画",
+      "period": "西汉",
+      "material": "绢帛、设色",
+      "cover": "mawangdui-banner",
+      "gallery": [
+        "mawangdui-banner"
+      ],
+      "category": "绢帛、设色",
+      "label": "馆藏文物资料",
+      "intro": "一张帛画，展开一个关于生命的世界。",
+      "body": "画作上宽下窄，呈T形。沿着画面上下的层次，可观察天上、人间与地下的形象安排。这是理解汉代观念与绘画的重要材料，具体图像解释仍需结合学术研究。",
+      "look": "先沿中轴从上到下看构图，再选择一个人物或动物追问其位置；本页对应一号墓，不与三号墓帛画混淆。",
+      "source": {
+        "title": "湖南博物院 · 马王堆一号墓T形帛画",
+        "url": "https://web.hnmuseum.com/en/content/changsha-mawangdui-han-dynasty-tombs-exhibition"
+      },
+      "tags": [
+        "西汉",
+        "绢帛、设色",
+        "长沙"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "本条对应哪一座墓的帛画？",
+        "options": [
+          "马王堆一号墓",
+          "马王堆三号墓",
+          "曾侯乙墓"
+        ],
+        "answer": 0,
+        "explain": "先沿中轴从上到下看构图，再选择一个人物或动物追问其位置；本页对应一号墓，不与三号墓帛画混淆。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "马王堆一号墓T形帛画。一张帛画，展开一个关于生命的世界。画作上宽下窄，呈T形。沿着画面上下的层次，可观察天上、人间与地下的形象安排。这是理解汉代观念与绘画的重要材料，具体图像解释仍需结合学术研究。观看时，先沿中轴从上到下看构图，再选择一个人物或动物追问其位置；本页对应一号墓，不与三号墓帛画混淆。"
+    },
+    {
+      "id": "vermilion-coffin",
+      "museum": "changsha",
+      "city": "长沙",
+      "title": "马王堆一号墓朱地彩绘棺",
+      "period": "西汉",
+      "material": "漆木",
+      "cover": "vermilion-coffin",
+      "gallery": [
+        "vermilion-coffin"
+      ],
+      "category": "漆木",
+      "label": "馆藏文物资料",
+      "intro": "朱红为底，让线条与生灵流动。",
+      "body": "朱地彩绘棺是马王堆一号墓四层套棺中由外向内的第三层。内外髹朱漆，外壁以多种明亮颜色绘出图案，展示了汉代漆器与绘画的结合。",
+      "look": "先观察朱红底色与彩绘线条的对比，再挑一处图像细看。本页是朱地彩绘棺的局部照片，不与黑地彩绘棺混称。",
+      "source": {
+        "title": "湖南省文化和旅游厅 · 马王堆文物介绍",
+        "url": "https://whhlyt.hunan.gov.cn/news/gzdt/201810/t20181009_5371852.html"
+      },
+      "tags": [
+        "西汉",
+        "漆木",
+        "长沙"
+      ],
+      "sourceRemarks": "本条为馆藏知识介绍，资料图片不构成当天展出的承诺；原件、复制件及展陈位置以馆方现场说明为准。",
+      "quiz": {
+        "question": "本条照片展示的棺以什么颜色为底？",
+        "options": [
+          "朱红",
+          "纯黑",
+          "蓝白瓷釉"
+        ],
+        "answer": 0,
+        "explain": "本页对应朱地彩绘棺，是套棺的第三层；不是黑地彩绘棺。"
+      },
+      "steps": [
+        "先看整体轮廓与材料。",
+        "再带着观察提示找一个细节。",
+        "对照展签与来源，记录自己的问题。"
+      ],
+      "audioText": "马王堆一号墓朱地彩绘棺。朱红为底，让线条与生灵流动。朱地彩绘棺是马王堆一号墓四层套棺中由外向内的第三层。内外髹朱漆，外壁以多种明亮颜色绘出图案，展示了汉代漆器与绘画的结合。先观察朱红底色与彩绘线条的对比，再挑一处图像细看。本页是朱地彩绘棺的局部照片，不与黑地彩绘棺混称。"
+    }
+  ],
+  "images": {
+    "xian-exterior": {
+      "id": "xian-exterior",
+      "src": "assets/expansion/xian-exterior.jpg",
+      "caption": "陕西历史博物馆馆舍资料图",
+      "title": "File:陕西历史博物馆.jpg",
+      "author": "Liuxingy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%99%95%E8%A5%BF%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/35/%E9%99%95%E8%A5%BF%E5%8E%86%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 960,
+      "height": 720
+    },
+    "shanghai-exterior": {
+      "id": "shanghai-exterior",
+      "src": "assets/expansion/shanghai-exterior.jpg",
+      "caption": "上海博物馆人民广场馆馆舍资料图",
+      "title": "File:Shanghai Museum exterior 1.jpg",
+      "author": "Hanjiang 2009 (寒江2009)",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Museum_exterior_1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shanghai_Museum_exterior_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 842,
+      "height": 542
+    },
+    "suzhou-exterior": {
+      "id": "suzhou-exterior",
+      "src": "assets/expansion/suzhou-exterior.jpg",
+      "caption": "苏州博物馆本馆建筑资料图",
+      "title": "File:Suzhou Museum - new buildings.jpg",
+      "author": "This illustration was made by Peter Potrowl.\nPlease credit this with : © Peter Potrowl in the immediate vicinity of the image. A link to my website sitemai.eu would be much appreciated but isn't mandatory.\nAn email to\n\nPeter Potrowl would be appreciated too.\nDo not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain.\nIf you would like special permission to use, license, or purchase the image please contact me Peter Potrowl to negotiate terms.\nMore free pictures in my website. Donations are accepted here and here.\n\n (talk)",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Suzhou_Museum_-_new_buildings.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Suzhou_Museum_-_new_buildings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 960,
+      "height": 720
+    },
+    "wuhan-exterior": {
+      "id": "wuhan-exterior",
+      "src": "assets/expansion/wuhan-exterior.jpg",
+      "caption": "湖北省博物馆馆舍历史资料图",
+      "title": "File:Hubei Provincial Museum.JPG",
+      "author": "No machine-readable author provided. 风之清扬 assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hubei_Provincial_Museum.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hubei_Provincial_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 960,
+      "height": 720
+    },
+    "zhengzhou-exterior": {
+      "id": "zhengzhou-exterior",
+      "src": "assets/expansion/zhengzhou-exterior.jpg",
+      "caption": "河南博物院主展馆资料图",
+      "title": "File:20210220 Henan Museum - main hall 01.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:20210220_Henan_Museum_-_main_hall_01.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/20210220_Henan_Museum_-_main_hall_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 853
+    },
+    "changsha-exterior": {
+      "id": "changsha-exterior",
+      "src": "assets/expansion/changsha-exterior.jpg",
+      "caption": "湖南博物院馆舍资料图",
+      "title": "File:New building of Hunan Museum 2023030102.jpg",
+      "author": "Huangdan2060",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:New_building_of_Hunan_Museum_2023030102.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/New_building_of_Hunan_Museum_2023030102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 960,
+      "height": 720
+    },
+    "agate-cup": {
+      "id": "agate-cup",
+      "src": "assets/expansion/agate-cup.jpg",
+      "caption": "镶金兽首玛瑙杯资料照片",
+      "title": "File:Agate Cup in the Shape of an Ox with a Gold Mouth (8661290894).jpg",
+      "author": "momo from Hong Kong",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Agate_Cup_in_the_Shape_of_an_Ox_with_a_Gold_Mouth_(8661290894).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Agate_Cup_in_the_Shape_of_an_Ox_with_a_Gold_Mouth_%288661290894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1600,
+      "height": 1200
+    },
+    "du-tally": {
+      "id": "du-tally",
+      "src": "assets/expansion/du-tally.jpg",
+      "caption": "杜虎符资料照片",
+      "title": "File:Qin tiger tally, Shaanxi History Museum.jpg",
+      "author": "Deadkid dk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Qin_tiger_tally,_Shaanxi_History_Museum.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/Qin_tiger_tally%2C_Shaanxi_History_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 960
+    },
+    "da-ke-ding": {
+      "id": "da-ke-ding",
+      "src": "assets/expansion/da-ke-ding.jpg",
+      "caption": "大克鼎资料照片",
+      "title": "File:Da Ke ding.jpg",
+      "author": "Mountain；旋转与裁切：Meidosensei",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Da_Ke_ding.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/Da_Ke_ding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 960,
+      "height": 859
+    },
+    "shangyang-measure": {
+      "id": "shangyang-measure",
+      "src": "assets/expansion/shangyang-measure.jpg",
+      "caption": "商鞅方升资料照片",
+      "title": "File:商鞅方升 163919.jpg",
+      "author": "Hpppp0527",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%95%86%E9%9E%85%E6%96%B9%E5%8D%87_163919.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/%E5%95%86%E9%9E%85%E6%96%B9%E5%8D%87_163919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1200,
+      "height": 1600
+    },
+    "pearl-pillar": {
+      "id": "pearl-pillar",
+      "src": "assets/expansion/pearl-pillar.jpg",
+      "caption": "真珠舍利宝幢资料照片；原件或复制件以现场标识为准",
+      "title": "File:瑞光寺塔出土真珠舍利宝幢.jpg",
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%91%9E%E5%85%89%E5%AF%BA%E5%A1%94%E5%87%BA%E5%9C%9F%E7%9C%9F%E7%8F%A0%E8%88%8D%E5%88%A9%E5%AE%9D%E5%B9%A2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E7%91%9E%E5%85%89%E5%AF%BA%E5%A1%94%E5%87%BA%E5%9C%9F%E7%9C%9F%E7%8F%A0%E8%88%8D%E5%88%A9%E5%AE%9D%E5%B9%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1068,
+      "height": 1600
+    },
+    "goujian-sword": {
+      "id": "goujian-sword",
+      "src": "assets/expansion/goujian-sword.jpg",
+      "caption": "越王勾践剑资料照片",
+      "title": "File:20230208 Bronze sword used by King Goujian of Yue 01.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:20230208_Bronze_sword_used_by_King_Goujian_of_Yue_01.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/20230208_Bronze_sword_used_by_King_Goujian_of_Yue_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1600,
+      "height": 1067
+    },
+    "zeng-bells": {
+      "id": "zeng-bells",
+      "src": "assets/expansion/zeng-bells.jpg",
+      "caption": "曾侯乙编钟资料照片",
+      "title": "File:20230208 Chime bells of Marquis Yi of Zeng.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:20230208_Chime_bells_of_Marquis_Yi_of_Zeng.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/20230208_Chime_bells_of_Marquis_Yi_of_Zeng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 853
+    },
+    "zeng-zunpan": {
+      "id": "zeng-zunpan",
+      "src": "assets/expansion/zeng-zunpan.jpg",
+      "caption": "曾侯乙尊盘资料照片",
+      "title": "File:曾侯乙青铜尊盘，2015-04-06 02.jpg",
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%9B%BE%E4%BE%AF%E4%B9%99%E9%9D%92%E9%93%9C%E5%B0%8A%E7%9B%98%EF%BC%8C2015-04-06_02.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/61/%E6%9B%BE%E4%BE%AF%E4%B9%99%E9%9D%92%E9%93%9C%E5%B0%8A%E7%9B%98%EF%BC%8C2015-04-06_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 852
+    },
+    "jiahu-flute": {
+      "id": "jiahu-flute",
+      "src": "assets/expansion/jiahu-flute.jpg",
+      "caption": "河南博物院贾湖骨笛资料照片",
+      "title": "File:Neolithic bone flute.jpg",
+      "author": "asgitner",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Neolithic_bone_flute.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Neolithic_bone_flute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 960
+    },
+    "gauze-gown": {
+      "id": "gauze-gown",
+      "src": "assets/expansion/gauze-gown.jpg",
+      "caption": "直裾素纱襌衣资料照片",
+      "title": "File:直裾素纱襌衣, 2018-09-28.jpg",
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%9B%B4%E8%A3%BE%E7%B4%A0%E7%BA%B1%E8%A5%8C%E8%A1%A3,_2018-09-28.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%E7%9B%B4%E8%A3%BE%E7%B4%A0%E7%BA%B1%E8%A5%8C%E8%A1%A3%2C_2018-09-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 854
+    },
+    "mawangdui-banner": {
+      "id": "mawangdui-banner",
+      "src": "assets/expansion/mawangdui-banner.jpg",
+      "caption": "马王堆一号墓T形帛画资料图",
+      "title": "File:Mawangdui silk banner from tomb no1.jpg",
+      "author": "anonymous",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Mawangdui_silk_banner_from_tomb_no1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mawangdui_silk_banner_from_tomb_no1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 642,
+      "height": 1600
+    },
+    "mandarin-gold-bowl": {
+      "id": "mandarin-gold-bowl",
+      "src": "assets/expansion/mandarin-gold-bowl.jpg",
+      "caption": "鸳鸯莲瓣纹金碗资料照片",
+      "title": "File:Flickr - archer10 (Dennis) - DSCN7418BB.jpg",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_DSCN7418BB.jpg",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 965,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg"
+    },
+    "lotus-crane-hu": {
+      "id": "lotus-crane-hu",
+      "src": "assets/expansion/lotus-crane-hu.jpg",
+      "caption": "河南博物院莲鹤方壶资料照片",
+      "title": "File:Lotus and crane rectangular hu.jpg",
+      "author": "风之清扬",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lotus_and_crane_rectangular_hu.jpg",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1200,
+      "height": 1600,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lotus_and_crane_rectangular_hu.jpg"
+    },
+    "zi-zhong-pan": {
+      "id": "zi-zhong-pan",
+      "src": "assets/expansion/zi-zhong-pan.jpg",
+      "caption": "子仲姜盘资料照片",
+      "title": "File:Zi Zhong Jiang pan bronzeware.jpg",
+      "author": "Alexey Yakovlev",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Zi_Zhong_Jiang_pan_bronzeware.jpg",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 960,
+      "height": 686,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Zi_Zhong_Jiang_pan_bronzeware.jpg"
+    },
+    "vermilion-coffin": {
+      "id": "vermilion-coffin",
+      "src": "assets/expansion/vermilion-coffin.jpg",
+      "caption": "马王堆一号墓朱地彩绘棺局部资料照片；来源文件Second Coffin按由内向外计数",
+      "title": "File:Mawangdui Han Second Coffin from Tomb -1 (10113121234).jpg",
+      "author": "Gary Todd from Xinzheng, China",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Mawangdui_Han_Second_Coffin_from_Tomb_-1_(10113121234).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mawangdui_Han_Second_Coffin_from_Tomb_-1_%2810113121234%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "changes": "缩放并转为 JPEG；界面可能裁切，沿用原许可",
+      "width": 1280,
+      "height": 853
+    }
+  },
+  "version": 1,
+  "updated": "2026-10-24"
+};
+if(typeof module!=="undefined"&&module.exports)module.exports=data;else root.GUANWU_EXPANSION=data;
+})(typeof window!=="undefined"?window:globalThis);

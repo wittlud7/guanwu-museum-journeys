@@ -3,7 +3,7 @@
     "pages/atlas/index"
   ],
   "window": {
-    "navigationBarTitleText": "观物 · 城市非遗指南",
+    "navigationBarTitleText": "观物 · 城市博物馆指南",
     "navigationBarBackgroundColor": "#f7f7f2",
     "navigationBarTextStyle": "black",
     "backgroundColor": "#f7f7f2"
@@ -42,6 +42,48 @@
     {
       "root": "media/guangzhou",
       "name": "guangzhou",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/xian",
+      "name": "xian",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/shanghai",
+      "name": "shanghai",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/suzhou",
+      "name": "suzhou",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/wuhan",
+      "name": "wuhan",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/zhengzhou",
+      "name": "zhengzhou",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/changsha",
+      "name": "changsha",
       "pages": [
         "guide/index"
       ]

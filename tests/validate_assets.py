@@ -4,7 +4,9 @@ from PIL import Image
 root=Path(__file__).resolve().parents[1]
 data=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/heritage-data.js')))"],cwd=root,encoding='utf-8'))
 credits=json.loads((root/'dist/assets/heritage/credits.json').read_text(encoding='utf-8'))
-for item in data['museums']+data['crafts']:
+expansion=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/expansion-data.js')))"],cwd=root,encoding='utf-8'))
+credits.update(expansion['images'])
+for item in data['museums']+data['crafts']+expansion['museums']+expansion['artifacts']:
  assert item['cover']==item['gallery'][0],item['id']+' cover/gallery mismatch'
  for key in item['gallery']:
   credit=credits[key];assert credit['license'] and credit['source'] and credit['author']

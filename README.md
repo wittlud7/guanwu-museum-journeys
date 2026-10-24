@@ -1,10 +1,12 @@
-# 观物 · 中国城市非遗指南
+# 观物 · 城市博物馆指南
 
-从中国城市的非遗场馆出发，连接影像、手艺与随身语音导览。移动端底部导航，桌面端策展式布局，无网页构建依赖。
+11 城 11 馆、18 件真实文物与 8 个工艺专题，连接影像、阅读、语音与 DeepSeek 随行伴游。浏览器小程序尺寸预览为 `mini.html`；微信原生工程在 `miniprogram/`。
+
+2026-10-24 更新：新增西安、上海、苏州、武汉、郑州、长沙。DeepSeek 已真实验证资料查询、来源回答和确认加入行程。新增场馆提供阅读导览；原有 23 段音频保留。三件文物缺可靠同物照片，清楚标注馆舍配图。接入与发布说明见 [DEEPSEEK.md](DEEPSEEK.md)。
 
 ## 本地体验
 
-运行 `python scripts/preview.py`，访问 http://localhost:4173。预览服务器支持音频字节范围请求，能准确测试拖动进度。离线下载需要 HTTPS 或 localhost。
+运行 `node scripts/preview.mjs`，访问 http://localhost:4173/mini.html 。服务端读取私密配置，提供真实 AI 与音频字节范围请求。`settings.json` 已被 Git 忽略，禁止放进前端或发布资源。只需静态阅览时仍可使用 `python scripts/preview.py`，但不提供 AI 接口。离线下载需要 HTTPS 或 localhost。
 
 微信原生工程位于 `miniprogram/`，导入方式见其 README。网页首版的4件中国艺术开放馆藏保留在 `dist/classic/index.html`，可从“关于观物”进入。
 

@@ -1,0 +1,104 @@
+[
+  {
+    "pageid": 67386792,
+    "ns": 6,
+    "title": "File:Fuhao Owl Zun front.jpg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Fuhao_Owl_Zun_front.jpg/960px-Fuhao_Owl_Zun_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1439,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Fuhao_Owl_Zun_front.jpg/1920px-Fuhao_Owl_Zun_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Fuhao_Owl_Zun_front.jpg/960px-Fuhao_Owl_Zun_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1439,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Fuhao_Owl_Zun_front.jpg/1920px-Fuhao_Owl_Zun_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Fuhao_Owl_Zun_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fuhao_Owl_Zun_front.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67386792",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-03-16 05:08:26",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Fuhao Owl Zun front",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Bronze owl-shaped Zun with inscriptions of Fu Hao|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Bronze owl-shaped Zun with inscriptions of Fuhao, front view.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-01-05 15:45:13",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cangminzho\" title=\"User:Cangminzho\">Cangminzho</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

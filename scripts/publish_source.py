@@ -21,7 +21,9 @@ finally:
  if restore:restore()
 credential=payload['credential'];project_id=payload['project_id']
 root=Path.cwd().resolve();manifest=json.loads((root/'.openai/hosting.json').read_text(encoding='utf-8'))
-assert manifest['project_id']==project_id and manifest['static']['directory']=='dist'
+assert manifest['project_id']==project_id
+worker='static' not in manifest
+if not worker:assert manifest['static']['directory']=='dist'
 env=os.environ.copy();remote=credential['remote_url'];branch=credential['branch'];auth=[]
 if credential.get('auth_mode')=='http_extra_header':
  token=credential['token'];assert token and not any(c in token for c in '\r\n\0')
@@ -35,17 +37,19 @@ def git(args,network=False):
   raise RuntimeError(detail)
  return p.stdout.strip()
 git(['add','--all','--','.'])
-if git(['diff','--cached','--name-only']):git(['-c','user.name=Sites','-c','user.email=sites@users.noreply.openai.com','commit','-m','Expand Guanwu with five-city heritage atlas and narrated guides'])
+if git(['diff','--cached','--name-only']):git(['-c','user.name=Sites','-c','user.email=sites@users.noreply.openai.com','commit','-m','Add eleven-city museum atlas, mini preview and DeepSeek companion'])
 sha=git(['rev-parse','HEAD']);assert not git(['status','--porcelain'])
 git(['push',remote,sha+':refs/heads/'+branch],network=True)
 pushed=git(['ls-remote','--heads',remote,'refs/heads/'+branch],network=True).split()[0]
 assert pushed==sha and not git(['status','--porcelain'])
 archive=Path(payload['archivePath']).resolve();assert root not in archive.parents
-assets=root/'dist';assert not any(p.is_symlink() for p in assets.rglob('*'))
+assets=root/('server-app/dist' if worker else 'dist');assert not any(p.is_symlink() for p in assets.rglob('*'))
+assert assets.is_dir()
 with tarfile.open(archive,'w:gz') as tar:
  tar.add(assets,arcname='dist')
  body=(root/'.openai/hosting.json').read_bytes();entry=tarfile.TarInfo('dist/.openai/hosting.json');entry.size=len(body);tar.addfile(entry,io.BytesIO(body))
 with tarfile.open(archive) as tar:
- assert 'dist/index.html' in tar.getnames() and 'dist/.openai/hosting.json' in tar.getnames()
+ assert ('dist/server/index.js' if worker else 'dist/index.html') in tar.getnames() and 'dist/.openai/hosting.json' in tar.getnames()
+ if worker:assert 'dist/client/index.html' in tar.getnames()
 assert git(['rev-parse','HEAD'])==sha and not git(['status','--porcelain'])
 print(json.dumps({'project_id':project_id,'commit_sha':sha,'archive':str(archive)},ensure_ascii=False))

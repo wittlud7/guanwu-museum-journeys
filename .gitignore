@@ -7,3 +7,8 @@ __pycache__/
 .runtime/
 .venv/
 tmp/
+settings.json
+settings.*.json
+.env
+.env.*
+server-app/public/

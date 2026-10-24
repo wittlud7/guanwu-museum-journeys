@@ -1,0 +1,2070 @@
+{
+  "gold": [
+    {
+      "pageid": 15707361,
+      "ns": 6,
+      "title": "File:Oval lobed gold bowl from the Belitung shipwreck, ArtScience Museum, Singapore - 20110618-01.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg/1280px-Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 857,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg/3840px-Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg/1280px-Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 857,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg/3840px-Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Oval_lobed_gold_bowl_from_the_Belitung_shipwreck%2C_ArtScience_Museum%2C_Singapore_-_20110618-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oval_lobed_gold_bowl_from_the_Belitung_shipwreck,_ArtScience_Museum,_Singapore_-_20110618-01.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15707361",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2011-07-05 08:28:19",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "One of a pair of oval lobed gold bowls with two ducks in <i><a href=\"https://en.wikipedia.org/wiki/repouss%C3%A9_and_chasing\" class=\"extiw\" title=\"w:repoussé and chasing\">repoussé</a></i> among <a href=\"https://en.wikipedia.org/wiki/repouss%C3%A9_and_chasing\" class=\"extiw\" title=\"w:repoussé and chasing\">chased</a> flowers.",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Sony DSLR-A230|Lobed bowls|Repoussé|Artworks without Wikidata item|Self-published work|Artworks with known accession number|Template Unknown (author)|Gold items recovered from the Belitung shipwreck",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span>.</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "Part of the collection of artifacts from the <a href=\"https://en.wikipedia.org/wiki/Belitung_shipwreck\" class=\"extiw\" title=\"w:Belitung shipwreck\">Belitung shipwreck</a> owned by the Sentosa Leisure Group and the <a href=\"https://en.wikipedia.org/wiki/Government_of_Singapore\" class=\"extiw\" title=\"w:Government of Singapore\">Government of Singapore</a>, photographed while displayed at an exhibition called <i>Shipwrecked: Tang Treasures and Monsoon Winds</i> at the <a href=\"https://en.wikipedia.org/wiki/ArtScience_Museum\" class=\"extiw\" title=\"w:ArtScience Museum\">ArtScience Museum</a>, <a href=\"https://en.wikipedia.org/wiki/Marina_Bay_Sands\" class=\"extiw\" title=\"w:Marina Bay Sands\">Marina Bay Sands</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" class=\"extiw\" title=\"w:Singapore\">Singapore</a>, from 19 February 2011 to 31 July 2011.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "between circa 825 and circa 850 (<a href=\"https://en.wikipedia.org/wiki/Tang_Dynasty\" class=\"extiw\" title=\"w:Tang Dynasty\">Tang Dynasty</a>).",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Photographed by <a href=\"//commons.wikimedia.org/wiki/User:Jacklee\" title=\"User:Jacklee\">Jacklee</a> on 18 June 2011, 19:14.",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 101251483,
+      "ns": 6,
+      "title": "File:Tang Silver & Gold Bowl (9949651804).jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg/1280px-Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 853,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg/3840px-Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg/1280px-Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 853,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg/3840px-Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tang_Silver_%26_Gold_Bowl_%289949651804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tang_Silver_%26_Gold_Bowl_(9949651804).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101251483",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-03-09 07:52:59",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Tang Silver & Gold Bowl (9949651804)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Gold & silver in the Shaanxi History Museum",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "34.225789",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "108.950353",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Shaanxi Provincial Museum, Xi'an, Tang and Following Dynasties Gallery, 2009 visit. Complete indexed photo collection at WorldHistoryPics.com.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009-01-01 00:00",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/101561334@N08/9949651804/\">Tang Silver &amp; Gold Bowl</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/101561334@N08\">Gary Todd</a> from Xinzheng, China",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Zero, Public Domain Dedication",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 101263557,
+      "ns": 6,
+      "title": "File:Tang Gold Bowl (9949900924).jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tang_Gold_Bowl_%289949900924%29.jpg/1280px-Tang_Gold_Bowl_%289949900924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 853,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tang_Gold_Bowl_%289949900924%29.jpg/3840px-Tang_Gold_Bowl_%289949900924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tang_Gold_Bowl_%289949900924%29.jpg/1280px-Tang_Gold_Bowl_%289949900924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 853,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tang_Gold_Bowl_%289949900924%29.jpg/3840px-Tang_Gold_Bowl_%289949900924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tang_Gold_Bowl_%289949900924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tang_Gold_Bowl_(9949900924).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101263557",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-03-09 18:04:21",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Tang Gold Bowl (9949900924)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Gold & silver in the Shaanxi History Museum|Tang Treasures, special exhibit in the Shaanxi History Museum",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "34.225789",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "108.950353",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Special exhibit: TANG TREASURES, Shaanxi Provincial Museum, Xi'an, 2011. Complete indexed photo collection at WorldHistoryPics.com.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2011-03-12 16:09",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/101561334@N08/9949900924/\">Tang Gold Bowl</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/101561334@N08\">Gary Todd</a> from Xinzheng, China",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Zero, Public Domain Dedication",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 101263532,
+      "ns": 6,
+      "title": "File:Tang Gold Bowl (9949909874).jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Tang_Gold_Bowl_%289949909874%29.jpg/1280px-Tang_Gold_Bowl_%289949909874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 853,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Tang_Gold_Bowl_%289949909874%29.jpg/3840px-Tang_Gold_Bowl_%289949909874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Tang_Gold_Bowl_%289949909874%29.jpg/1280px-Tang_Gold_Bowl_%289949909874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 853,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Tang_Gold_Bowl_%289949909874%29.jpg/3840px-Tang_Gold_Bowl_%289949909874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tang_Gold_Bowl_%289949909874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tang_Gold_Bowl_(9949909874).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101263532",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-03-09 18:03:17",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Tang Gold Bowl (9949909874)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Gold & silver in the Shaanxi History Museum|Tang Treasures, special exhibit in the Shaanxi History Museum",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "34.225789",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "108.950353",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Special exhibit: TANG TREASURES, Shaanxi Provincial Museum, Xi'an, 2011. Complete indexed photo collection at WorldHistoryPics.com.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2011-03-12 16:08",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/101561334@N08/9949909874/\">Tang Gold Bowl</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/101561334@N08\">Gary Todd</a> from Xinzheng, China",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Zero, Public Domain Dedication",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 22603008,
+      "ns": 6,
+      "title": "File:Flickr - archer10 (Dennis) - DSCN7418BB.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 965,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 965,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flickr_-_archer10_%28Dennis%29_-_DSCN7418BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_DSCN7418BB.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22603008",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2012-11-09 08:44:49",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Flickr - archer10 (Dennis) - DSCN7418BB",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Palaces in China|China photographs taken on 2006-11-27|Taken with Nikon Coolpix 8800|Flickr images reviewed by FlickreviewR|Photographs of China by Dennis G. Jarvis",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Gold bowl with engraved lotus petals, Tang Dynasty (618-907 AD) Excavated at a Tang hoard, Hejia Village in 1970.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2006-11-27 10:52",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/archer10/4337785432/\">DSCN7418BB</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q122977591\" class=\"extiw\" title=\"d:Q122977591\"><span title=\"photographer\">Dennis G. Jarvis</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "pan": [
+    {
+      "pageid": 68245272,
+      "ns": 6,
+      "title": "File:“薛子仲安”青铜簠03698.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg/1280px-%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 853,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg/3840px-%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg/1280px-%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 853,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg/3840px-%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E2%80%9C%E8%96%9B%E5%AD%90%E4%BB%B2%E5%AE%89%E2%80%9D%E9%9D%92%E9%93%9C%E7%B0%A003698.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68245272",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2018-04-11 15:57:27",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "“薛子仲安”青铜簠03698",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Spring and Autumn Period - Fu (vessels)|Bronze vessels in the National Museum of China",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "\"Xue Zi Zhong'an\" Bronze Hu (food container). Spring and Autumn Period. Xue State. Unearthed at Tengxian, Shandong Province, 1973. This hu was commissioned by Xue Zi Zhong'an, a nobleman from Xue State, which was first located at present-day Tengxian, Shandong Province.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2017-08-16 16:06:55",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cangminzho\" title=\"User:Cangminzho\">Cangminzho</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 99067399,
+      "ns": 6,
+      "title": "File:Mi Zhu.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mi_Zhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 1487,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mi_Zhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1487
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mi_Zhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mi_Zhu.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99067399",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-01-21 02:39:43",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Mi Zhu",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Liu Bei and associates|PD-old-70-expired|CC-PD-Mark|PD-old missing SDC copyright status|Mi Zhu",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Mi Zhu's portrait",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1917",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "\"The Genealogy of Mi's Family\" in Wujin, Jiangsu and other places in 1917.",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "unspecified",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 197286858,
+      "ns": 6,
+      "title": "File:Taishokkan portrait of Fujiwara no Kamatari, Kamakura period.jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Taishokkan_portrait_of_Fujiwara_no_Kamatari%2C_Kamakura_period.jpg/1280px-Taishokkan_portrait_of_Fujiwara_no_Kamatari%2C_Kamakura_period.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 2531,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/6/64/Taishokkan_portrait_of_Fujiwara_no_Kamatari%2C_Kamakura_period.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Taishokkan_portrait_of_Fujiwara_no_Kamatari%2C_Kamakura_period.jpg/1280px-Taishokkan_portrait_of_Fujiwara_no_Kamatari%2C_Kamakura_period.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 2531,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/64/Taishokkan_portrait_of_Fujiwara_no_Kamatari%2C_Kamakura_period.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Taishokkan_portrait_of_Fujiwara_no_Kamatari%2C_Kamakura_period.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Taishokkan_portrait_of_Fujiwara_no_Kamatari,_Kamakura_period.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197286858",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2026-08-12 06:25:20",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Taishokkan portrait of Fujiwara no Kamatari, Kamakura period",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Fujiwara no Kamatari|Tanzan-jinja|PD-old-100-expired|PD-Art (PD-old-100-expired)|Template Unknown (author)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Portrait paintings of the Kamakura period|Shintō paintings of the Kamakura period",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Portrait of Fujiwara no Kamatari (Taishokkan), Kamakura period, Tanzan Shrine.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Kamakura period",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "奈良国立博物館編『大和の神々と美術 談山神社の名宝』奈良国立博物館、2004年、14頁。",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 125512612,
+      "ns": 6,
+      "title": "File:NLC403-312001070824-143352 南潯鎮志 清同治2年(1863) 卷一十一.pdf",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/NLC403-312001070824-143352_%E5%8D%97%E6%BD%AF%E9%8E%AE%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB2%E5%B9%B4%281863%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf/page1-1280px-NLC403-312001070824-143352_%E5%8D%97%E6%BD%AF%E9%8E%AE%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB2%E5%B9%B4%281863%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 904,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/NLC403-312001070824-143352_%E5%8D%97%E6%BD%AF%E9%8E%AE%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB2%E5%B9%B4%281863%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf/page1-1280px-NLC403-312001070824-143352_%E5%8D%97%E6%BD%AF%E9%8E%AE%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB2%E5%B9%B4%281863%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 904
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/NLC403-312001070824-143352_%E5%8D%97%E6%BD%AF%E9%8E%AE%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB2%E5%B9%B4%281863%29_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:NLC403-312001070824-143352_%E5%8D%97%E6%BD%AF%E9%8E%AE%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB2%E5%B9%B4(1863)_%E5%8D%B7%E4%B8%80%E5%8D%81%E4%B8%80.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125512612",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2022-11-15 17:16:51",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\n南潯鎮志</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Books without Wikidata item|Digitized Local Records in the National Library of China|南潯鎮志",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\n汪曰祯</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<p>\n卷十 <br>\n祠墓\n</p></div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Library_of_China\" class=\"extiw\" title=\"w:en:National Library of China\"><span title=\"library in Beijing, China\">National Library of China</span></a>\n</bdi>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 125524436,
+      "ns": 6,
+      "title": "File:NLC403-312001070247-144933 咸淳臨安志 清同治6年(1876) 卷六十四.pdf",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/NLC403-312001070247-144933_%E5%92%B8%E6%B7%B3%E8%87%A8%E5%AE%89%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB6%E5%B9%B4%281876%29_%E5%8D%B7%E5%85%AD%E5%8D%81%E5%9B%9B.pdf/page1-1280px-NLC403-312001070247-144933_%E5%92%B8%E6%B7%B3%E8%87%A8%E5%AE%89%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB6%E5%B9%B4%281876%29_%E5%8D%B7%E5%85%AD%E5%8D%81%E5%9B%9B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 904,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/NLC403-312001070247-144933_%E5%92%B8%E6%B7%B3%E8%87%A8%E5%AE%89%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB6%E5%B9%B4%281876%29_%E5%8D%B7%E5%85%AD%E5%8D%81%E5%9B%9B.pdf/page1-1280px-NLC403-312001070247-144933_%E5%92%B8%E6%B7%B3%E8%87%A8%E5%AE%89%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB6%E5%B9%B4%281876%29_%E5%8D%B7%E5%85%AD%E5%8D%81%E5%9B%9B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 904
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/NLC403-312001070247-144933_%E5%92%B8%E6%B7%B3%E8%87%A8%E5%AE%89%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB6%E5%B9%B4%281876%29_%E5%8D%B7%E5%85%AD%E5%8D%81%E5%9B%9B.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:NLC403-312001070247-144933_%E5%92%B8%E6%B7%B3%E8%87%A8%E5%AE%89%E5%BF%97_%E6%B8%85%E5%90%8C%E6%B2%BB6%E5%B9%B4(1876)_%E5%8D%B7%E5%85%AD%E5%8D%81%E5%9B%9B.pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125524436",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2022-11-15 20:15:35",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\n咸淳臨安志</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Books without Wikidata item|Digitized Local Records in the National Library of China|PD-old missing SDC copyright status|Xianchun Lin'an Zhi",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\n潜说友</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<p>\n卷之六十四 <br>\n人物五 <br>\n歴代列傅\n</p></div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:National_Library_of_China\" class=\"extiw\" title=\"w:en:National Library of China\"><span title=\"library in Beijing, China\">National Library of China</span></a>\n</bdi>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "lotus": [
+    {
+      "pageid": 148503344,
+      "ns": 6,
+      "title": "File:Bowl with green landscape in falangcai painted enamels.tif",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Bowl_with_green_landscape_in_falangcai_painted_enamels.tif/lossy-page1-1280px-Bowl_with_green_landscape_in_falangcai_painted_enamels.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 960,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Bowl_with_green_landscape_in_falangcai_painted_enamels.tif/lossy-page1-1920px-Bowl_with_green_landscape_in_falangcai_painted_enamels.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Bowl_with_green_landscape_in_falangcai_painted_enamels.tif/lossy-page1-1280px-Bowl_with_green_landscape_in_falangcai_painted_enamels.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 960,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Bowl_with_green_landscape_in_falangcai_painted_enamels.tif/lossy-page1-1920px-Bowl_with_green_landscape_in_falangcai_painted_enamels.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bowl_with_green_landscape_in_falangcai_painted_enamels.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bowl_with_green_landscape_in_falangcai_painted_enamels.tif",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148503344",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-05-19 10:22:18",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Bowl with green landscape in falangcai painted enamels</i></div></div><div style=\"display: none;\">label QS:Len,\"Bowl with green landscape in falangcai painted enamels\"</div><div style=\"display: none;\">label QS:Lzh,\"清雍正琺瑯彩瓷虎丘山水碗\"</div></div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Falangcai|Artworks with Wikidata item|Artworks with known accession number|Artworks with accession number from Wikidata|National Palace Museum Open Data|Artworks with Wikidata item missing genre|Yongzheng porcelains|Significant antiquities in the National Palace Museum|Porcelain of the Qing dynasty in the National Palace Museum",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\n<table cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td><a href=\"https://www.wikidata.org/wiki/Q4233718\" class=\"extiw\" title=\"d:Q4233718\"><span title='unknown creator of a work (do not use as value of P50; use \"unknown value\" instead)'>anonymous</span></a></td><td valign=\"top\"> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q125983637#P170\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></td></tr></tbody></table></div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "Bowl with green landscape in falangcai painted enamels, Qing dynasty, Yongzheng reign 1723-1735. \n<p>On one side of this porcelain bowl is a landscape rendered in colors, the decoration exceptionally refined. On the other side are two lines of poetry, in front of which is painted a seal in red for \"Longevity as wished,\" and afterwards are two seals for \"Virtue aloft\" and \"Aspiration afar.\" The interior is undecorated, and the underside features a reign mark in blue that reads, \"Made in the Yongzheng reign.\" The poetry mentions \"Sword Pool,\" suggesting decoration dealing with a site in the Tiger Hill area of Suzhou. In turn, it points to the possibility that the pagoda in the landscape is at Cloud Cliff Temple. Since the Han dynasty, Tiger Hill has been known as the \"Number One Scenic Site in Wu,\" referring to the Suzhou region. The fame and history of the place spread and was echoed in the arts, leading the Yongzheng emperor to seek lasting virtue comparable to the heavens. This bowl, made as one of a pair, appears in the 1835 court archives on displays as being in the Qianqing Palace (after <a rel=\"nofollow\" class=\"external free\" href=\"https://theme.npm.edu.tw/exh105/tangprizeweek/en/page-3.html#main\">https://theme.npm.edu.tw/exh105/tangprizeweek/en/page-3.html#main</a>)\n</p>\nNational Palace Museum, accession number 故瓷017051",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1723-1735",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04024797\">https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04024797</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 91344449,
+      "ns": 6,
+      "title": "File:98-131 (IA 98-131-crs).pdf",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/98-131_%28IA_98-131-crs%29.pdf/page1-960px-98-131_%28IA_98-131-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1810,
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/98-131_%28IA_98-131-crs%29.pdf/page1-960px-98-131_%28IA_98-131-crs%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1810
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/98-131_%28IA_98-131-crs%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:98-131_(IA_98-131-crs).pdf",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91344449",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-06-19 17:29:15",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\n98-131</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US Congress|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Congressional Research Service reports",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nCongressional Research Service</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "<div class=\"description\">\n<p>98-131\n</p>\n<br>Subjects: Congressional Research Service; CRS; Congress</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<dl><dd><a href=\"//archive.org/details/98-131-crs\" class=\"extiw\" title=\"iarchive:98-131-crs\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: 98-131-crs</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/98-131-crs/98-131.pdf\">https://archive.org/download/98-131-crs/98-131.pdf</a></dd></dl>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 149646876,
+      "ns": 6,
+      "title": "File:Yangguofu at Shin Kong Place-20240614.jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Yangguofu_at_Shin_Kong_Place-20240614.jpg/1280px-Yangguofu_at_Shin_Kong_Place-20240614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 960,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Yangguofu_at_Shin_Kong_Place-20240614.jpg/3840px-Yangguofu_at_Shin_Kong_Place-20240614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Yangguofu_at_Shin_Kong_Place-20240614.jpg/1280px-Yangguofu_at_Shin_Kong_Place-20240614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 960,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Yangguofu_at_Shin_Kong_Place-20240614.jpg/3840px-Yangguofu_at_Shin_Kong_Place-20240614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Yangguofu_at_Shin_Kong_Place-20240614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yangguofu_at_Shin_Kong_Place-20240614.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149646876",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-06-23 14:08:54",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Yangguofu at Shin Kong Place-20240614",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Shin Kong Place Suzhou|YGF Malatang|Self-published work|Files with coordinates missing SDC location of creation|China photographs taken on 2024-06-14|Taken with Huawei Mate 30E Pro 5G",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "31.324982",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "120.707703",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "My watch is broken and fix it, then I have a bowl of malatang.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2024-06-14 11:11:19",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shwangtianyuan\" title=\"User:Shwangtianyuan\">Shwangtianyuan</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 9015749,
+      "ns": 6,
+      "title": "File:Lacquer bowl inlaid with mother-of-pearl and jade.JPG",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG/1280px-Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1707,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG/1280px-Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1707,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lacquer_bowl_inlaid_with_mother-of-pearl_and_jade.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9015749",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2010-01-18 08:19:07",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Lacquer bowl inlaid with mother-of-pearl and jade",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Nikon Coolpix P50|License migration redundant|Self-published work|Lacquerware of the Ming Dynasty|Chinese lacquerware with mother-of-pearl inlay|Lacquer bowls|Lacquerware in Suzhou Museum",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Lacquer bowl inlaid with mother-of-pearl and jade in Suzhou museum。Period：Late Ming Danasty",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E9%A3%8E%E4%B9%8B%E6%B8%85%E6%89%AC\" title=\"User:风之清扬\">风之清扬</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 145580705,
+      "ns": 6,
+      "title": "File:20240205 Set-meal served at Songhelou.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/20240205_Set-meal_served_at_Songhelou.jpg/1280px-20240205_Set-meal_served_at_Songhelou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 853,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/2/21/20240205_Set-meal_served_at_Songhelou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/20240205_Set-meal_served_at_Songhelou.jpg/1280px-20240205_Set-meal_served_at_Songhelou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 853,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/21/20240205_Set-meal_served_at_Songhelou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/20240205_Set-meal_served_at_Songhelou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:20240205_Set-meal_served_at_Songhelou.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145580705",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2024-02-20 08:30:38",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "20240205 Set-meal served at Songhelou",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Songhelou|Su-style noodles|Self-published work|Files with coordinates missing SDC location of creation|China photographs taken on 2024-02-05|February 2024 in Shanghai",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "31.197053",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "121.432569",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Set-meal served at Songhelou, including a bowl of Suzhou-style noodle and pan-fried eels.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2024-02-05 20:01:25",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Windmemories\" title=\"User:Windmemories\">Windmemories</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "owl": [
+    {
+      "pageid": 9477036,
+      "ns": 6,
+      "title": "File:Fu Hao.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fu_Hao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 1707,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fu_Hao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1707
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fu_Hao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fu_Hao.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9477036",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2010-02-14 16:15:51",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Fu Hao",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Vivitar ViviCam 4345|Files with no machine-readable author|Files with no machine-readable source|Tomb of Fu Hao|License migration completed|Media missing infobox template|Self-published work|FoP-China|Fu Hao tomb statue (Yinxu)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.5",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.5",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.5",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.5",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 3523731,
+      "ns": 6,
+      "title": "File:Tomb Fu Hao YinXu.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tomb_Fu_Hao_YinXu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 960,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tomb_Fu_Hao_YinXu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 960
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tomb_Fu_Hao_YinXu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tomb_Fu_Hao_YinXu.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3523731",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2008-02-08 22:02:17",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Tomb Fu Hao YinXu",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Vivitar ViviCam 4345|License migration completed|Reconstruction of the tomb of Fu Hao",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Tomb of Lady <a href=\"https://en.wikipedia.org/wiki/Fu_Hao\" class=\"extiw\" title=\"en:Fu Hao\">Fu Hao</a>, <a href=\"https://en.wikipedia.org/wiki/Yinxu\" class=\"extiw\" title=\"en:Yinxu\">Yinxu</a>, <a href=\"//commons.wikimedia.org/wiki/%E6%B2%B3%E5%8D%97\" title=\"河南\">Henan</a>, China",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2007-02",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/Image:PICT7466.JPG\" class=\"extiw\" title=\"en:Image:PICT7466.JPG\">en:wikipedia</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Chris Gyford",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; background-color: var(--background-color-neutral-subtle, #f9f9f9); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #e0e0e0); border-spacing: 8px; box-sizing: border-box; padding: 0;\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate licensetpl\">\n<tbody><tr>\n<td><span class=\"noviewer\" typeof=\"mw:File\"><span title=\"GNU head\"><img alt=\"GNU head\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/120px-Heckert_GNU_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"63\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/250px-Heckert_GNU_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"535\" data-file-height=\"523\"></span></span>\n</td>\n<td>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n</td></tr></tbody></table>\n<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"4\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/40px-Cc-sa.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/60px-Cc-sa.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.\n</td>\n<td style=\"width:90px;\" rowspan=\"4\">\n</td></tr>\n<tr style=\"text-align:center;\">\n<td>\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl>\n</td></tr>\n<tr style=\"text-align:center;\">\n<td><span style=\"font-size:90%;\">This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" class=\"extiw\" title=\"meta:Licensing update\">licensing update</a>.</span><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/licenses/by-sa/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n</td></tr></tbody></table>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 29617109,
+      "ns": 6,
+      "title": "File:Fu-hao Liu(2013).jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fu-hao_Liu%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1280,
+          "thumbheight": 1529,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fu-hao_Liu%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1529
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fu-hao_Liu%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fu-hao_Liu(2013).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29617109",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2013-11-14 07:58:36",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Fu-hao Liu(2013)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Liu Fu-Hao|License migration redundant|Self-published work",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Fu-hao Liu at a baseball game of Tainan of Taiwan in Septemper 29, 2013.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-09-29",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:P5693852&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:P5693852 (page does not exist)\">P5693852</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 83175136,
+      "ns": 6,
+      "title": "File:20140413劉芙豪.jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg/1280px-20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 960,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg/3840px-20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg/1280px-20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 960,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg/3840px-20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:20140413%E5%8A%89%E8%8A%99%E8%B1%AA.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83175136",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2019-10-18 10:09:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "20140413劉芙豪",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Liu Fu-Hao|Flickr images reviewed by FlickreviewR 2",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "​20140413劉芙豪",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2014-04-13 18:40:56",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/101527565@N08/13824646363/in/album-72157643899507394/\">https://www.flickr.com/photos/101527565@N08/13824646363/in/album-72157643899507394/</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Ming-Chu Chu",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 3455716,
+      "ns": 6,
+      "title": "File:2008TaipeiGameShow Day3 IGS Uni-Lions Fu-hao Liu.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg/1280px-2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1707,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/3/39/2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg/1280px-2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1707,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/39/2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:2008TaipeiGameShow_Day3_IGS_Uni-Lions_Fu-hao_Liu.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3455716",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2008-01-26 12:16:53",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "2008TaipeiGameShow Day3 IGS Uni-Lions Fu-hao Liu",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Uni-President 7-Eleven Lions|Liu Fu-Hao|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|2008 Taipei Game Show|Baseball players with baseball bats",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "2008 Taipei Game Show: Fu-hao Liu from Uni-Lions at IGS booth.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2008-01-26",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:BrockF5\" title=\"User:BrockF5\">Rico Shen</a>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "You may select the license of your choice.",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Attribution": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:BrockF5\" title=\"User:BrockF5\">Rico Shen</a>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
