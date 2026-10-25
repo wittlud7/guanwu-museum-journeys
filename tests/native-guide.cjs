@@ -6,7 +6,7 @@ global.wx={getStorageSync:k=>storage.get(k),setStorageSync:(k,v)=>storage.set(k,
 function mount(config){config.data=structuredClone(config.data);config.setData=function(p){for(const[k,v]of Object.entries(p)){const ks=k.split('.');let t=this.data;for(const s of ks.slice(0,-1))t=t[s];t[ks.at(-1)]=v}};return config}
 const event=(data,detail)=>({currentTarget:{dataset:data},detail:detail||{}});
 const {museums,crafts}=require(root+'/data.js');
-assert.equal(museums.length,11);assert.equal(crafts.length,26);
+assert.equal(museums.length,33);assert.equal(crafts.length,26);
 const factory=require(root+'/shared/guide-page.js');
 for(const m of museums.filter(m=>m.chapters[0].audio!==false)){
  const p=mount(factory(m.id));storeSet('member',false);p.onLoad({});assert.equal(p.data.view,'museum');assert.equal(p.data.gallery.length,m.gallery.length);
@@ -24,11 +24,11 @@ for(const m of museums.filter(m=>m.chapters[0].audio!==false)){
  p.onUnload();
 }
 function read(k){return storage.get('guanwu-v2-'+k)}function storeSet(k,v){storage.set('guanwu-v2-'+k,v)}
-let main;global.Page=config=>main=mount(config);require(root+'/pages/atlas/index.js');main.onLoad();assert.equal(main.data.museumItems.length,11);main.city(event({city:'杭州'}));assert.equal(main.data.museumItems.length,1);main.city(event({city:'全部'}));main.search({detail:{value:'云锦'}});assert.equal(main.data.museumItems.length,1);assert.equal(main.data.craftItems.length,1);
-main.openMuseum(event({id:'beijing'}));assert.equal(effects.nav,'/media/beijing/guide/index');main.openCraft(event({id:'yunjin'}));assert.equal(effects.nav,'/media/nanjing/guide/index?craft=yunjin');
+let main;global.Page=config=>main=mount(config);require(root+'/pages/atlas/index.js');main.onLoad();assert.equal(main.data.museumItems.length,33);main.city(event({city:'杭州'}));assert.equal(main.data.museumItems.length,3);main.city(event({city:'全部'}));main.search({detail:{value:'云锦'}});assert.equal(main.data.museumItems.length,1);assert.equal(main.data.craftItems.length,1);
+assert.equal(main.data.cities.length,12);main.tab(event({tab:'journeys'}));main.city(event({city:'全部'}));assert.equal(main.data.cityDestinations.length,11);main.openCity(event({city:'北京'}));assert.equal(main.data.museumItems.length,3);assert.equal(main.data.journeyCity,true);main.chooseCity();assert.equal(main.data.modal,'city');main.chooseCityItem(event({city:'全部'}));assert.equal(main.data.modal,'');assert.equal(main.data.journeyCity,false);main.openMuseum(event({id:'beijing'}));assert.equal(effects.nav,'/media/beijing/guide/index');main.openCraft(event({id:'yunjin'}));assert.equal(effects.nav,'/media/nanjing/guide/index?craft=yunjin');
 main.tab(event({tab:'saved'}));assert.equal(main.data.planItems.length,5);assert.equal(main.data.notes.length,5);main.date(event({id:'beijing'},{value:'2026-11-01'}));assert.equal(read('dates').beijing,'2026-11-01');main.move(event({id:'hangzhou',delta:-1}));assert.equal(read('plan')[0],'hangzhou');main.copyPlan();assert.ok(effects.clipboard.includes('2026-11-01'));main.onUnload();
-const app=JSON.parse(fs.readFileSync(root+'/app.json'));assert.deepEqual(app.pages,['pages/atlas/index']);assert.equal(app.subPackages.length,11);
+const app=JSON.parse(fs.readFileSync(root+'/app.json'));assert.deepEqual(app.pages,['pages/atlas/index']);assert.equal(app.subPackages.length,33);
 for(const sub of app.subPackages){for(const page of sub.pages)for(const ext of ['js','json','wxml','wxss'])assert.ok(fs.existsSync(root+'/'+sub.root+'/'+page+'.'+ext));const size=files(root+'/'+sub.root).reduce((s,p)=>s+fs.statSync(p).size,0);assert.ok(size<2*1024*1024,sub.name+' exceeds 2MB')}
 function files(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(d=>d.isDirectory()?files(path.join(dir,d.name)):[path.join(dir,d.name)])}
 for(const m of museums.filter(m=>m.chapters[0].audio===false)){const p=mount(factory(m.id));p.onLoad({});p.play(event({index:1}));assert.equal(p.data.modal,'transcript');assert.equal(p.data.transcript,m.chapters[1].text);for(const c of crafts.filter(c=>c.museum===m.id)){p.showItem(c.id);p.play(event({index:0}));assert.equal(p.data.transcript,c.audioText);for(const g of p.data.gallery)assert.ok(fs.existsSync(root+g.src));p.showCredits();assert.ok(p.data.creditRows.length)}}
-console.log('PASS: native 11 museums, 18 artifacts, 8 craft stories, gallery paths, 23 audio paths, trial gate, note/save/plan storage, quiz, speed/seek adapter, search, navigation and city package sizes.');
+console.log('PASS: native 33 museums, 18 artifacts, 8 craft stories, gallery paths, 23 audio paths, trial gate, note/save/plan storage, quiz, speed/seek adapter, search, navigation and city package sizes.');

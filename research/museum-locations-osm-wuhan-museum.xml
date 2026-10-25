@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2471386 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="3732340680" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6133276" lon="114.2507098"/>
+ <node id="3732340681" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6133890" lon="114.2508298"/>
+ <node id="3732340682" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6134229" lon="114.2508064"/>
+ <node id="3732340683" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6136175" lon="114.2511869"/>
+ <node id="3732340684" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6135537" lon="114.2512310"/>
+ <node id="3732340685" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6137348" lon="114.2515851"/>
+ <node id="3732340686" visible="true" version="3" changeset="157828795" timestamp="2024-10-13T10:41:01Z" user="user_18672235" uid="18672235" lat="30.6138883" lon="114.2514812"/>
+ <node id="3732340687" visible="true" version="3" changeset="157828795" timestamp="2024-10-13T10:41:01Z" user="user_18672235" uid="18672235" lat="30.6138098" lon="114.2513309"/>
+ <node id="3732340688" visible="true" version="3" changeset="157828795" timestamp="2024-10-13T10:41:01Z" user="user_18672235" uid="18672235" lat="30.6140631" lon="114.2511522"/>
+ <node id="3732340689" visible="true" version="3" changeset="157828795" timestamp="2024-10-13T10:41:01Z" user="user_18672235" uid="18672235" lat="30.6141382" lon="114.2512958"/>
+ <node id="3732340690" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6142882" lon="114.2511977"/>
+ <node id="3732340691" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6141001" lon="114.2508300"/>
+ <node id="3732340692" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6140380" lon="114.2508729"/>
+ <node id="3732340693" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6138622" lon="114.2505292"/>
+ <node id="3732340694" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6138927" lon="114.2505082"/>
+ <node id="3732340695" visible="true" version="2" changeset="62998372" timestamp="2018-09-28T06:20:10Z" user="John Bek" uid="3800987" lat="30.6138214" lon="114.2503688"/>
+ <node id="12247988114" visible="true" version="1" changeset="157828795" timestamp="2024-10-13T10:41:01Z" user="user_18672235" uid="18672235" lat="30.6142032" lon="114.2512499"/>
+ <node id="12247988119" visible="true" version="1" changeset="157828795" timestamp="2024-10-13T10:41:01Z" user="user_18672235" uid="18672235" lat="30.6138516" lon="114.2515071"/>
+ <way id="369445342" visible="true" version="6" changeset="157828795" timestamp="2024-10-13T10:41:01Z" user="user_18672235" uid="18672235">
+  <nd ref="3732340680"/>
+  <nd ref="3732340681"/>
+  <nd ref="3732340682"/>
+  <nd ref="3732340683"/>
+  <nd ref="3732340684"/>
+  <nd ref="3732340685"/>
+  <nd ref="12247988119"/>
+  <nd ref="3732340686"/>
+  <nd ref="3732340687"/>
+  <nd ref="3732340688"/>
+  <nd ref="3732340689"/>
+  <nd ref="12247988114"/>
+  <nd ref="3732340690"/>
+  <nd ref="3732340691"/>
+  <nd ref="3732340692"/>
+  <nd ref="3732340693"/>
+  <nd ref="3732340694"/>
+  <nd ref="3732340695"/>
+  <nd ref="3732340680"/>
+  <tag k="address" v="N° 373 Qinnian Road, Hankou"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="name" v="武汉博物馆"/>
+  <tag k="name:en" v="Wuhan Museum"/>
+  <tag k="name:zh" v="武汉博物馆"/>
+  <tag k="name:zh-Hans" v="武汉博物馆"/>
+  <tag k="name:zh-Hant" v="武漢博物館"/>
+  <tag k="source" v="http://www.whmuseum.com.cn/index2.aspx"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+</osm>

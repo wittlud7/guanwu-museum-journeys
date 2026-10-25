@@ -1,4 +1,5 @@
 async (page) => {
+ await page.route('https://tile.openstreetmap.org/**',r=>r.fulfill({status:200,contentType:'image/png',body:Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+a6XkAAAAASUVORK5CYII=','base64')}));
  const check=(v,m)=>{if(!v)throw Error(m)},errors=[];
  page.on('pageerror',e=>errors.push(e.message));
  const base='http://localhost:4173/';
@@ -6,10 +7,9 @@ async (page) => {
  await page.setViewportSize({width:390,height:844});await page.goto(base+'?qa='+Date.now()+'#discover');await go('discover');
  await page.evaluate(async()=>{localStorage.clear();for(const r of await navigator.serviceWorker.getRegistrations())await r.unregister();for(const k of await caches.keys())if(k.startsWith('guanwu-'))await caches.delete(k)});
  await page.reload();await page.locator('.museum-card').first().waitFor();
- check(await page.locator('.museum-card').count()===11,'首页十一座馆');
- await page.getByRole('button',{name:'查看广州精选',exact:true}).click();
- check((await page.locator('.heritage-hero').getAttribute('aria-label')).includes('粤剧'),'切换广州头图');
- await page.locator('[data-city="杭州"]').click();check(await page.locator('.museum-card').count()===1,'杭州筛选');
+ check(await page.locator('.museum-card').count()===6,'首页精选六座馆');
+ check(await page.locator('.question-hero').isVisible(),'跨馆对看入口');
+ await page.locator('[data-city="杭州"]').click();check(await page.locator('.museum-card').count()===3,'杭州三馆筛选');
  await page.locator('[data-city="全部"]').click();await page.getByRole('link',{name:'博物馆',exact:true}).click();
  await page.locator('#collection-search').fill('云锦');check(await page.locator('.museum-card').count()===1,'云锦场馆搜索');check(await page.locator('.craft-card').count()===1,'云锦工艺搜索');
  await page.locator('#collection-search').fill('火星不存在');check(await page.getByText('暂时没有找到这段故事').isVisible(),'空状态');
@@ -26,7 +26,7 @@ async (page) => {
  await page.locator('#audio-seek').evaluate(input=>{input.value=11;input.dispatchEvent(new Event('input',{bubbles:true}));input.dispatchEvent(new Event('change',{bubbles:true}))});
  check(await page.locator('audio').evaluate(a=>Math.abs(a.currentTime-11)<1),'进度拖动');
  await page.locator('#audio-rate').selectOption('1.2');check(await page.locator('audio').evaluate(a=>a.playbackRate===1.2),'真实倍速');
- await page.getByRole('link',{name:'城市漫游',exact:true}).click();await page.getByRole('heading',{name:'给一座城，多一点时间',exact:true}).waitFor();
+ await page.getByRole('link',{name:'城市漫游',exact:true}).click();await page.getByRole('heading',{name:'给一座城，多几种看法',exact:true}).waitFor();
  check(await page.locator('audio').count()===1,'导航不创建重复音频');check(await page.locator('#audio-dock').isVisible(),'跨页保留播放器');
  await go('museum/nanjing');await page.getByRole('button',{name:'关闭播放器',exact:true}).click();
  await page.locator('[data-play="museum:nanjing:1"]').click();check(await page.locator('#modal').isVisible(),'深度导览门槛');

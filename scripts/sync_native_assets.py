@@ -6,14 +6,17 @@ root=Path(__file__).resolve().parents[1];native=root/'miniprogram'
 data=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/heritage-data.js')))"],cwd=root,encoding='utf-8'))
 expansion=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/expansion-data.js')))"],cwd=root,encoding='utf-8'))
 data['museums']+=expansion['museums']
+city_museums=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/city-museums.js')))"],cwd=root,encoding='utf-8'))
+data['museums']+=city_museums['museums']
 data['crafts']+=[dict(a,audio=False,category='文物 · '+a['material']) for a in expansion['artifacts']]
 credits=json.loads((root/'dist/assets/heritage/credits.json').read_text(encoding='utf-8'))
 credits.update({p['id']:p for p in (expansion['images'] if isinstance(expansion['images'],list) else expansion['images'].values())})
+credits.update(city_museums['images'])
 (native/'data.js').write_text('module.exports='+json.dumps(data,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
 (native/'credits.js').write_text('module.exports='+json.dumps(credits,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
 thumb=native/'thumbs';thumb.mkdir(exist_ok=True)
 for key,c in credits.items():
- im=Image.open(root/'dist'/c['src']).convert('RGB');im.thumbnail((480,480));im.save(thumb/(key+'.jpg'),quality=77,optimize=True)
+ im=Image.open(root/'dist'/c['src']).convert('RGB');im.thumbnail((360,360));im.save(thumb/(key+'.jpg'),quality=72,optimize=True)
 config=json.loads((native/'app.json').read_text(encoding='utf-8'));config['subPackages']=[];config['pages']=['pages/atlas/index'];config['window']['navigationBarTitleText']='观物 · 城市博物馆指南'
 for m in data['museums']:
  city=m['id'];sub=native/'media'/city;assets=sub/'assets';assets.mkdir(parents=True,exist_ok=True)
@@ -33,7 +36,7 @@ for m in data['museums']:
  print(city,round(size/1024),'KB')
 (native/'app.json').write_text(json.dumps(config,ensure_ascii=False,indent=2),encoding='utf-8')
 project=json.loads((native/'project.config.json').read_text(encoding='utf-8'))
-project['packOptions']={'ignore':[{'type':'folder','value':'assets'},{'type':'file','value':'README.md'}]}
+project['packOptions']={'ignore':[{'type':'folder','value':'assets'},{'type':'folder','value':'media/suzhou-brick'},{'type':'file','value':'README.md'}]}
 (native/'project.config.json').write_text(json.dumps(project,ensure_ascii=False,indent=2),encoding='utf-8')
 main=sum(p.stat().st_size for p in native.rglob('*') if p.is_file() and 'media' not in p.relative_to(native).parts and 'assets' not in p.relative_to(native).parts)
 assert main<2*1024*1024,main

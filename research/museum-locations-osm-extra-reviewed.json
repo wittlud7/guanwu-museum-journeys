@@ -1,0 +1,38 @@
+{
+  "hangzhou": {
+    "source": "https://www.openstreetmap.org/relation/19222156",
+    "tags": {
+      "addr:city": "杭州市",
+      "addr:district": "西湖区",
+      "addr:province": "浙江省",
+      "building": "yes",
+      "museum": "local",
+      "name": "浙江省非物质文化遗产馆",
+      "tourism": "museum",
+      "type": "multipolygon"
+    }
+  },
+  "shangdu": {
+    "source": "https://www.openstreetmap.org/way/1341987750",
+    "tags": {
+      "museum": "history",
+      "name": "郑州商都遗址博物院",
+      "name:en": "Zhengzhou Shangdu Site Museum",
+      "tourism": "museum"
+    }
+  },
+  "chengdu-candidate": {
+    "source": "https://www.openstreetmap.org/node/4130339065",
+    "tags": {
+      "addr:housenumber": "2号",
+      "addr:street": "草堂东路",
+      "name": "蜀锦织绣博物馆",
+      "name:en": "Shu Brocade and Embroidery Museum",
+      "name:ru": "Академия парчи Шу",
+      "name:zh": "蜀锦织绣博物馆",
+      "opening_hours": "Mo-Fr 09:00-18:00; Sa, Su 09:00-17:30",
+      "phone": "+86 28 8738 3891",
+      "tourism": "museum"
+    }
+  }
+}

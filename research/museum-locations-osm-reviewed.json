@@ -1,0 +1,91 @@
+{
+  "shanghai-nature": {
+    "lat": 31.23688225,
+    "lng": 121.4580124,
+    "tags": {
+      "addr:housenumber": "510",
+      "addr:street": "北京西路",
+      "building": "yes",
+      "name": "上海自然博物馆",
+      "name:en": "Shanghai Natural History Museum",
+      "name:fr": "Museum d'Histoire Naturelle de Shanghaï",
+      "name:ru": "Музей естественной истории",
+      "name:zh": "上海自然博物馆",
+      "name:zh-Hans": "上海自然博物馆",
+      "name:zh-Hant": "上海自然博物館",
+      "opening_date": "2015",
+      "opening_hours": "Tu-Su 09:00-17:15",
+      "operational_status": "open",
+      "source": "wikipedia",
+      "tourism": "museum",
+      "website": "http://www.snhm.org.cn:7070/eg/index.htm",
+      "wikidata": "Q1312291",
+      "wikimedia_commons": "Category:Shanghai Natural History Museum",
+      "wikipedia": "zh:上海自然博物馆"
+    },
+    "source": "https://www.openstreetmap.org/way/425762388",
+    "geometryType": "way bounding-box center",
+    "nodeCount": 45
+  },
+  "suzhou-garden": {
+    "lat": 31.32544145,
+    "lng": 120.62577435,
+    "tags": {
+      "landuse": "commercial",
+      "name": "苏州园林博物馆",
+      "name:zh": "苏州园林博物馆",
+      "name:zh-Hans": "苏州园林博物馆",
+      "name:zh-Hant": "蘇州園林博物館",
+      "tourism": "museum"
+    },
+    "source": "https://www.openstreetmap.org/way/542534200",
+    "geometryType": "way bounding-box center",
+    "nodeCount": 12
+  },
+  "guangzhou": {
+    "lat": 23.118158700000002,
+    "lng": 113.23276665,
+    "tags": {
+      "addr:city": "广州市",
+      "addr:district": "荔湾区",
+      "addr:housenumber": "127",
+      "addr:province": "广东省",
+      "addr:street": "恩宁路",
+      "fee": "no",
+      "museum": "art",
+      "name": "粤剧艺术博物馆",
+      "name:en": "Cantonese Opera Art Museum",
+      "opening_hours": "Tu-Su 09:00-16:00",
+      "phone": "+86 20 8182 0026",
+      "start_date": "2016-6-9",
+      "toilets": "yes",
+      "tourism": "museum",
+      "website": "https://www.yjysmuseum.com/",
+      "wheelchair": "limited",
+      "wikidata": "Q27670238",
+      "wikipedia": "zh:粵劇藝術博物館"
+    },
+    "source": "https://www.openstreetmap.org/way/965382977",
+    "geometryType": "way bounding-box center",
+    "nodeCount": 20
+  },
+  "wuhan-museum": {
+    "lat": 30.6138079,
+    "lng": 114.25097695,
+    "tags": {
+      "address": "N° 373 Qinnian Road, Hankou",
+      "building": "yes",
+      "building:levels": "3",
+      "name": "武汉博物馆",
+      "name:en": "Wuhan Museum",
+      "name:zh": "武汉博物馆",
+      "name:zh-Hans": "武汉博物馆",
+      "name:zh-Hant": "武漢博物館",
+      "source": "http://www.whmuseum.com.cn/index2.aspx",
+      "tourism": "museum"
+    },
+    "source": "https://www.openstreetmap.org/way/369445342",
+    "geometryType": "way bounding-box center",
+    "nodeCount": 18
+  }
+}

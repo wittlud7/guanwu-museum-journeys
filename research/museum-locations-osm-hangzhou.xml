@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2187424 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="12895097460" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1627013" lon="120.0992321"/>
+ <node id="12895097461" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1626786" lon="120.0996045"/>
+ <node id="12895097462" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1619924" lon="120.0996082"/>
+ <node id="12895097463" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1616152" lon="120.0993261"/>
+ <node id="12895097464" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1619859" lon="120.0987056"/>
+ <node id="12895097465" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1620184" lon="120.0989463"/>
+ <node id="12895097466" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1618201" lon="120.0992735"/>
+ <node id="12895097467" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1618949" lon="120.0993337"/>
+ <node id="12895097468" visible="true" version="2" changeset="182830851" timestamp="2026-05-18T12:53:26Z" user="AUV" uid="2607646" lat="30.1622298" lon="120.0991080"/>
+ <way id="1393054070" visible="true" version="1" changeset="167314534" timestamp="2025-06-07T15:13:01Z" user="ParadoX_ZLWC" uid="2507347">
+  <nd ref="12895097460"/>
+  <nd ref="12895097461"/>
+  <nd ref="12895097462"/>
+  <nd ref="12895097463"/>
+  <nd ref="12895097464"/>
+  <nd ref="12895097460"/>
+ </way>
+ <way id="1393054071" visible="true" version="1" changeset="167314534" timestamp="2025-06-07T15:13:01Z" user="ParadoX_ZLWC" uid="2507347">
+  <nd ref="12895097465"/>
+  <nd ref="12895097466"/>
+  <nd ref="12895097467"/>
+  <nd ref="12895097468"/>
+  <nd ref="12895097465"/>
+ </way>
+ <relation id="19222156" visible="true" version="2" changeset="168407160" timestamp="2025-07-02T15:50:36Z" user="DanhengOSM" uid="22906389">
+  <member type="way" ref="1393054070" role="outer"/>
+  <member type="way" ref="1393054071" role="inner"/>
+  <tag k="addr:city" v="杭州市"/>
+  <tag k="addr:district" v="西湖区"/>
+  <tag k="addr:province" v="浙江省"/>
+  <tag k="building" v="yes"/>
+  <tag k="museum" v="local"/>
+  <tag k="name" v="浙江省非物质文化遗产馆"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

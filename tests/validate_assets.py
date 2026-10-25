@@ -6,7 +6,9 @@ data=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify
 credits=json.loads((root/'dist/assets/heritage/credits.json').read_text(encoding='utf-8'))
 expansion=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/expansion-data.js')))"],cwd=root,encoding='utf-8'))
 credits.update(expansion['images'])
-for item in data['museums']+data['crafts']+expansion['museums']+expansion['artifacts']:
+city_museums=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/city-museums.js')))"],cwd=root,encoding='utf-8'))
+credits.update(city_museums['images'])
+for item in data['museums']+data['crafts']+expansion['museums']+expansion['artifacts']+city_museums['museums']:
  assert item['cover']==item['gallery'][0],item['id']+' cover/gallery mismatch'
  for key in item['gallery']:
   credit=credits[key];assert credit['license'] and credit['source'] and credit['author']
@@ -16,7 +18,7 @@ for path in (root/'miniprogram').rglob('*.wxml'):
  # Normalize wx directives/boolean attributes only for XML structure validation.
  source=path.read_text(encoding='utf-8').replace('wx:','wx_').replace('&&','&amp;&amp;')
  source=re.sub(r'\{\{.*?\}\}',lambda m:m.group(0).replace('<','&lt;'),source,flags=re.S)
- source=re.sub(r'\b(wx_else|indicator-dots|scroll-x)(?=[\s>])',r'\1=""',source)
+ source=re.sub(r'\b(wx_else|indicator-dots|scroll-x|scroll-y)(?=[\s>])',r'\1=""',source)
  ET.fromstring('<root>'+source+'</root>')
 manifest=json.loads((root/'dist/assets/audio/manifest.json').read_text(encoding='utf-8'))
 assert len(manifest['jobs'])==23

@@ -87,6 +87,160 @@
       "pages": [
         "guide/index"
       ]
+    },
+    {
+      "root": "media/palace",
+      "name": "palace",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/national-china",
+      "name": "national-china",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/zhejiang-history",
+      "name": "zhejiang-history",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/national-silk",
+      "name": "national-silk",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/nanjing-museum",
+      "name": "nanjing-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/six-dynasties",
+      "name": "six-dynasties",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/chengdu-museum",
+      "name": "chengdu-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/sichuan-museum",
+      "name": "sichuan-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/guangdong-museum",
+      "name": "guangdong-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/nanyue",
+      "name": "nanyue",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/xian-museum",
+      "name": "xian-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/beilin",
+      "name": "beilin",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/shanghai-history",
+      "name": "shanghai-history",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/shanghai-nature",
+      "name": "shanghai-nature",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/suzhou-silk",
+      "name": "suzhou-silk",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/suzhou-garden",
+      "name": "suzhou-garden",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/wuhan-museum",
+      "name": "wuhan-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/xinhai",
+      "name": "xinhai",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/zhengzhou-museum",
+      "name": "zhengzhou-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/shangdu",
+      "name": "shangdu",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/changsha-museum",
+      "name": "changsha-museum",
+      "pages": [
+        "guide/index"
+      ]
+    },
+    {
+      "root": "media/changsha-slips",
+      "name": "changsha-slips",
+      "pages": [
+        "guide/index"
+      ]
     }
   ]
 }

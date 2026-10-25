@@ -1,0 +1,307 @@
+{
+  "Shu Brocade and Embroidery Museum Chengdu": [
+    {
+      "place_id": 241227466,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4130339065,
+      "lat": "30.6597633",
+      "lon": "104.0345095",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "tourism",
+      "name": "蜀锦织绣博物馆",
+      "display_name": "蜀锦织绣博物馆, 2号, 草堂东路, 浣花溪山庄, 草堂路社区, 草堂街道, 青羊区, 成都市, 四川省, 610072, 中国",
+      "address": {
+        "tourism": "蜀锦织绣博物馆",
+        "house_number": "2号",
+        "road": "草堂东路",
+        "neighbourhood": "浣花溪山庄",
+        "suburb": "草堂街道",
+        "city": "青羊区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610072",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6597133",
+        "30.6598133",
+        "104.0344595",
+        "104.0345595"
+      ]
+    }
+  ],
+  "蜀锦 博物馆 成都": [
+    {
+      "place_id": 241227466,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4130339065,
+      "lat": "30.6597633",
+      "lon": "104.0345095",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "tourism",
+      "name": "蜀锦织绣博物馆",
+      "display_name": "蜀锦织绣博物馆, 2号, 草堂东路, 浣花溪山庄, 草堂路社区, 草堂街道, 青羊区, 成都市, 四川省, 610072, 中国",
+      "address": {
+        "tourism": "蜀锦织绣博物馆",
+        "house_number": "2号",
+        "road": "草堂东路",
+        "neighbourhood": "浣花溪山庄",
+        "suburb": "草堂街道",
+        "city": "青羊区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610072",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6597133",
+        "30.6598133",
+        "104.0344595",
+        "104.0345595"
+      ]
+    }
+  ],
+  "蜀江锦院 成都": [
+    {
+      "place_id": 241678745,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1356603602,
+      "lat": "30.6455444",
+      "lon": "104.1029862",
+      "category": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "amenity",
+      "name": "成都市锦江区教育科学研究院附小",
+      "display_name": "成都市锦江区教育科学研究院附小, 经华南路, 蜀都花园, 牛市口街道, 锦江区, 成都市, 四川省, 610064, 中国",
+      "address": {
+        "amenity": "成都市锦江区教育科学研究院附小",
+        "road": "经华南路",
+        "residential": "蜀都花园",
+        "suburb": "牛市口街道",
+        "city": "锦江区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610064",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6446587",
+        "30.6460880",
+        "104.1021704",
+        "104.1035941"
+      ]
+    },
+    {
+      "place_id": 240749888,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1356107818,
+      "lat": "30.6656637",
+      "lon": "104.0790543",
+      "category": "amenity",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "amenity",
+      "name": "成都市和平街小学",
+      "display_name": "成都市和平街小学, 竹林巷, 书院街街道, 锦江区, 成都市, 四川省, 610017, 中国",
+      "address": {
+        "amenity": "成都市和平街小学",
+        "road": "竹林巷",
+        "suburb": "书院街街道",
+        "city": "锦江区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610017",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6651368",
+        "30.6660421",
+        "104.0786272",
+        "104.0794815"
+      ]
+    },
+    {
+      "place_id": 241467335,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1356111404,
+      "lat": "30.6618075",
+      "lon": "104.0862779",
+      "category": "amenity",
+      "type": "kindergarten",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "amenity",
+      "name": "成都市锦江区天涯石幼儿园",
+      "display_name": "成都市锦江区天涯石幼儿园, 天涯石北街, 玉锦苑, 书院街街道, 锦江区, 成都市, 四川省, 610017, 中国",
+      "address": {
+        "amenity": "成都市锦江区天涯石幼儿园",
+        "road": "天涯石北街",
+        "neighbourhood": "玉锦苑",
+        "suburb": "书院街街道",
+        "city": "锦江区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610017",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6614422",
+        "30.6622298",
+        "104.0859293",
+        "104.0866692"
+      ]
+    },
+    {
+      "place_id": 241035203,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1355933976,
+      "lat": "30.6690726",
+      "lon": "104.0896711",
+      "category": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "office",
+      "name": "成都市河道监管事务中心",
+      "display_name": "成都市河道监管事务中心, 东较场街, 玉锦苑, 书院街街道, 锦江区, 成都市, 四川省, 610017, 中国",
+      "address": {
+        "office": "成都市河道监管事务中心",
+        "road": "东较场街",
+        "neighbourhood": "玉锦苑",
+        "suburb": "书院街街道",
+        "city": "锦江区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610017",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6687856",
+        "30.6694233",
+        "104.0892355",
+        "104.0900849"
+      ]
+    },
+    {
+      "place_id": 239034907,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 886169170,
+      "lat": "30.6694225",
+      "lon": "104.0867116",
+      "category": "building",
+      "type": "school",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "building",
+      "name": "成都市天涯石小学(昭忠祠分校)",
+      "display_name": "成都市天涯石小学(昭忠祠分校), 昭忠祠街, 书院街街道, 锦江区, 成都市, 四川省, 610017, 中国",
+      "address": {
+        "building": "成都市天涯石小学(昭忠祠分校)",
+        "road": "昭忠祠街",
+        "suburb": "书院街街道",
+        "city": "锦江区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610017",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6692554",
+        "30.6697814",
+        "104.0865702",
+        "104.0872121"
+      ]
+    }
+  ],
+  "成都 蜀绣博物馆": [
+    {
+      "place_id": 241227466,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4130339065,
+      "lat": "30.6597633",
+      "lon": "104.0345095",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "tourism",
+      "name": "蜀锦织绣博物馆",
+      "display_name": "蜀锦织绣博物馆, 2号, 草堂东路, 浣花溪山庄, 草堂路社区, 草堂街道, 青羊区, 成都市, 四川省, 610072, 中国",
+      "address": {
+        "tourism": "蜀锦织绣博物馆",
+        "house_number": "2号",
+        "road": "草堂东路",
+        "neighbourhood": "浣花溪山庄",
+        "suburb": "草堂街道",
+        "city": "青羊区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610072",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.6597133",
+        "30.6598133",
+        "104.0344595",
+        "104.0345595"
+      ]
+    },
+    {
+      "place_id": 241029779,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6002106886,
+      "lat": "30.7706724",
+      "lon": "104.0084032",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "tourism",
+      "name": "蜀绣公园",
+      "display_name": "蜀绣公园, 蜀绣商业街, 安靖街道, 郫都区, 成都市, 四川省, 610501, 中国",
+      "address": {
+        "tourism": "蜀绣公园",
+        "road": "蜀绣商业街",
+        "town": "安靖街道",
+        "city": "郫都区",
+        "state": "四川省",
+        "ISO3166-2-lvl4": "CN-SC",
+        "postcode": "610501",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.7706224",
+        "30.7707224",
+        "104.0083532",
+        "104.0084532"
+      ]
+    }
+  ]
+}

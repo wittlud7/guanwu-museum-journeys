@@ -1,0 +1,200 @@
+[
+  {
+    "id": "beijing",
+    "name": "中国工艺美术馆 · 中国非遗馆",
+    "address": "北京市朝阳区湖景东路16号",
+    "city": "北京"
+  },
+  {
+    "id": "hangzhou",
+    "name": "浙江省非物质文化遗产馆",
+    "address": "杭州市西湖区江涵路300号之江文化中心",
+    "city": "杭州"
+  },
+  {
+    "id": "nanjing",
+    "name": "南京云锦博物馆",
+    "address": "南京市建邺区茶亭东街240号",
+    "city": "南京"
+  },
+  {
+    "id": "chengdu",
+    "name": "成都蜀锦织绣博物馆",
+    "address": "成都市青羊区草堂东路18号",
+    "city": "成都"
+  },
+  {
+    "id": "guangzhou",
+    "name": "粤剧艺术博物馆",
+    "address": "广州市荔湾区恩宁路127号",
+    "city": "广州"
+  },
+  {
+    "id": "xian",
+    "name": "陕西历史博物馆",
+    "address": "西安市雁塔区小寨东路91号",
+    "city": "西安"
+  },
+  {
+    "id": "shanghai",
+    "name": "上海博物馆",
+    "address": "上海市黄浦区人民大道201号（人民广场馆）；浦东新区世纪大道1952号（东馆）",
+    "city": "上海"
+  },
+  {
+    "id": "suzhou",
+    "name": "苏州博物馆",
+    "address": "苏州市姑苏区东北街204号（本馆）",
+    "city": "苏州"
+  },
+  {
+    "id": "wuhan",
+    "name": "湖北省博物馆",
+    "address": "武汉市武昌区东湖路160号",
+    "city": "武汉"
+  },
+  {
+    "id": "zhengzhou",
+    "name": "河南博物院",
+    "address": "郑州市金水区农业路8号",
+    "city": "郑州"
+  },
+  {
+    "id": "changsha",
+    "name": "湖南博物院",
+    "address": "长沙市开福区东风路50号",
+    "city": "长沙"
+  },
+  {
+    "id": "palace",
+    "name": "故宫博物院",
+    "address": "北京市东城区景山前街4号",
+    "city": "北京"
+  },
+  {
+    "id": "national-china",
+    "name": "中国国家博物馆",
+    "address": "北京市东城区东长安街16号",
+    "city": "北京"
+  },
+  {
+    "id": "zhejiang-history",
+    "name": "浙江省博物馆",
+    "address": "杭州市西湖区孤山路25号（孤山馆区）；之江馆区位于之江文化中心，请确认目的馆区",
+    "city": "杭州"
+  },
+  {
+    "id": "national-silk",
+    "name": "中国丝绸博物馆",
+    "address": "杭州市玉皇山路73-1号",
+    "city": "杭州"
+  },
+  {
+    "id": "nanjing-museum",
+    "name": "南京博物院",
+    "address": "南京市玄武区中山东路321号",
+    "city": "南京"
+  },
+  {
+    "id": "six-dynasties",
+    "name": "六朝博物馆",
+    "address": "南京市玄武区长江路302号",
+    "city": "南京"
+  },
+  {
+    "id": "chengdu-museum",
+    "name": "成都博物馆",
+    "address": "成都市青羊区小河街1号",
+    "city": "成都"
+  },
+  {
+    "id": "sichuan-museum",
+    "name": "四川博物院",
+    "address": "成都市青羊区浣花南路251号",
+    "city": "成都"
+  },
+  {
+    "id": "guangdong-museum",
+    "name": "广东省博物馆",
+    "address": "广州市天河区珠江新城珠江东路2号",
+    "city": "广州"
+  },
+  {
+    "id": "nanyue",
+    "name": "南越王博物院",
+    "address": "广州市解放北路867号（王墓展区）；中山四路316号（王宫展区）",
+    "city": "广州"
+  },
+  {
+    "id": "xian-museum",
+    "name": "西安博物院",
+    "address": "西安市碑林区友谊西路72号",
+    "city": "西安"
+  },
+  {
+    "id": "beilin",
+    "name": "西安碑林博物馆",
+    "address": "西安市碑林区三学街15号",
+    "city": "西安"
+  },
+  {
+    "id": "shanghai-history",
+    "name": "上海市历史博物馆",
+    "address": "上海市黄浦区南京西路325号",
+    "city": "上海"
+  },
+  {
+    "id": "shanghai-nature",
+    "name": "上海自然博物馆",
+    "address": "上海市静安区北京西路510号",
+    "city": "上海"
+  },
+  {
+    "id": "suzhou-silk",
+    "name": "苏州丝绸博物馆",
+    "address": "苏州市姑苏区人民路2001号",
+    "city": "苏州"
+  },
+  {
+    "id": "suzhou-garden",
+    "name": "苏州园林博物馆",
+    "address": "苏州市姑苏区东北街202号",
+    "city": "苏州"
+  },
+  {
+    "id": "wuhan-museum",
+    "name": "武汉博物馆",
+    "address": "武汉市江汉区青年路373号",
+    "city": "武汉"
+  },
+  {
+    "id": "xinhai",
+    "name": "辛亥革命博物院",
+    "address": "武汉市武昌区武珞路特1号（北院）；彭刘杨路258号（南院）",
+    "city": "武汉"
+  },
+  {
+    "id": "zhengzhou-museum",
+    "name": "郑州博物馆",
+    "address": "郑州市中原区文翰街9号（文翰街馆）",
+    "city": "郑州"
+  },
+  {
+    "id": "shangdu",
+    "name": "郑州商都遗址博物院",
+    "address": "郑州市管城回族区东大街366号",
+    "city": "郑州"
+  },
+  {
+    "id": "changsha-museum",
+    "name": "长沙博物馆",
+    "address": "长沙市开福区新河三角洲滨江文化园内",
+    "city": "长沙"
+  },
+  {
+    "id": "changsha-slips",
+    "name": "长沙简牍博物馆",
+    "address": "长沙市天心区白沙路92号",
+    "city": "长沙"
+  }
+]

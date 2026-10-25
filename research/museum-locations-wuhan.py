@@ -1,0 +1,5 @@
+import json,urllib.request,xml.etree.ElementTree as ET
+from pathlib import Path
+k='wuhan-museum';n=369445342
+u=f'https://api.openstreetmap.org/api/0.6/way/{n}/full';raw=urllib.request.urlopen(urllib.request.Request(u,headers={'User-Agent':'GuanwuMuseumGuide/3.0'}),timeout=20).read();Path('research/museum-locations-osm-'+k+'.xml').write_bytes(raw);r=ET.fromstring(raw);w=r.find('way');tags={t.attrib['k']:t.attrib['v'] for t in w.findall('tag')};coords=[(float(v.attrib['lat']),float(v.attrib['lon'])) for v in r.findall('node')];center=((min(x[0] for x in coords)+max(x[0] for x in coords))/2,(min(x[1] for x in coords)+max(x[1] for x in coords))/2)
+p=Path('research/museum-locations-osm-reviewed.json');d=json.loads(p.read_text(encoding='utf8'));d[k]={'lat':center[0],'lng':center[1],'tags':tags,'source':'https://www.openstreetmap.org/way/'+str(n),'geometryType':'way bounding-box center','nodeCount':len(coords)};p.write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf8');print(d[k])

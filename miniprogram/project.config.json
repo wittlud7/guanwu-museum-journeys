@@ -19,6 +19,10 @@
         "value": "assets"
       },
       {
+        "type": "folder",
+        "value": "media/suzhou-brick"
+      },
+      {
         "type": "file",
         "value": "README.md"
       }

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2450565 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="4242323407" visible="true" version="3" changeset="156306774" timestamp="2024-09-07T10:17:33Z" user="73492665972" uid="21890687" lat="23.1186671" lon="113.2320460"/>
+ <node id="4242323408" visible="true" version="2" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1185342" lon="113.2321471"/>
+ <node id="8930734108" visible="true" version="2" changeset="135272853" timestamp="2023-04-23T18:20:02Z" user="samsung galaxy s6" uid="3691120" lat="23.1185949" lon="113.2322918"/>
+ <node id="8930734109" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1188059" lon="113.2325491"/>
+ <node id="8930734110" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1188603" lon="113.2327055"/>
+ <node id="8930734111" visible="true" version="2" changeset="135272853" timestamp="2023-04-23T18:20:02Z" user="samsung galaxy s6" uid="3691120" lat="23.1188469" lon="113.2328284"/>
+ <node id="8930734112" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1186115" lon="113.2331873"/>
+ <node id="8930734113" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1182034" lon="113.2334747"/>
+ <node id="8930734114" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1181295" lon="113.2334873"/>
+ <node id="8930734115" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1178497" lon="113.2334155"/>
+ <node id="8930734116" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1178652" lon="113.2333267"/>
+ <node id="8930752217" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1174571" lon="113.2331196"/>
+ <node id="8930752218" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1176203" lon="113.2328449"/>
+ <node id="8930752219" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1176670" lon="113.2328787"/>
+ <node id="8930752220" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1177952" lon="113.2326505"/>
+ <node id="8930752221" visible="true" version="1" changeset="108195064" timestamp="2021-07-18T14:37:35Z" user="YPGGUUY" uid="3421839" lat="23.1179099" lon="113.2327498"/>
+ <node id="10834326620" visible="true" version="1" changeset="135272853" timestamp="2023-04-23T18:20:02Z" user="samsung galaxy s6" uid="3691120" lat="23.1188481" lon="113.2326704"/>
+ <node id="10834326621" visible="true" version="1" changeset="135272853" timestamp="2023-04-23T18:20:02Z" user="samsung galaxy s6" uid="3691120" lat="23.1188161" lon="113.2325783"/>
+ <node id="10834326622" visible="true" version="1" changeset="135272853" timestamp="2023-04-23T18:20:02Z" user="samsung galaxy s6" uid="3691120" lat="23.1187705" lon="113.2325060"/>
+ <node id="12161626998" visible="true" version="1" changeset="156306774" timestamp="2024-09-07T10:17:33Z" user="73492665972" uid="21890687" lat="23.1175041" lon="113.2331435"/>
+ <way id="965382977" visible="true" version="11" changeset="183508770" timestamp="2026-06-01T16:37:39Z" user="ParadoXXXXXX" uid="23609265">
+  <nd ref="4242323407"/>
+  <nd ref="8930734108"/>
+  <nd ref="10834326622"/>
+  <nd ref="8930734109"/>
+  <nd ref="10834326621"/>
+  <nd ref="10834326620"/>
+  <nd ref="8930734110"/>
+  <nd ref="8930734111"/>
+  <nd ref="8930734112"/>
+  <nd ref="8930734113"/>
+  <nd ref="8930734114"/>
+  <nd ref="8930734115"/>
+  <nd ref="8930734116"/>
+  <nd ref="12161626998"/>
+  <nd ref="8930752217"/>
+  <nd ref="8930752218"/>
+  <nd ref="8930752219"/>
+  <nd ref="8930752220"/>
+  <nd ref="8930752221"/>
+  <nd ref="4242323408"/>
+  <nd ref="4242323407"/>
+  <tag k="addr:city" v="广州市"/>
+  <tag k="addr:district" v="荔湾区"/>
+  <tag k="addr:housenumber" v="127"/>
+  <tag k="addr:province" v="广东省"/>
+  <tag k="addr:street" v="恩宁路"/>
+  <tag k="fee" v="no"/>
+  <tag k="museum" v="art"/>
+  <tag k="name" v="粤剧艺术博物馆"/>
+  <tag k="name:en" v="Cantonese Opera Art Museum"/>
+  <tag k="opening_hours" v="Tu-Su 09:00-16:00"/>
+  <tag k="phone" v="+86 20 8182 0026"/>
+  <tag k="start_date" v="2016-6-9"/>
+  <tag k="toilets" v="yes"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="website" v="https://www.yjysmuseum.com/"/>
+  <tag k="wheelchair" v="limited"/>
+  <tag k="wikidata" v="Q27670238"/>
+  <tag k="wikipedia" v="zh:粵劇藝術博物館"/>
+ </way>
+</osm>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2229424 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="4628920013" visible="true" version="2" changeset="50343489" timestamp="2017-07-17T08:14:04Z" user="Austin Zhu" uid="4816761" lat="31.3256279" lon="120.6261695"/>
+ <node id="4974800766" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:12:21Z" user="Austin Zhu" uid="4816761" lat="31.3256140" lon="120.6256527"/>
+ <node id="4974800767" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:12:21Z" user="Austin Zhu" uid="4816761" lat="31.3255987" lon="120.6255663"/>
+ <node id="4974806043" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:13:37Z" user="Austin Zhu" uid="4816761" lat="31.3255554" lon="120.6253311"/>
+ <node id="4974806044" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:13:37Z" user="Austin Zhu" uid="4816761" lat="31.3256247" lon="120.6257100"/>
+ <node id="4974806045" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:13:37Z" user="Austin Zhu" uid="4816761" lat="31.3256012" lon="120.6257254"/>
+ <node id="4974806046" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:13:37Z" user="Austin Zhu" uid="4816761" lat="31.3256471" lon="120.6259373"/>
+ <node id="4974806047" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:13:37Z" user="Austin Zhu" uid="4816761" lat="31.3255932" lon="120.6259520"/>
+ <node id="4974806048" visible="true" version="1" changeset="50343489" timestamp="2017-07-17T08:13:37Z" user="Austin Zhu" uid="4816761" lat="31.3254512" lon="120.6262109"/>
+ <node id="4974978361" visible="true" version="1" changeset="50345381" timestamp="2017-07-17T09:39:47Z" user="Austin Zhu" uid="4816761" lat="31.3255785" lon="120.6254567"/>
+ <node id="5245264822" visible="true" version="1" changeset="54042042" timestamp="2017-11-24T06:50:14Z" user="Austin Zhu" uid="4816761" lat="31.3254248" lon="120.6262176"/>
+ <node id="5245264824" visible="true" version="1" changeset="54042042" timestamp="2017-11-24T06:50:14Z" user="Austin Zhu" uid="4816761" lat="31.3252358" lon="120.6254250"/>
+ <way id="542534200" visible="true" version="3" changeset="137772145" timestamp="2023-06-26T03:43:16Z" user="cnvery" uid="3627342">
+  <nd ref="5245264824"/>
+  <nd ref="5245264822"/>
+  <nd ref="4974806048"/>
+  <nd ref="4628920013"/>
+  <nd ref="4974806047"/>
+  <nd ref="4974806046"/>
+  <nd ref="4974806045"/>
+  <nd ref="4974806044"/>
+  <nd ref="4974800766"/>
+  <nd ref="4974800767"/>
+  <nd ref="4974978361"/>
+  <nd ref="4974806043"/>
+  <nd ref="5245264824"/>
+  <tag k="landuse" v="commercial"/>
+  <tag k="name" v="苏州园林博物馆"/>
+  <tag k="name:zh" v="苏州园林博物馆"/>
+  <tag k="name:zh-Hans" v="苏州园林博物馆"/>
+  <tag k="name:zh-Hant" v="蘇州園林博物館"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+</osm>

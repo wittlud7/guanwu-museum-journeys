@@ -1,0 +1,352 @@
+{
+  "continue": {
+    "cocontinue": "368090|72332629",
+    "continue": "||pageprops"
+  },
+  "query": {
+    "redirects": [
+      {
+        "from": "西汉南越王博物馆",
+        "to": "南越王博物院王墓展区"
+      },
+      {
+        "from": "湖南博物院",
+        "to": "湖南省博物馆"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 0,
+        "title": "浙江省非物质文化遗产馆",
+        "missing": ""
+      },
+      "-2": {
+        "ns": 0,
+        "title": "成都蜀锦织绣博物馆",
+        "missing": ""
+      },
+      "-3": {
+        "ns": 0,
+        "title": "粤剧艺术博物馆",
+        "missing": ""
+      },
+      "-4": {
+        "ns": 0,
+        "title": "郑州商都遗址博物院",
+        "missing": ""
+      },
+      "15599": {
+        "pageid": 15599,
+        "ns": 0,
+        "title": "上海博物馆",
+        "pageprops": {
+          "wikibase_item": "Q1051293"
+        },
+        "coordinates": [
+          {
+            "lat": 31.230278,
+            "lon": 121.470556,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "442091": {
+        "pageid": 442091,
+        "ns": 0,
+        "title": "上海市历史博物馆",
+        "pageprops": {
+          "wikibase_item": "Q779273"
+        }
+      },
+      "979427": {
+        "pageid": 979427,
+        "ns": 0,
+        "title": "上海自然博物馆",
+        "pageprops": {
+          "wikibase_item": "Q1312291"
+        }
+      },
+      "1242193": {
+        "pageid": 1242193,
+        "ns": 0,
+        "title": "中国丝绸博物馆",
+        "pageprops": {
+          "wikibase_item": "Q569019"
+        }
+      },
+      "20660": {
+        "pageid": 20660,
+        "ns": 0,
+        "title": "中国国家博物馆",
+        "pageprops": {
+          "wikibase_item": "Q1074318"
+        },
+        "coordinates": [
+          {
+            "lat": 39.9036,
+            "lon": 116.395,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "3039277": {
+        "pageid": 3039277,
+        "ns": 0,
+        "title": "中国工艺美术馆",
+        "pageprops": {
+          "wikibase_item": "Q10873736"
+        }
+      },
+      "6651911": {
+        "pageid": 6651911,
+        "ns": 0,
+        "title": "六朝博物馆",
+        "pageprops": {
+          "wikibase_item": "Q67931941"
+        }
+      },
+      "3265041": {
+        "pageid": 3265041,
+        "ns": 0,
+        "title": "南京云锦博物馆",
+        "pageprops": {
+          "wikibase_item": "Q10906649"
+        }
+      },
+      "57785": {
+        "pageid": 57785,
+        "ns": 0,
+        "title": "南京博物院",
+        "pageprops": {
+          "wikibase_item": "Q1815891"
+        },
+        "coordinates": [
+          {
+            "lat": 32.04264444,
+            "lon": 118.82017222,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "1008572": {
+        "pageid": 1008572,
+        "ns": 0,
+        "title": "四川博物院",
+        "pageprops": {
+          "wikibase_item": "Q10924774"
+        }
+      },
+      "72341": {
+        "pageid": 72341,
+        "ns": 0,
+        "title": "广东省博物馆",
+        "pageprops": {
+          "wikibase_item": "Q5613636"
+        },
+        "coordinates": [
+          {
+            "lat": 23.11721389,
+            "lon": 113.32138611,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "6176660": {
+        "pageid": 6176660,
+        "ns": 0,
+        "title": "成都博物馆",
+        "pageprops": {
+          "wikibase_item": "Q55696247"
+        }
+      },
+      "52376": {
+        "pageid": 52376,
+        "ns": 0,
+        "title": "故宫博物院",
+        "pageprops": {
+          "wikibase_item": "Q2047427"
+        },
+        "coordinates": [
+          {
+            "lat": 39.915556,
+            "lon": 116.390833,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "1540346": {
+        "pageid": 1540346,
+        "ns": 0,
+        "title": "武汉博物馆",
+        "pageprops": {
+          "wikibase_item": "Q8039084"
+        }
+      },
+      "368090": {
+        "pageid": 368090,
+        "ns": 0,
+        "title": "河南博物院",
+        "pageprops": {
+          "wikibase_item": "Q857752"
+        }
+      },
+      "959109": {
+        "pageid": 959109,
+        "ns": 0,
+        "title": "浙江省博物馆",
+        "pageprops": {
+          "wikibase_item": "Q1278762"
+        }
+      },
+      "71902": {
+        "pageid": 71902,
+        "ns": 0,
+        "title": "湖北省博物馆",
+        "pageprops": {
+          "wikibase_item": "Q4391403"
+        },
+        "coordinates": [
+          {
+            "lat": 30.56388889,
+            "lon": 114.35888889,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "3345449": {
+        "pageid": 3345449,
+        "ns": 0,
+        "title": "苏州丝绸博物馆",
+        "pageprops": {
+          "wikibase_item": "Q4806827"
+        }
+      },
+      "693447": {
+        "pageid": 693447,
+        "ns": 0,
+        "title": "苏州博物馆",
+        "pageprops": {
+          "wikibase_item": "Q998042"
+        }
+      },
+      "1080712": {
+        "pageid": 1080712,
+        "ns": 0,
+        "title": "苏州园林博物馆",
+        "pageprops": {
+          "wikibase_item": "Q2914069"
+        }
+      },
+      "3200932": {
+        "pageid": 3200932,
+        "ns": 0,
+        "title": "西安博物院",
+        "pageprops": {
+          "wikibase_item": "Q15928831"
+        }
+      },
+      "79122": {
+        "pageid": 79122,
+        "ns": 0,
+        "title": "西安碑林博物馆",
+        "pageprops": {
+          "wikibase_item": "Q10519071"
+        },
+        "coordinates": [
+          {
+            "lat": 34.255,
+            "lon": 108.94833333,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "5690715": {
+        "pageid": 5690715,
+        "ns": 0,
+        "title": "辛亥革命博物馆",
+        "pageprops": {
+          "wikibase_item": "Q30946741"
+        }
+      },
+      "3144625": {
+        "pageid": 3144625,
+        "ns": 0,
+        "title": "郑州博物馆",
+        "pageprops": {
+          "wikibase_item": "Q15935528"
+        }
+      },
+      "5974132": {
+        "pageid": 5974132,
+        "ns": 0,
+        "title": "长沙市博物馆",
+        "pageprops": {
+          "wikibase_item": "Q28837838"
+        }
+      },
+      "5733978": {
+        "pageid": 5733978,
+        "ns": 0,
+        "title": "长沙简牍博物馆",
+        "pageprops": {
+          "wikibase_item": "Q28824296"
+        }
+      },
+      "25070": {
+        "pageid": 25070,
+        "ns": 0,
+        "title": "陕西历史博物馆",
+        "pageprops": {
+          "wikibase_item": "Q1151210"
+        },
+        "coordinates": [
+          {
+            "lat": 34.22505,
+            "lon": 108.95063,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "244045": {
+        "pageid": 244045,
+        "ns": 0,
+        "title": "南越王博物院王墓展区",
+        "pageprops": {
+          "wikibase_item": "Q1507198"
+        },
+        "coordinates": [
+          {
+            "lat": 23.14037778,
+            "lon": 113.25615278,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      },
+      "218827": {
+        "pageid": 218827,
+        "ns": 0,
+        "title": "湖南省博物馆",
+        "pageprops": {
+          "wikibase_item": "Q5942029"
+        },
+        "coordinates": [
+          {
+            "lat": 28.21526,
+            "lon": 112.98784,
+            "primary": "",
+            "globe": "earth"
+          }
+        ]
+      }
+    }
+  }
+}

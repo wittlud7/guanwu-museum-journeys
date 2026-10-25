@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2450585 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="12414370608" visible="true" version="2" changeset="168315615" timestamp="2025-06-30T15:39:26Z" user="Popolon" uid="27454" lat="34.7468540" lon="113.6796126"/>
+ <node id="12414370609" visible="true" version="2" changeset="168315615" timestamp="2025-06-30T15:39:26Z" user="Popolon" uid="27454" lat="34.7467048" lon="113.6802782"/>
+ <node id="12414370610" visible="true" version="2" changeset="168315615" timestamp="2025-06-30T15:39:26Z" user="Popolon" uid="27454" lat="34.7472935" lon="113.6815556"/>
+ <node id="12414370611" visible="true" version="2" changeset="168315615" timestamp="2025-06-30T15:39:26Z" user="Popolon" uid="27454" lat="34.7478884" lon="113.6817350"/>
+ <node id="12414370612" visible="true" version="2" changeset="168315615" timestamp="2025-06-30T15:39:26Z" user="Popolon" uid="27454" lat="34.7483962" lon="113.6796781"/>
+ <node id="12715294558" visible="true" version="1" changeset="164314730" timestamp="2025-03-31T07:04:48Z" user="user_22618864" uid="22618864" lat="34.7481679" lon="113.6806812"/>
+ <node id="12964667730" visible="true" version="1" changeset="168315615" timestamp="2025-06-30T15:39:26Z" user="Popolon" uid="27454" lat="34.7478554" lon="113.6817679"/>
+ <way id="1341987750" visible="true" version="5" changeset="168315615" timestamp="2025-06-30T15:39:26Z" user="Popolon" uid="27454">
+  <nd ref="12414370608"/>
+  <nd ref="12414370609"/>
+  <nd ref="12414370610"/>
+  <nd ref="12964667730"/>
+  <nd ref="12414370611"/>
+  <nd ref="12715294558"/>
+  <nd ref="12414370612"/>
+  <nd ref="12414370608"/>
+  <tag k="museum" v="history"/>
+  <tag k="name" v="郑州商都遗址博物院"/>
+  <tag k="name:en" v="Zhengzhou Shangdu Site Museum"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+</osm>

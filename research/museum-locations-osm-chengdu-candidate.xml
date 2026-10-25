@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2356393 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="4130339065" visible="true" version="5" changeset="138826136" timestamp="2023-07-21T18:25:37Z" user="cEvLGWiQ" uid="5432507" lat="30.6597633" lon="104.0345095">
+  <tag k="addr:housenumber" v="2号"/>
+  <tag k="addr:street" v="草堂东路"/>
+  <tag k="name" v="蜀锦织绣博物馆"/>
+  <tag k="name:en" v="Shu Brocade and Embroidery Museum"/>
+  <tag k="name:ru" v="Академия парчи Шу"/>
+  <tag k="name:zh" v="蜀锦织绣博物馆"/>
+  <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa, Su 09:00-17:30"/>
+  <tag k="phone" v="+86 28 8738 3891"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+</osm>

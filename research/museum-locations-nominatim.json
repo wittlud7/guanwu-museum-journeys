@@ -1,0 +1,104 @@
+{
+  "hangzhou": [
+    {
+      "place_id": 224818244,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 19222156,
+      "lat": "30.1621241",
+      "lon": "120.0993934",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 6.254596780341829e-05,
+      "addresstype": "tourism",
+      "name": "浙江省非物质文化遗产馆",
+      "display_name": "浙江省非物质文化遗产馆, 江涵路, 转塘街道, 西湖区, 杭州市, 浙江省, 310024, 中国",
+      "address": {
+        "tourism": "浙江省非物质文化遗产馆",
+        "road": "江涵路",
+        "suburb": "转塘街道",
+        "city": "西湖区",
+        "state": "浙江省",
+        "ISO3166-2-lvl4": "CN-ZJ",
+        "postcode": "310024",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.1616152",
+        "30.1627013",
+        "120.0987056",
+        "120.0996082"
+      ]
+    },
+    {
+      "place_id": 224683611,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12691357506,
+      "lat": "30.1608063",
+      "lon": "120.1000625",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 6.254596780341829e-05,
+      "addresstype": "highway",
+      "name": "浙江省非物质文化遗产馆",
+      "display_name": "浙江省非物质文化遗产馆, 江涵路, 转塘街道, 西湖区, 杭州市, 浙江省, 310024, 中国",
+      "address": {
+        "highway": "浙江省非物质文化遗产馆",
+        "road": "江涵路",
+        "suburb": "转塘街道",
+        "city": "西湖区",
+        "state": "浙江省",
+        "ISO3166-2-lvl4": "CN-ZJ",
+        "postcode": "310024",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "30.1607563",
+        "30.1608563",
+        "120.1000125",
+        "120.1001125"
+      ]
+    }
+  ],
+  "chengdu": [],
+  "shangdu": [
+    {
+      "place_id": 221331982,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1341987750,
+      "lat": "34.7475745",
+      "lon": "113.6806525",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 6.0002288853238995e-05,
+      "addresstype": "tourism",
+      "name": "郑州商都遗址博物院",
+      "display_name": "郑州商都遗址博物院, 东大街, 东大街街道, 管城回族区, 郑州市, 河南省, 450000, 中国",
+      "address": {
+        "tourism": "郑州商都遗址博物院",
+        "road": "东大街",
+        "suburb": "东大街街道",
+        "district": "管城回族区",
+        "city": "郑州市",
+        "state": "河南省",
+        "ISO3166-2-lvl4": "CN-HA",
+        "postcode": "450000",
+        "country": "中国",
+        "country_code": "cn"
+      },
+      "boundingbox": [
+        "34.7467048",
+        "34.7483962",
+        "113.6796126",
+        "113.6817679"
+      ]
+    }
+  ]
+}

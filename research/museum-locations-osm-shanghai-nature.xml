@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2471393 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="4250719433" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:26Z" user="stenive" uid="3836466" lat="31.2370726" lon="121.4572825"/>
+ <node id="4250719434" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:26Z" user="stenive" uid="3836466" lat="31.2371876" lon="121.4574367"/>
+ <node id="4250719435" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:26Z" user="stenive" uid="3836466" lat="31.2373161" lon="121.4576146"/>
+ <node id="4250719436" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:26Z" user="stenive" uid="3836466" lat="31.2374344" lon="121.4578044"/>
+ <node id="4250719437" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2374919" lon="121.4579349"/>
+ <node id="4250719438" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2376034" lon="121.4581761"/>
+ <node id="4250719439" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2376711" lon="121.4583541"/>
+ <node id="4250719440" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2372417" lon="121.4585320"/>
+ <node id="4250719441" visible="true" version="2" changeset="43266930" timestamp="2016-10-29T14:36:16Z" user="user_514683" uid="514683" lat="31.2368052" lon="121.4587423"/>
+ <node id="4250719442" visible="true" version="2" changeset="43266930" timestamp="2016-10-29T14:36:16Z" user="user_514683" uid="514683" lat="31.2366808" lon="121.4583442"/>
+ <node id="4250719443" visible="true" version="2" changeset="43266930" timestamp="2016-10-29T14:36:16Z" user="user_514683" uid="514683" lat="31.2367702" lon="121.4583471"/>
+ <node id="4250719444" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2368157" lon="121.4583383"/>
+ <node id="4250719445" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2369036" lon="121.4583106"/>
+ <node id="4250719446" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2369746" lon="121.4582789"/>
+ <node id="4250719447" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2370219" lon="121.4581999"/>
+ <node id="4250719448" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2370287" lon="121.4581247"/>
+ <node id="4250719449" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2370118" lon="121.4580694"/>
+ <node id="4250719450" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2369611" lon="121.4579903"/>
+ <node id="4250719451" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2368867" lon="121.4579389"/>
+ <node id="4250719452" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2367988" lon="121.4579033"/>
+ <node id="4250719453" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2367210" lon="121.4578954"/>
+ <node id="4250719454" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2366297" lon="121.4579151"/>
+ <node id="4250719455" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2365452" lon="121.4579507"/>
+ <node id="4250719456" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2364336" lon="121.4580259"/>
+ <node id="4250719461" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2360934" lon="121.4581131"/>
+ <node id="4250719462" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2361473" lon="121.4580337"/>
+ <node id="4250719463" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2362003" lon="121.4579754"/>
+ <node id="4250719464" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2362761" lon="121.4579006"/>
+ <node id="4250719465" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2363474" lon="121.4578545"/>
+ <node id="4250719466" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2364447" lon="121.4578066"/>
+ <node id="4250719467" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2365703" lon="121.4577676"/>
+ <node id="4250719468" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2366677" lon="121.4577646"/>
+ <node id="4250719469" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2367317" lon="121.4577676"/>
+ <node id="4250719470" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2367522" lon="121.4576777"/>
+ <node id="4250719471" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2366369" lon="121.4576807"/>
+ <node id="4250719472" visible="true" version="1" changeset="40119118" timestamp="2016-06-18T16:08:27Z" user="stenive" uid="3836466" lat="31.2367753" lon="121.4575518"/>
+ <node id="4470092441" visible="true" version="1" changeset="43266930" timestamp="2016-10-29T14:36:16Z" user="user_514683" uid="514683" lat="31.2367561" lon="121.4585325"/>
+ <node id="4470092443" visible="true" version="1" changeset="43266930" timestamp="2016-10-29T14:36:16Z" user="user_514683" uid="514683" lat="31.2367200" lon="121.4585597"/>
+ <node id="4470092444" visible="true" version="1" changeset="43266930" timestamp="2016-10-29T14:36:16Z" user="user_514683" uid="514683" lat="31.2368443" lon="121.4587242"/>
+ <node id="7818556545" visible="true" version="1" changeset="89491694" timestamp="2020-08-17T04:24:38Z" user="MatterOmaps" uid="10811314" lat="31.2362791" lon="121.4583385"/>
+ <node id="7818556546" visible="true" version="1" changeset="89491694" timestamp="2020-08-17T04:24:38Z" user="MatterOmaps" uid="10811314" lat="31.2362848" lon="121.4583185"/>
+ <node id="7818556547" visible="true" version="1" changeset="89491694" timestamp="2020-08-17T04:24:38Z" user="MatterOmaps" uid="10811314" lat="31.2363153" lon="121.4581999"/>
+ <node id="7818556548" visible="true" version="1" changeset="89491694" timestamp="2020-08-17T04:24:38Z" user="MatterOmaps" uid="10811314" lat="31.2363660" lon="121.4581129"/>
+ <node id="7818556549" visible="true" version="1" changeset="89491694" timestamp="2020-08-17T04:24:38Z" user="MatterOmaps" uid="10811314" lat="31.2364273" lon="121.4580340"/>
+ <node id="9296400131" visible="true" version="1" changeset="114405022" timestamp="2021-11-30T14:16:06Z" user="Maps Man" uid="10216874" lat="31.2370446" lon="121.4586230"/>
+ <way id="425762388" visible="true" version="15" changeset="143669190" timestamp="2023-11-05T22:06:04Z" user="tg4567" uid="12500589">
+  <nd ref="4250719433"/>
+  <nd ref="4250719434"/>
+  <nd ref="4250719435"/>
+  <nd ref="4250719436"/>
+  <nd ref="4250719437"/>
+  <nd ref="4250719438"/>
+  <nd ref="4250719439"/>
+  <nd ref="4250719440"/>
+  <nd ref="9296400131"/>
+  <nd ref="4470092444"/>
+  <nd ref="4250719441"/>
+  <nd ref="4470092443"/>
+  <nd ref="4470092441"/>
+  <nd ref="4250719442"/>
+  <nd ref="4250719443"/>
+  <nd ref="4250719444"/>
+  <nd ref="4250719445"/>
+  <nd ref="4250719446"/>
+  <nd ref="4250719447"/>
+  <nd ref="4250719448"/>
+  <nd ref="4250719449"/>
+  <nd ref="4250719450"/>
+  <nd ref="4250719451"/>
+  <nd ref="4250719452"/>
+  <nd ref="4250719453"/>
+  <nd ref="4250719454"/>
+  <nd ref="4250719455"/>
+  <nd ref="4250719456"/>
+  <nd ref="7818556549"/>
+  <nd ref="7818556548"/>
+  <nd ref="7818556547"/>
+  <nd ref="7818556546"/>
+  <nd ref="7818556545"/>
+  <nd ref="4250719461"/>
+  <nd ref="4250719462"/>
+  <nd ref="4250719463"/>
+  <nd ref="4250719464"/>
+  <nd ref="4250719465"/>
+  <nd ref="4250719466"/>
+  <nd ref="4250719467"/>
+  <nd ref="4250719468"/>
+  <nd ref="4250719469"/>
+  <nd ref="4250719470"/>
+  <nd ref="4250719471"/>
+  <nd ref="4250719472"/>
+  <nd ref="4250719433"/>
+  <tag k="addr:housenumber" v="510"/>
+  <tag k="addr:street" v="北京西路"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="上海自然博物馆"/>
+  <tag k="name:en" v="Shanghai Natural History Museum"/>
+  <tag k="name:fr" v="Museum d'Histoire Naturelle de Shanghaï"/>
+  <tag k="name:ru" v="Музей естественной истории"/>
+  <tag k="name:zh" v="上海自然博物馆"/>
+  <tag k="name:zh-Hans" v="上海自然博物馆"/>
+  <tag k="name:zh-Hant" v="上海自然博物館"/>
+  <tag k="opening_date" v="2015"/>
+  <tag k="opening_hours" v="Tu-Su 09:00-17:15"/>
+  <tag k="operational_status" v="open"/>
+  <tag k="source" v="wikipedia"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="website" v="http://www.snhm.org.cn:7070/eg/index.htm"/>
+  <tag k="wikidata" v="Q1312291"/>
+  <tag k="wikimedia_commons" v="Category:Shanghai Natural History Museum"/>
+  <tag k="wikipedia" v="zh:上海自然博物馆"/>
+ </way>
+</osm>

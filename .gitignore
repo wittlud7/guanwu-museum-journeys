@@ -12,3 +12,4 @@ settings.*.json
 .env
 .env.*
 server-app/public/
+miniprogram/media/suzhou-brick/
