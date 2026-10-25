@@ -15,7 +15,7 @@ async (page) => {
  await page.locator('#collection-search').fill('火星不存在');check(await page.getByText('暂时没有找到这段故事').isVisible(),'空状态');
  await page.getByRole('button',{name:'重新发现 →',exact:true}).click();
  await page.locator('.museum-card a[href="#museum/nanjing"]').first().click();await page.getByRole('heading',{name:'南京云锦博物馆',exact:true}).waitFor();
- check(await page.getByText('南京市建邺区茶亭东街240号',{exact:true}).isVisible(),'真实地址');
+ await page.getByText('南京市建邺区茶亭东街240号',{exact:true}).waitFor();
  await page.locator('.museum-main-image').click();check(await page.locator('#gallery').isVisible(),'图片浏览器');
  await page.getByRole('button',{name:'放大图片',exact:true}).click();check(await page.locator('#zoom-label').textContent()==='150%','放大图片');
  await page.keyboard.press('ArrowRight');check((await page.locator('#gallery-image').getAttribute('src')).includes('nanjing-loom'),'键盘切图');
