@@ -31,7 +31,8 @@ if credential.get('auth_mode')=='http_extra_header':
  auth=['-c','credential.helper=','-c','http.extraHeader=','-c','http.followRedirects=false','--config-env=http.'+remote+'.extraHeader=GUANWU_GIT_AUTHORIZATION']
 else:assert credential.get('auth_mode')=='work_proxy'
 def git(args,network=False):
- p=subprocess.run(['git']+(auth if network else [])+args,cwd=root,env=env,capture_output=True,text=True,encoding='utf-8')
+ network_options=['-c','http.postBuffer=67108864','-c','http.version=HTTP/1.1'] if network else []
+ p=subprocess.run(['git']+network_options+(auth if network else [])+args,cwd=root,env=env,capture_output=True,text=True,encoding='utf-8')
  if p.returncode:
   detail=p.stderr.replace(credential.get('token','__no_token__'),'[redacted]')
   raise RuntimeError(detail)
