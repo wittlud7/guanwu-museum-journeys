@@ -5,7 +5,7 @@
 ## 项目与同步目标
 
 - 当前 Codex 项目以本仓库为真实源码目录；直接在此目录保留代码、内容、资料来源、构建脚本和文档。
-- GitHub：`https://github.com/wittlud7/guanwu-museum-journeys`，私有仓库，`origin`，主分支 `main`。
+- GitHub：`https://github.com/wittlud7/guanwu-museum-journeys`，公开仓库，`origin`，主分支 `main`。
 - 线上 Sites 项目沿用 `.openai/hosting.json` 的项目 ID；网站发布继续使用 Sites 的源码仓库及保存版本/部署流程。GitHub 与网站托管是两个独立目标，不能把 Sites 推送当作 GitHub 同步。
 - 若任务在其他工作树中完成，先将已完成且验证通过的变更正常合入主项目；不要覆盖用户未提交的工作。
 
@@ -20,7 +20,7 @@
 
 ## 工作边界
 
-- GitHub 仓库保持私有；网站沿用当前访问设置，除非用户要求变更。
+- 用户已要求将 GitHub 仓库设为公开，后续保持公开；网站沿用当前访问设置，除非用户要求变更。密钥与私密配置仍不得提交。
 - 当前工作区文件与 Git 历史就是本地 Codex 项目的版本。不宣称对话同步等于整个文件夹上传，也不宣称已配置无法验证的 Codex 云端项目。
 - 这些是每次任务收尾必须执行的规则，不是后台实时监控服务。
 
