@@ -1,0 +1,111 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 120.629061,
+    "LATITUDE": 31.324367
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "The Humble Administrator's Garden",
+        31.324367,
+        120.629061,
+        "813-001",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Lingering Garden",
+        31.315611,
+        120.592643,
+        "813-002",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Master-of-Nets Garden",
+        31.297961,
+        120.634005,
+        "813-003",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Mountain Villa with Embracing Beauty",
+        31.310538,
+        120.613403,
+        "813-004",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Canglang Pavilion",
+        31.294819,
+        120.62527,
+        "813-005",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Lion Forest Garden",
+        31.321086,
+        120.628942,
+        "813-006",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Garden of Cultivation",
+        31.313034,
+        120.609385,
+        "813-007",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Couple's Retreat",
+        31.316201,
+        120.638619,
+        "813-008",
+        813,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Retreat & Reflection Garden",
+        31.157884,
+        120.720422,
+        "813-009",
+        813,
+        "China"
+      ]
+    ]
+  }
+}

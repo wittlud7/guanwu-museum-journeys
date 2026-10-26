@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 115.8666667,
+    "LATITUDE": 29.43333333
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Lushan National Park",
+        29.43333333,
+        115.8666667,
+        "778",
+        778,
+        "China"
+      ]
+    ]
+  }
+}

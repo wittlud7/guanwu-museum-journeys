@@ -1,0 +1,61 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 120.011941667,
+    "LATITUDE": 30.4261083334
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Area of Yaoshan Site",
+        30.4261083334,
+        120.011941667,
+        "1592-001",
+        1592,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Area of High-dam at the Mouth of the Valley",
+        30.4202777778,
+        119.903608333,
+        "1592-002",
+        1592,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Area of Low-dam on the Plain-Causeway in Front of the Mountains",
+        30.4035805556,
+        119.949552778,
+        "1592-003",
+        1592,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Area of City Site",
+        30.39555,
+        119.990827778,
+        "1592-004",
+        1592,
+        "China"
+      ]
+    ]
+  }
+}

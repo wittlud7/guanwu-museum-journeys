@@ -4,16 +4,25 @@
 class GuidePlayer{
  constructor(audio,options={}){
   this.audio=audio;this.options=options;this.queue=[];this.owner=null;this.index=0;this.loading=false;this.seeking=false;
-  this.rate=1;this.pendingSeek=0;this.seekOnLoad=false;this.lastSaved=0;this.bookmarks={};this.subtitles=[];
+  this.rate=1;this.pendingSeek=0;this.seekOnLoad=false;this.lastSaved=0;this.bookmarks={};this.subtitles=[];this.loadSerial=0;this.voice='xiaoxiao';try{this.voice=localStorage.getItem('guanwu-voice-v1')||this.voice}catch{}
+  if(!GUANWU_VOICE_PACKS.packs.some(p=>p.id===this.voice))this.voice=GUANWU_VOICE_PACKS.default;
   try{this.bookmarks=JSON.parse(localStorage.getItem('guanwu-audio-v2')||'{}');this.rate=Number(localStorage.getItem('guanwu-rate-v2'))||1}catch{}
   if(![.8,1,1.2,1.5].includes(this.rate))this.rate=1;
-  audio.addEventListener('loadedmetadata',()=>{if(this.seekOnLoad){audio.currentTime=Math.min(this.pendingSeek,Math.max(0,audio.duration-.2));this.seekOnLoad=false}this.loading=false;this.emit()});
+  audio.addEventListener('loadedmetadata',()=>{if(this.seekOnLoad){audio.currentTime=Math.min(this.pendingRatio!==undefined?this.pendingRatio*audio.duration:this.pendingSeek,Math.max(0,audio.duration-.2));this.pendingRatio=undefined;this.seekOnLoad=false}this.loading=false;this.emit()});
   audio.addEventListener('timeupdate',()=>{if(!this.seeking)this.emit();if(Date.now()-this.lastSaved>2000){this.save();this.lastSaved=Date.now()}});
   for(const evt of ['play','pause','ratechange'])audio.addEventListener(evt,()=>this.emit());
   audio.addEventListener('waiting',()=>{this.loading=true;this.emit()});audio.addEventListener('playing',()=>{this.loading=false;this.emit()});
   audio.addEventListener('error',()=>{this.loading=false;this.options.onError?.('音频暂未加载成功，请检查网络后重试。');this.emit()});
   audio.addEventListener('ended',()=>{this.save();if(this.index+1<this.queue.length&&this.options.canPlay?.(this.index+1)!==false)this.load(this.index+1,true);else this.emit()});
   window.addEventListener('pagehide',()=>this.save());
+ }
+ source(src,voice=this.voice){const pack=GUANWU_VOICE_PACKS.packs.find(p=>p.id===voice);return src.replace(/^assets\/audio/,pack.pathPrefix.replace(/\/$/,''))+'?v=2026102601'}
+ async setVoice(id){
+  if(id===this.voice||!GUANWU_VOICE_PACKS.packs.some(p=>p.id===id))return;
+  if(this.owner&&!navigator.onLine&&'caches'in window&&!await caches.match(this.source(this.queue[this.index].src,id))){this.options.onError?.('这个语音包尚未下载，联网后切换或先保存离线导览。');this.emit();return}
+  const playing=!this.audio.paused,ratio=Number.isFinite(this.audio.duration)&&this.audio.duration>0?this.audio.currentTime/this.audio.duration:0;
+  this.save();this.voice=id;try{localStorage.setItem('guanwu-voice-v1',id)}catch{}
+  if(this.owner){this.load(this.index,playing,true);this.pendingRatio=ratio}else this.emit();
  }
  select(owner,queue,index=0,autoplay=true){
   if(this.options.canPlay?.(index)===false){this.options.onLocked?.();return}
@@ -24,10 +33,10 @@ class GuidePlayer{
   if(index<0||index>=this.queue.length)return;
   if(this.options.canPlay?.(index)===false){this.options.onLocked?.();return}
   if(!skipSave)this.save();this.audio.pause();this.index=index;this.loading=true;
-  const track=this.queue[index],mark=this.bookmarks[this.owner.id];
+  const track=this.queue[index],mark=this.bookmarks[this.owner.id];this.pendingRatio=undefined;
   this.pendingSeek=mark?.index===index?mark.time:0;this.seekOnLoad=true;
-  this.audio.src=track.src;this.audio.playbackRate=this.rate;this.audio.load();this.subtitles=[];
-  const key=track.src;fetch(track.src.replace(/\.mp3$/,'.json')).then(r=>r.ok?r.json():null).then(d=>{if(key===this.queue[this.index]?.src){this.subtitles=d?.sentences||[];this.emit()}}).catch(()=>{});
+  const src=this.source(track.src),serial=++this.loadSerial;this.audio.src=src;this.audio.playbackRate=this.rate;this.audio.load();this.subtitles=[];
+  fetch(src.replace(/\.mp3(?=\?|$)/,'.json')).then(r=>r.ok?r.json():null).then(d=>{if(serial===this.loadSerial){this.subtitles=d?.sentences||[];this.emit()}}).catch(()=>{});
   if('mediaSession'in navigator&&typeof MediaMetadata!=='undefined'){
    navigator.mediaSession.metadata=new MediaMetadata({title:track.title,artist:'观物 · AI 合成普通话导览',album:this.owner.title});
    navigator.mediaSession.setActionHandler('play',()=>this.play());navigator.mediaSession.setActionHandler('pause',()=>this.audio.pause());

@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 116.406666667,
+    "LATITUDE": 39.8821666667
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Temple of Heaven: an Imperial Sacrificial Altar in Beijing",
+        39.8821666667,
+        116.406666667,
+        "881",
+        881,
+        "China"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 108.8572222222,
+    "LATITUDE": 34.3044444444
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Site of Weiyang Palace in Chang’an City of the Western Han Dynasty",
+        34.3044444444,
+        108.8572222222,
+        "1442-001",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Luoyang City from the Eastern Han to Northern Wei Dynasty",
+        34.7311111111,
+        112.621388889,
+        "1442-002",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Daming Palace in Chang’an City of Tang Dynasty",
+        34.2958333333,
+        108.958333333,
+        "1442-003",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Dingding Gate, Luoyang City of Sui and Tang Dynasties",
+        34.6327777778,
+        112.460555556,
+        "1442-004",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Qocho City",
+        42.8525,
+        89.5277777778,
+        "1442-005",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Yar City",
+        42.9525,
+        89.0616666667,
+        "1442-006",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Bashbaliq City",
+        44.0969444444,
+        89.2075,
+        "1442-007",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "City of Suyab (Site of Ak-Beshim)",
+        42.8019444444,
+        75.2033333333,
+        "1442-008",
+        1442,
+        "Kyrgyzstan"
+      ],
+      [
+        0,
+        1,
+        "City of Balasagun (Site of Burana)",
+        42.7466666666,
+        75.2502777778,
+        "1442-009",
+        1442,
+        "Kyrgyzstan"
+      ],
+      [
+        0,
+        1,
+        "City of Nevaket (Site of Krasnaya Rechka)",
+        42.9122222222,
+        75.015,
+        "1442-010",
+        1442,
+        "Kyrgyzstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Kayalyk",
+        45.6655555556,
+        80.2605555556,
+        "1442-011",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Talgar",
+        43.2777777778,
+        77.2222222223,
+        "1442-012",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Aktobe",
+        43.2261111111,
+        74.0336111111,
+        "1442-013",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Kulan",
+        42.9144444444,
+        72.7494444444,
+        "1442-014",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Ornek",
+        42.8944444444,
+        72.1477777777,
+        "1442-015",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Akyrtas",
+        42.9536111111,
+        71.8027777778,
+        "1442-016",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Kostobe",
+        42.99,
+        71.5236111111,
+        "1442-017",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Site of Han’gu Pass of Han Dynasty in Xin’an County",
+        34.7205555556,
+        112.165833333,
+        "1442-018",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Shihao Section of Xiaohan Ancient Route",
+        34.7186111111,
+        111.509444444,
+        "1442-019",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Suoyang City",
+        40.2466666666,
+        96.2030555556,
+        "1442-020",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Xuanquan Posthouse",
+        40.2647222222,
+        95.3294444445,
+        "1442-021",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Yumen Pass",
+        40.3536111111,
+        93.8638888889,
+        "1442-022",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Kizilgaha Beacon Tower",
+        41.7902777777,
+        82.8986111111,
+        "1442-023",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Karamergen",
+        45.9080555556,
+        75.6630555556,
+        "1442-024",
+        1442,
+        "Kazakhstan"
+      ],
+      [
+        0,
+        1,
+        "Kizil Cave-Temple Complex",
+        41.7838888889,
+        82.5055555556,
+        "1442-025",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Subash Buddhist Ruins",
+        41.8558333333,
+        83.0511111111,
+        "1442-026",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Bingling Cave-Temple Complex",
+        35.8078888889,
+        103.0468055556,
+        "1442-027",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Maijishan Cave-Temple Complex",
+        34.3508333333,
+        106.002777778,
+        "1442-028",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Bin County Cave Temple",
+        35.0733333334,
+        107.992222222,
+        "1442-029",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Great Wild Goose Pagoda",
+        34.2197222223,
+        108.959444444,
+        "1442-030",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Small Wild Goose Pagoda",
+        34.2408333333,
+        108.937222222,
+        "1442-031",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Xingjiaosi Pagodas",
+        34.0913888889,
+        109.034166667,
+        "1442-032",
+        1442,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Tomb of Zhang Qian",
+        33.1588888889,
+        107.291111111,
+        "1442-033",
+        1442,
+        "China"
+      ]
+    ]
+  }
+}

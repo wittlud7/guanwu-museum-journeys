@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 116.994561,
+    "LATITUDE": 35.613215
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+        35.613215,
+        116.994561,
+        "704",
+        704,
+        "China"
+      ]
+    ]
+  }
+}

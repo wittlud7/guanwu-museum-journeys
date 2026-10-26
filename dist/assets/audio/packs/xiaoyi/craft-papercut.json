@@ -1,0 +1,37 @@
+{
+  "hash": "8c4c889eb83cbc8c77cb541f0f776b0550f013d68dcd19c50a03e8fbffec0028",
+  "voice": "zh-CN-XiaoyiNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "synthetic": true,
+  "provider": "Microsoft Edge neural TTS via edge-tts",
+  "text": "看剪纸时，试着做一个小练习。先看红色的部分，再把注意力交给被剪掉的地方。你会发现，空隙也有自己的形状，它们与留下的线面一起组织图案。再找一找细小的纸桥，是它们让各部分保持联系。这张资料图用于帮助认识剪纸，不代表北京馆某一件现展藏品。",
+  "sentences": [
+    {
+      "start": 0.1,
+      "end": 3.8,
+      "text": "看剪纸时，试着做一个小练习。"
+    },
+    {
+      "start": 3.75,
+      "end": 8.524,
+      "text": "先看红色的部分，再把注意力交给被剪掉的地方。"
+    },
+    {
+      "start": 8.524,
+      "end": 14.694,
+      "text": "你会发现，空隙也有自己的形状，它们与留下的线面一起组织图案。"
+    },
+    {
+      "start": 14.694,
+      "end": 19.255,
+      "text": "再找一找细小的纸桥，是它们让各部分保持联系。"
+    },
+    {
+      "start": 19.255,
+      "end": 25.864,
+      "text": "这张资料图用于帮助认识剪纸，不代表北京馆某一件现展藏品。"
+    }
+  ],
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass"
+}

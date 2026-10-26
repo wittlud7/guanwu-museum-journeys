@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 109.253666667,
+    "LATITUDE": 34.3814166667
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Mausoleum of the First Qin Emperor",
+        34.3814166667,
+        109.253666667,
+        "441-001",
+        441,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Pits of Terracotta Army",
+        34.3851944444,
+        109.273444445,
+        "441-002",
+        441,
+        "China"
+      ]
+    ]
+  }
+}

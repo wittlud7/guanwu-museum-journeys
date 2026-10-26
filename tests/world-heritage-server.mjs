@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';
+import {executeTool} from '../server-app/lib/guide.mjs';
+const require=createRequire(import.meta.url),catalog=require('../server-app/lib/catalog.json');
+assert.equal(catalog.heritage.length,46);assert.equal(catalog.heritage.filter(s=>s.category==='cultural').length,42);assert.equal(catalog.heritage.filter(s=>s.category==='mixed').length,4);
+const latest=executeTool('get_item',{id:'wh-1765'},catalog);assert.equal(latest.year,2026);assert.ok(latest.sources.some(s=>s.url==='https://whc.unesco.org/en/list/1765/'));
+const query=executeTool('search_catalog',{query:'景德镇'},catalog);assert.ok(query.some(s=>s.id==='wh-1765'&&s.type==='heritage'));
+const fujian=executeTool('search_catalog',{query:'福建'},catalog);assert.ok(fujian.filter(s=>s.type==='heritage').length>=3);
+assert.equal(executeTool('plan_visit',{museum:'wh-1765',minutes:60},catalog).error,'场馆未收录，请先检索场馆');
+console.log('PASS: complete heritage catalog in AI, 2026 source, province search, and heritage cannot be silently treated as a museum itinerary.');

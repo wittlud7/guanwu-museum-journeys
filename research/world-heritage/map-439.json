@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 116.397151,
+    "LATITUDE": 39.917118
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "The Imperial Palace of the Ming and Qing Dynasties in Beijing",
+        39.917118,
+        116.397151,
+        "439-001",
+        439,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "The Imperial Palace of the Qing Dynasty in Shenyang",
+        41.797163,
+        123.455942,
+        "439-002",
+        439,
+        "China"
+      ]
+    ]
+  }
+}

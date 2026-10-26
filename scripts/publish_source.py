@@ -31,14 +31,14 @@ if credential.get('auth_mode')=='http_extra_header':
  auth=['-c','credential.helper=','-c','http.extraHeader=','-c','http.followRedirects=false','--config-env=http.'+remote+'.extraHeader=GUANWU_GIT_AUTHORIZATION']
 else:assert credential.get('auth_mode')=='work_proxy'
 def git(args,network=False):
- network_options=['-c','http.postBuffer=67108864','-c','http.version=HTTP/1.1'] if network else []
+ network_options=['-c','http.postBuffer=134217728','-c','http.version=HTTP/1.1'] if network else []
  p=subprocess.run(['git']+network_options+(auth if network else [])+args,cwd=root,env=env,capture_output=True,text=True,encoding='utf-8')
  if p.returncode:
   detail=p.stderr.replace(credential.get('token','__no_token__'),'[redacted]')
   raise RuntimeError(detail)
  return p.stdout.strip()
 git(['add','--all','--','.'])
-if git(['diff','--cached','--name-only']):git(['-c','user.name=Sites','-c','user.email=sites@users.noreply.openai.com','commit','-m','Expand Beijing to 50 sourced museums with district discovery and route search'])
+if git(['diff','--cached','--name-only']):git(['-c','user.name=Sites','-c','user.email=sites@users.noreply.openai.com','commit','-m','Add all 46 China cultural and mixed World Heritage sites with three selectable voice packs'])
 sha=git(['rev-parse','HEAD']);assert not git(['status','--porcelain'])
 git(['push',remote,sha+':refs/heads/'+branch],network=True)
 pushed=git(['ls-remote','--heads',remote,'refs/heads/'+branch],network=True).split()[0]

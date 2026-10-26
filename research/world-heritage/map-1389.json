@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 116.1851277778,
+    "LATITUDE": 42.358
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Site of Xanadu",
+        42.358,
+        116.1851277778,
+        "1389",
+        1389,
+        "China"
+      ]
+    ]
+  }
+}

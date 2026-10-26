@@ -1,0 +1,45 @@
+(function(root,factory){if(typeof module==='object'&&module.exports){module.exports=factory();}else{root.GUANWU_VOICE_PACKS=factory();}})(typeof self!=='undefined'?self:this,function(){return {
+  "default": "xiaoxiao",
+  "provider": "Microsoft Edge neural TTS via edge-tts",
+  "disclosure": "AI 合成普通话导览，非真人录音或声音克隆",
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass",
+  "encoding": "MP3 24000 Hz mono 48 kbps",
+  "packs": [
+    {
+      "id": "xiaoxiao",
+      "name": "温润讲述",
+      "description": "柔和女声，舒缓地陪你看展。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "pitch": "+0Hz",
+      "pathPrefix": "assets/audio",
+      "preview": "assets/audio/previews/xiaoxiao.mp3",
+      "tracks": 23,
+      "heritageTracks": 46
+    },
+    {
+      "id": "yunxi",
+      "name": "沉静男声",
+      "description": "清朗男声，节奏从容、层次清晰。",
+      "voice": "zh-CN-YunxiNeural",
+      "rate": "-10%",
+      "pitch": "+0Hz",
+      "pathPrefix": "assets/audio/packs/yunxi",
+      "preview": "assets/audio/previews/yunxi.mp3",
+      "tracks": 23,
+      "heritageTracks": 46
+    },
+    {
+      "id": "xiaoyi",
+      "name": "清亮女声",
+      "description": "明亮女声，语速适中、咬字清楚。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "rate": "-6%",
+      "pitch": "+0Hz",
+      "pathPrefix": "assets/audio/packs/xiaoyi",
+      "preview": "assets/audio/previews/xiaoyi.mp3",
+      "tracks": 23,
+      "heritageTracks": 46
+    }
+  ]
+};});

@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 116.268027778,
+    "LATITUDE": 39.9969444444
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Summer Palace, an Imperial Garden in Beijing",
+        39.9969444444,
+        116.268027778,
+        "880",
+        880,
+        "China"
+      ]
+    ]
+  }
+}

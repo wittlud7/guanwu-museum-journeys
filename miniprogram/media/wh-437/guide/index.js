@@ -1,0 +1,1 @@
+Page(require('../../../shared/heritage-page.js')('wh-437'));

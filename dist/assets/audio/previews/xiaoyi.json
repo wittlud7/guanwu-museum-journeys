@@ -1,0 +1,32 @@
+{
+  "hash": "41f2e79de609a93a86d67ee0597e0e9a29081d554960243b2a297d243cf67e1f",
+  "voice": "zh-CN-XiaoyiNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "synthetic": true,
+  "provider": "Microsoft Edge neural TTS via edge-tts",
+  "text": "欢迎来到观物。选一种你喜欢的声音，慢慢走近眼前的作品。先看材料，再看细节。让好奇心，决定你的下一站。",
+  "sentences": [
+    {
+      "start": 0.1,
+      "end": 2.018,
+      "text": "欢迎来到观物。"
+    },
+    {
+      "start": 1.968,
+      "end": 6.37,
+      "text": "选一种你喜欢的声音，慢慢走近眼前的作品。"
+    },
+    {
+      "start": 6.37,
+      "end": 9.149,
+      "text": "先看材料，再看细节。"
+    },
+    {
+      "start": 9.149,
+      "end": 12.367,
+      "text": "让好奇心，决定你的下一站。"
+    }
+  ],
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass"
+}

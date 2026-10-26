@@ -1,0 +1,71 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 125.41844,
+    "LATITUDE": 41.329835
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Wunu Mountain City",
+        41.329835,
+        125.41844,
+        "1135-001",
+        1135,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Guonei City",
+        41.1387222222,
+        126.176194444,
+        "1135-002",
+        1135,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Wandu Mountain City",
+        41.1642222222,
+        126.115527778,
+        "1135-003",
+        1135,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Ranmou Tomb and Huanwen Tomb",
+        41.1861388889,
+        126.2755,
+        "1135-004",
+        1135,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Changchuan Tomb No. 1, 2, 4",
+        41.2623611111,
+        126.337972222,
+        "1135-005",
+        1135,
+        "China"
+      ]
+    ]
+  }
+}

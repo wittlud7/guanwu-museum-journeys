@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 113.5633333333,
+    "LATITUDE": 39.0305555556
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Taihuai",
+        39.0305555556,
+        113.5633333333,
+        "1279-001",
+        1279,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Foguang Temple",
+        38.8822222222,
+        113.3494444444,
+        "1279-002",
+        1279,
+        "China"
+      ]
+    ]
+  }
+}

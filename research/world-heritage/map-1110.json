@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 113.5363888889,
+    "LATITUDE": 22.1911111111
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Zone 1 (Between Mount Hill and Barra Hill)",
+        22.1911111111,
+        113.5363888889,
+        "1110-001",
+        1110,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Zone 2 (Guia Hill)",
+        22.1983333333,
+        113.5505555556,
+        "1110-002",
+        1110,
+        "China"
+      ]
+    ]
+  }
+}

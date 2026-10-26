@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 105.9711111111,
+    "LATITUDE": 38.4158333333
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Xixia Imperial Tombs",
+        38.4158333333,
+        105.9711111111,
+        "1736",
+        1736,
+        "China"
+      ]
+    ]
+  }
+}

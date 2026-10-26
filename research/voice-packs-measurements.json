@@ -1,0 +1,1686 @@
+{
+  "clips": 210,
+  "totalBytes": 38311224,
+  "measurements": [
+    {
+      "path": "assets/audio/beijing-0.mp3",
+      "bytes": 169868,
+      "duration": 28.27,
+      "integratedLUFS": -18.43,
+      "truePeakDBTP": -2.33,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/beijing-1.mp3",
+      "bytes": 179228,
+      "duration": 29.83,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.7,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/beijing-2.mp3",
+      "bytes": 163532,
+      "duration": 27.22,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.48,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/hangzhou-0.mp3",
+      "bytes": 187292,
+      "duration": 31.18,
+      "integratedLUFS": -18.39,
+      "truePeakDBTP": -1.95,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/hangzhou-1.mp3",
+      "bytes": 164396,
+      "duration": 27.36,
+      "integratedLUFS": -18.51,
+      "truePeakDBTP": -2.19,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/hangzhou-2.mp3",
+      "bytes": 159644,
+      "duration": 26.57,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -1.98,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/nanjing-0.mp3",
+      "bytes": 171164,
+      "duration": 28.49,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -2.27,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/nanjing-1.mp3",
+      "bytes": 180524,
+      "duration": 30.05,
+      "integratedLUFS": -18.45,
+      "truePeakDBTP": -1.93,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/nanjing-2.mp3",
+      "bytes": 164684,
+      "duration": 27.41,
+      "integratedLUFS": -18.49,
+      "truePeakDBTP": -1.82,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/chengdu-0.mp3",
+      "bytes": 174908,
+      "duration": 29.11,
+      "integratedLUFS": -18.47,
+      "truePeakDBTP": -1.96,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/chengdu-1.mp3",
+      "bytes": 158924,
+      "duration": 26.45,
+      "integratedLUFS": -18.46,
+      "truePeakDBTP": -1.91,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/chengdu-2.mp3",
+      "bytes": 162092,
+      "duration": 26.98,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.48,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/guangzhou-0.mp3",
+      "bytes": 181388,
+      "duration": 30.19,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -1.99,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/guangzhou-1.mp3",
+      "bytes": 177788,
+      "duration": 29.59,
+      "integratedLUFS": -18.44,
+      "truePeakDBTP": -1.75,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/guangzhou-2.mp3",
+      "bytes": 160940,
+      "duration": 26.78,
+      "integratedLUFS": -18.59,
+      "truePeakDBTP": -1.73,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-cloisonne.mp3",
+      "bytes": 173036,
+      "duration": 28.8,
+      "integratedLUFS": -18.5,
+      "truePeakDBTP": -2.11,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-papercut.mp3",
+      "bytes": 167276,
+      "duration": 27.84,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.12,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-storytelling.mp3",
+      "bytes": 174908,
+      "duration": 29.11,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.51,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-stage-robe.mp3",
+      "bytes": 169004,
+      "duration": 28.13,
+      "integratedLUFS": -18.5,
+      "truePeakDBTP": -1.97,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-yunjin.mp3",
+      "bytes": 177644,
+      "duration": 29.57,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -1.94,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-shujin.mp3",
+      "bytes": 160796,
+      "duration": 26.76,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.71,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-shuxiu.mp3",
+      "bytes": 177644,
+      "duration": 29.57,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.27,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/craft-cantonese-opera.mp3",
+      "bytes": 163100,
+      "duration": 27.14,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -1.97,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-437.mp3",
+      "bytes": 191612,
+      "duration": 31.9,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.91,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-438.mp3",
+      "bytes": 191324,
+      "duration": 31.85,
+      "integratedLUFS": -18.33,
+      "truePeakDBTP": -1.97,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-439.mp3",
+      "bytes": 191036,
+      "duration": 31.8,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -2.4,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-440.mp3",
+      "bytes": 187580,
+      "duration": 31.22,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.87,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-441.mp3",
+      "bytes": 195356,
+      "duration": 32.52,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -2.33,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-449.mp3",
+      "bytes": 200396,
+      "duration": 33.36,
+      "integratedLUFS": -18.37,
+      "truePeakDBTP": -1.78,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-547.mp3",
+      "bytes": 189884,
+      "duration": 31.61,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.79,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-703.mp3",
+      "bytes": 207452,
+      "duration": 34.54,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.08,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-704.mp3",
+      "bytes": 199532,
+      "duration": 33.22,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.19,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-705.mp3",
+      "bytes": 194924,
+      "duration": 32.45,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -3.48,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-707.mp3",
+      "bytes": 201260,
+      "duration": 33.5,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.31,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-778.mp3",
+      "bytes": 197372,
+      "duration": 32.86,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -2.0,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-779.mp3",
+      "bytes": 199820,
+      "duration": 33.26,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -2.22,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-811.mp3",
+      "bytes": 180668,
+      "duration": 30.07,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.67,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-812.mp3",
+      "bytes": 197372,
+      "duration": 32.86,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -2.26,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-813.mp3",
+      "bytes": 192476,
+      "duration": 32.04,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.93,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-880.mp3",
+      "bytes": 189020,
+      "duration": 31.46,
+      "integratedLUFS": -18.37,
+      "truePeakDBTP": -2.31,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-881.mp3",
+      "bytes": 182396,
+      "duration": 30.36,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.13,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-911.mp3",
+      "bytes": 193628,
+      "duration": 32.23,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -2.09,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-912.mp3",
+      "bytes": 191036,
+      "duration": 31.8,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.06,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1001.mp3",
+      "bytes": 187436,
+      "duration": 31.2,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -3.24,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1002.mp3",
+      "bytes": 206444,
+      "duration": 34.37,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -1.85,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1003.mp3",
+      "bytes": 193340,
+      "duration": 32.18,
+      "integratedLUFS": -18.43,
+      "truePeakDBTP": -2.9,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1004.mp3",
+      "bytes": 187868,
+      "duration": 31.27,
+      "integratedLUFS": -18.32,
+      "truePeakDBTP": -1.85,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1039.mp3",
+      "bytes": 190748,
+      "duration": 31.75,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -3.46,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1135.mp3",
+      "bytes": 203852,
+      "duration": 33.94,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.53,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1110.mp3",
+      "bytes": 203420,
+      "duration": 33.86,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.34,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1114.mp3",
+      "bytes": 186716,
+      "duration": 31.08,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.41,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1112.mp3",
+      "bytes": 192188,
+      "duration": 31.99,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.15,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1113.mp3",
+      "bytes": 184124,
+      "duration": 30.65,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.75,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1279.mp3",
+      "bytes": 182828,
+      "duration": 30.43,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -2.27,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1305.mp3",
+      "bytes": 208316,
+      "duration": 34.68,
+      "integratedLUFS": -18.37,
+      "truePeakDBTP": -2.13,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1334.mp3",
+      "bytes": 199100,
+      "duration": 33.14,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.94,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1389.mp3",
+      "bytes": 185996,
+      "duration": 30.96,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -3.03,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1111.mp3",
+      "bytes": 190460,
+      "duration": 31.7,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.68,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1442.mp3",
+      "bytes": 215228,
+      "duration": 35.83,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.85,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1443.mp3",
+      "bytes": 194204,
+      "duration": 32.33,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.68,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1474.mp3",
+      "bytes": 185564,
+      "duration": 30.89,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -2.25,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1508.mp3",
+      "bytes": 200684,
+      "duration": 33.41,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.87,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1541.mp3",
+      "bytes": 194780,
+      "duration": 32.42,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -3.16,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1592.mp3",
+      "bytes": 189740,
+      "duration": 31.58,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.98,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1561.mp3",
+      "bytes": 205148,
+      "duration": 34.15,
+      "integratedLUFS": -18.4,
+      "truePeakDBTP": -2.94,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1665.mp3",
+      "bytes": 204572,
+      "duration": 34.06,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -2.07,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1714.mp3",
+      "bytes": 215516,
+      "duration": 35.88,
+      "integratedLUFS": -18.39,
+      "truePeakDBTP": -2.38,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1736.mp3",
+      "bytes": 177500,
+      "duration": 29.54,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -3.37,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/heritage/wh-1765.mp3",
+      "bytes": 204572,
+      "duration": 34.06,
+      "integratedLUFS": -18.43,
+      "truePeakDBTP": -2.85,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/previews/xiaoxiao.mp3",
+      "bytes": 76988,
+      "duration": 12.79,
+      "integratedLUFS": -18.44,
+      "truePeakDBTP": -2.46,
+      "voice": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/beijing-0.mp3",
+      "bytes": 159356,
+      "duration": 26.52,
+      "integratedLUFS": -18.75,
+      "truePeakDBTP": -1.62,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/beijing-1.mp3",
+      "bytes": 175772,
+      "duration": 29.26,
+      "integratedLUFS": -18.83,
+      "truePeakDBTP": -1.22,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/beijing-2.mp3",
+      "bytes": 166844,
+      "duration": 27.77,
+      "integratedLUFS": -18.82,
+      "truePeakDBTP": -1.37,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/hangzhou-0.mp3",
+      "bytes": 179516,
+      "duration": 29.88,
+      "integratedLUFS": -18.87,
+      "truePeakDBTP": -1.36,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/hangzhou-1.mp3",
+      "bytes": 161084,
+      "duration": 26.81,
+      "integratedLUFS": -19.01,
+      "truePeakDBTP": -1.35,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/hangzhou-2.mp3",
+      "bytes": 155468,
+      "duration": 25.87,
+      "integratedLUFS": -18.51,
+      "truePeakDBTP": -1.56,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/nanjing-0.mp3",
+      "bytes": 165836,
+      "duration": 27.6,
+      "integratedLUFS": -18.7,
+      "truePeakDBTP": -1.41,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/nanjing-1.mp3",
+      "bytes": 175772,
+      "duration": 29.26,
+      "integratedLUFS": -18.74,
+      "truePeakDBTP": -1.41,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/nanjing-2.mp3",
+      "bytes": 164252,
+      "duration": 27.34,
+      "integratedLUFS": -18.99,
+      "truePeakDBTP": -1.17,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/chengdu-0.mp3",
+      "bytes": 167132,
+      "duration": 27.82,
+      "integratedLUFS": -18.72,
+      "truePeakDBTP": -1.64,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/chengdu-1.mp3",
+      "bytes": 155036,
+      "duration": 25.8,
+      "integratedLUFS": -18.83,
+      "truePeakDBTP": -1.48,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/chengdu-2.mp3",
+      "bytes": 158780,
+      "duration": 26.42,
+      "integratedLUFS": -18.76,
+      "truePeakDBTP": -1.44,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/guangzhou-0.mp3",
+      "bytes": 176924,
+      "duration": 29.45,
+      "integratedLUFS": -18.74,
+      "truePeakDBTP": -1.53,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/guangzhou-1.mp3",
+      "bytes": 174044,
+      "duration": 28.97,
+      "integratedLUFS": -18.62,
+      "truePeakDBTP": -1.47,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/guangzhou-2.mp3",
+      "bytes": 152588,
+      "duration": 25.39,
+      "integratedLUFS": -18.79,
+      "truePeakDBTP": -1.35,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-cloisonne.mp3",
+      "bytes": 170300,
+      "duration": 28.34,
+      "integratedLUFS": -18.7,
+      "truePeakDBTP": -0.95,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-papercut.mp3",
+      "bytes": 164108,
+      "duration": 27.31,
+      "integratedLUFS": -18.61,
+      "truePeakDBTP": -1.43,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-storytelling.mp3",
+      "bytes": 175484,
+      "duration": 29.21,
+      "integratedLUFS": -18.86,
+      "truePeakDBTP": -1.29,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-stage-robe.mp3",
+      "bytes": 163532,
+      "duration": 27.22,
+      "integratedLUFS": -18.95,
+      "truePeakDBTP": -1.38,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-yunjin.mp3",
+      "bytes": 171596,
+      "duration": 28.56,
+      "integratedLUFS": -18.71,
+      "truePeakDBTP": -1.49,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-shujin.mp3",
+      "bytes": 156476,
+      "duration": 26.04,
+      "integratedLUFS": -18.85,
+      "truePeakDBTP": -1.58,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-shuxiu.mp3",
+      "bytes": 172028,
+      "duration": 28.63,
+      "integratedLUFS": -18.9,
+      "truePeakDBTP": -1.3,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/craft-cantonese-opera.mp3",
+      "bytes": 161372,
+      "duration": 26.86,
+      "integratedLUFS": -18.61,
+      "truePeakDBTP": -1.3,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-437.mp3",
+      "bytes": 188300,
+      "duration": 31.34,
+      "integratedLUFS": -18.61,
+      "truePeakDBTP": -1.46,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-438.mp3",
+      "bytes": 194204,
+      "duration": 32.33,
+      "integratedLUFS": -18.67,
+      "truePeakDBTP": -1.25,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-439.mp3",
+      "bytes": 190028,
+      "duration": 31.63,
+      "integratedLUFS": -18.54,
+      "truePeakDBTP": -1.55,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-440.mp3",
+      "bytes": 187436,
+      "duration": 31.2,
+      "integratedLUFS": -18.59,
+      "truePeakDBTP": -1.55,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-441.mp3",
+      "bytes": 195788,
+      "duration": 32.59,
+      "integratedLUFS": -18.58,
+      "truePeakDBTP": -1.3,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-449.mp3",
+      "bytes": 195212,
+      "duration": 32.5,
+      "integratedLUFS": -18.63,
+      "truePeakDBTP": -1.37,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-547.mp3",
+      "bytes": 192044,
+      "duration": 31.97,
+      "integratedLUFS": -18.55,
+      "truePeakDBTP": -1.5,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-703.mp3",
+      "bytes": 209756,
+      "duration": 34.92,
+      "integratedLUFS": -18.6,
+      "truePeakDBTP": -1.61,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-704.mp3",
+      "bytes": 199388,
+      "duration": 33.19,
+      "integratedLUFS": -18.44,
+      "truePeakDBTP": -1.69,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-705.mp3",
+      "bytes": 192332,
+      "duration": 32.02,
+      "integratedLUFS": -18.61,
+      "truePeakDBTP": -1.39,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-707.mp3",
+      "bytes": 199100,
+      "duration": 33.14,
+      "integratedLUFS": -18.71,
+      "truePeakDBTP": -1.41,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-778.mp3",
+      "bytes": 195644,
+      "duration": 32.57,
+      "integratedLUFS": -18.54,
+      "truePeakDBTP": -1.58,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-779.mp3",
+      "bytes": 196220,
+      "duration": 32.66,
+      "integratedLUFS": -18.65,
+      "truePeakDBTP": -1.43,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-811.mp3",
+      "bytes": 184844,
+      "duration": 30.77,
+      "integratedLUFS": -18.53,
+      "truePeakDBTP": -1.73,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-812.mp3",
+      "bytes": 196940,
+      "duration": 32.78,
+      "integratedLUFS": -18.68,
+      "truePeakDBTP": -0.77,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-813.mp3",
+      "bytes": 195212,
+      "duration": 32.5,
+      "integratedLUFS": -18.67,
+      "truePeakDBTP": -1.61,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-880.mp3",
+      "bytes": 190028,
+      "duration": 31.63,
+      "integratedLUFS": -18.6,
+      "truePeakDBTP": -1.56,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-881.mp3",
+      "bytes": 188300,
+      "duration": 31.34,
+      "integratedLUFS": -18.6,
+      "truePeakDBTP": -0.97,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-911.mp3",
+      "bytes": 194348,
+      "duration": 32.35,
+      "integratedLUFS": -18.54,
+      "truePeakDBTP": -1.47,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-912.mp3",
+      "bytes": 194060,
+      "duration": 32.3,
+      "integratedLUFS": -18.63,
+      "truePeakDBTP": -1.53,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1001.mp3",
+      "bytes": 185420,
+      "duration": 30.86,
+      "integratedLUFS": -18.61,
+      "truePeakDBTP": -1.35,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1002.mp3",
+      "bytes": 210764,
+      "duration": 35.09,
+      "integratedLUFS": -18.54,
+      "truePeakDBTP": -1.26,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1003.mp3",
+      "bytes": 191468,
+      "duration": 31.87,
+      "integratedLUFS": -18.6,
+      "truePeakDBTP": -1.55,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1004.mp3",
+      "bytes": 192188,
+      "duration": 31.99,
+      "integratedLUFS": -18.49,
+      "truePeakDBTP": -1.5,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1039.mp3",
+      "bytes": 186716,
+      "duration": 31.08,
+      "integratedLUFS": -18.61,
+      "truePeakDBTP": -1.57,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1135.mp3",
+      "bytes": 205292,
+      "duration": 34.18,
+      "integratedLUFS": -18.82,
+      "truePeakDBTP": -1.35,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1110.mp3",
+      "bytes": 205436,
+      "duration": 34.2,
+      "integratedLUFS": -18.65,
+      "truePeakDBTP": -0.95,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1114.mp3",
+      "bytes": 186716,
+      "duration": 31.08,
+      "integratedLUFS": -18.69,
+      "truePeakDBTP": -1.44,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1112.mp3",
+      "bytes": 192188,
+      "duration": 31.99,
+      "integratedLUFS": -18.66,
+      "truePeakDBTP": -1.41,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1113.mp3",
+      "bytes": 183260,
+      "duration": 30.5,
+      "integratedLUFS": -18.66,
+      "truePeakDBTP": -1.25,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1279.mp3",
+      "bytes": 179948,
+      "duration": 29.95,
+      "integratedLUFS": -18.65,
+      "truePeakDBTP": -1.43,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1305.mp3",
+      "bytes": 208316,
+      "duration": 34.68,
+      "integratedLUFS": -18.61,
+      "truePeakDBTP": -1.42,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1334.mp3",
+      "bytes": 198236,
+      "duration": 33.0,
+      "integratedLUFS": -18.63,
+      "truePeakDBTP": -1.48,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1389.mp3",
+      "bytes": 185132,
+      "duration": 30.82,
+      "integratedLUFS": -18.58,
+      "truePeakDBTP": -1.32,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1111.mp3",
+      "bytes": 188444,
+      "duration": 31.37,
+      "integratedLUFS": -18.62,
+      "truePeakDBTP": -1.37,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1442.mp3",
+      "bytes": 212204,
+      "duration": 35.33,
+      "integratedLUFS": -18.56,
+      "truePeakDBTP": -1.46,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1443.mp3",
+      "bytes": 191468,
+      "duration": 31.87,
+      "integratedLUFS": -18.66,
+      "truePeakDBTP": -1.56,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1474.mp3",
+      "bytes": 186284,
+      "duration": 31.01,
+      "integratedLUFS": -18.55,
+      "truePeakDBTP": -1.48,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1508.mp3",
+      "bytes": 199964,
+      "duration": 33.29,
+      "integratedLUFS": -18.58,
+      "truePeakDBTP": -1.44,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1541.mp3",
+      "bytes": 193052,
+      "duration": 32.14,
+      "integratedLUFS": -18.64,
+      "truePeakDBTP": -1.62,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1592.mp3",
+      "bytes": 187580,
+      "duration": 31.22,
+      "integratedLUFS": -18.54,
+      "truePeakDBTP": -0.63,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1561.mp3",
+      "bytes": 201404,
+      "duration": 33.53,
+      "integratedLUFS": -18.77,
+      "truePeakDBTP": -1.29,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1665.mp3",
+      "bytes": 199388,
+      "duration": 33.19,
+      "integratedLUFS": -18.66,
+      "truePeakDBTP": -1.46,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1714.mp3",
+      "bytes": 216668,
+      "duration": 36.07,
+      "integratedLUFS": -18.56,
+      "truePeakDBTP": -1.55,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1736.mp3",
+      "bytes": 179516,
+      "duration": 29.88,
+      "integratedLUFS": -18.66,
+      "truePeakDBTP": -1.35,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/yunxi/heritage/wh-1765.mp3",
+      "bytes": 200828,
+      "duration": 33.43,
+      "integratedLUFS": -18.68,
+      "truePeakDBTP": -1.22,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/previews/yunxi.mp3",
+      "bytes": 73964,
+      "duration": 12.29,
+      "integratedLUFS": -18.71,
+      "truePeakDBTP": -1.86,
+      "voice": "zh-CN-YunxiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/beijing-0.mp3",
+      "bytes": 162236,
+      "duration": 27.0,
+      "integratedLUFS": -18.41,
+      "truePeakDBTP": -2.1,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/beijing-1.mp3",
+      "bytes": 169724,
+      "duration": 28.25,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -3.51,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/beijing-2.mp3",
+      "bytes": 156044,
+      "duration": 25.97,
+      "integratedLUFS": -18.39,
+      "truePeakDBTP": -1.65,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/hangzhou-0.mp3",
+      "bytes": 175628,
+      "duration": 29.23,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.88,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/hangzhou-1.mp3",
+      "bytes": 155900,
+      "duration": 25.94,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -2.54,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/hangzhou-2.mp3",
+      "bytes": 156764,
+      "duration": 26.09,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -2.77,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/nanjing-0.mp3",
+      "bytes": 166844,
+      "duration": 27.77,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -0.63,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/nanjing-1.mp3",
+      "bytes": 171740,
+      "duration": 28.58,
+      "integratedLUFS": -18.44,
+      "truePeakDBTP": -1.88,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/nanjing-2.mp3",
+      "bytes": 154892,
+      "duration": 25.78,
+      "integratedLUFS": -18.46,
+      "truePeakDBTP": -2.19,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/chengdu-0.mp3",
+      "bytes": 168572,
+      "duration": 28.06,
+      "integratedLUFS": -18.43,
+      "truePeakDBTP": -1.72,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/chengdu-1.mp3",
+      "bytes": 153884,
+      "duration": 25.61,
+      "integratedLUFS": -18.45,
+      "truePeakDBTP": -1.76,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/chengdu-2.mp3",
+      "bytes": 154028,
+      "duration": 25.63,
+      "integratedLUFS": -18.37,
+      "truePeakDBTP": -1.99,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/guangzhou-0.mp3",
+      "bytes": 171452,
+      "duration": 28.54,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -2.31,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/guangzhou-1.mp3",
+      "bytes": 171164,
+      "duration": 28.49,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.89,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/guangzhou-2.mp3",
+      "bytes": 157628,
+      "duration": 26.23,
+      "integratedLUFS": -18.3,
+      "truePeakDBTP": -2.07,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-cloisonne.mp3",
+      "bytes": 164108,
+      "duration": 27.31,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.96,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-papercut.mp3",
+      "bytes": 156044,
+      "duration": 25.97,
+      "integratedLUFS": -18.32,
+      "truePeakDBTP": -2.94,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-storytelling.mp3",
+      "bytes": 166268,
+      "duration": 27.67,
+      "integratedLUFS": -18.33,
+      "truePeakDBTP": -2.86,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-stage-robe.mp3",
+      "bytes": 159212,
+      "duration": 26.5,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -2.59,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-yunjin.mp3",
+      "bytes": 168716,
+      "duration": 28.08,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -1.75,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-shujin.mp3",
+      "bytes": 151580,
+      "duration": 25.22,
+      "integratedLUFS": -18.33,
+      "truePeakDBTP": -2.43,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-shuxiu.mp3",
+      "bytes": 169004,
+      "duration": 28.13,
+      "integratedLUFS": -18.43,
+      "truePeakDBTP": -2.13,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/craft-cantonese-opera.mp3",
+      "bytes": 158204,
+      "duration": 26.33,
+      "integratedLUFS": -18.42,
+      "truePeakDBTP": -1.86,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-437.mp3",
+      "bytes": 184268,
+      "duration": 30.67,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.92,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-438.mp3",
+      "bytes": 186572,
+      "duration": 31.06,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.8,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-439.mp3",
+      "bytes": 186284,
+      "duration": 31.01,
+      "integratedLUFS": -18.37,
+      "truePeakDBTP": -1.78,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-440.mp3",
+      "bytes": 182108,
+      "duration": 30.31,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.92,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-441.mp3",
+      "bytes": 190316,
+      "duration": 31.68,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -2.12,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-449.mp3",
+      "bytes": 190892,
+      "duration": 31.78,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.88,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-547.mp3",
+      "bytes": 185996,
+      "duration": 30.96,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.95,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-703.mp3",
+      "bytes": 201692,
+      "duration": 33.58,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.85,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-704.mp3",
+      "bytes": 194780,
+      "duration": 32.42,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -2.26,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-705.mp3",
+      "bytes": 189164,
+      "duration": 31.49,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -2.14,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-707.mp3",
+      "bytes": 195500,
+      "duration": 32.54,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.88,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-778.mp3",
+      "bytes": 188876,
+      "duration": 31.44,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.93,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-779.mp3",
+      "bytes": 190316,
+      "duration": 31.68,
+      "integratedLUFS": -18.37,
+      "truePeakDBTP": -2.23,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-811.mp3",
+      "bytes": 176636,
+      "duration": 29.4,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.57,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-812.mp3",
+      "bytes": 192044,
+      "duration": 31.97,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.84,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-813.mp3",
+      "bytes": 185708,
+      "duration": 30.91,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -2.06,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-880.mp3",
+      "bytes": 184556,
+      "duration": 30.72,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.81,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-881.mp3",
+      "bytes": 177356,
+      "duration": 29.52,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -2.05,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-911.mp3",
+      "bytes": 187148,
+      "duration": 31.15,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.9,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-912.mp3",
+      "bytes": 185708,
+      "duration": 30.91,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.81,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1001.mp3",
+      "bytes": 183692,
+      "duration": 30.58,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.61,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1002.mp3",
+      "bytes": 204140,
+      "duration": 33.98,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.73,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1003.mp3",
+      "bytes": 189164,
+      "duration": 31.49,
+      "integratedLUFS": -18.39,
+      "truePeakDBTP": -2.01,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1004.mp3",
+      "bytes": 182396,
+      "duration": 30.36,
+      "integratedLUFS": -18.33,
+      "truePeakDBTP": -1.98,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1039.mp3",
+      "bytes": 184556,
+      "duration": 30.72,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.87,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1135.mp3",
+      "bytes": 197372,
+      "duration": 32.86,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.76,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1110.mp3",
+      "bytes": 195788,
+      "duration": 32.59,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.66,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1114.mp3",
+      "bytes": 179516,
+      "duration": 29.88,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.92,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1112.mp3",
+      "bytes": 185708,
+      "duration": 30.91,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.51,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1113.mp3",
+      "bytes": 181388,
+      "duration": 30.19,
+      "integratedLUFS": -18.39,
+      "truePeakDBTP": -2.01,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1279.mp3",
+      "bytes": 174332,
+      "duration": 29.02,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.81,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1305.mp3",
+      "bytes": 203276,
+      "duration": 33.84,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -2.01,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1334.mp3",
+      "bytes": 193196,
+      "duration": 32.16,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.9,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1389.mp3",
+      "bytes": 177068,
+      "duration": 29.47,
+      "integratedLUFS": -18.31,
+      "truePeakDBTP": -1.81,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1111.mp3",
+      "bytes": 185276,
+      "duration": 30.84,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.43,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1442.mp3",
+      "bytes": 207020,
+      "duration": 34.46,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.8,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1443.mp3",
+      "bytes": 188876,
+      "duration": 31.44,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.96,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1474.mp3",
+      "bytes": 180812,
+      "duration": 30.1,
+      "integratedLUFS": -18.33,
+      "truePeakDBTP": -1.87,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1508.mp3",
+      "bytes": 195356,
+      "duration": 32.52,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.76,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1541.mp3",
+      "bytes": 188732,
+      "duration": 31.42,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.99,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1592.mp3",
+      "bytes": 182108,
+      "duration": 30.31,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -2.16,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1561.mp3",
+      "bytes": 200540,
+      "duration": 33.38,
+      "integratedLUFS": -18.38,
+      "truePeakDBTP": -1.89,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1665.mp3",
+      "bytes": 196220,
+      "duration": 32.66,
+      "integratedLUFS": -18.35,
+      "truePeakDBTP": -1.93,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1714.mp3",
+      "bytes": 207740,
+      "duration": 34.58,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -1.87,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1736.mp3",
+      "bytes": 173612,
+      "duration": 28.9,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -1.82,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/packs/xiaoyi/heritage/wh-1765.mp3",
+      "bytes": 197084,
+      "duration": 32.81,
+      "integratedLUFS": -18.36,
+      "truePeakDBTP": -2.01,
+      "voice": "zh-CN-XiaoyiNeural"
+    },
+    {
+      "path": "assets/audio/previews/xiaoyi.mp3",
+      "bytes": 75116,
+      "duration": 12.48,
+      "integratedLUFS": -18.34,
+      "truePeakDBTP": -3.61,
+      "voice": "zh-CN-XiaoyiNeural"
+    }
+  ]
+}

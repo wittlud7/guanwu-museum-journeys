@@ -9,8 +9,8 @@ import {privateConfig} from './private_config.mjs';
 const privateEnv=privateConfig();
 const require=createRequire(import.meta.url),root=fileURLToPath(new URL('../dist/',import.meta.url));
 const a=require('../dist/heritage-data.js');let b={};try{b=require('../dist/expansion-data.js')}catch(e){if(e.code!=='MODULE_NOT_FOUND')throw e}
-const d=require('../dist/beijing-museums.js'),c=require('../dist/city-museums.js'),inquiries=require('../dist/inquiries-data.js');
-const catalog={museums:[...a.museums,...(b.museums||[]),...c.museums,...d.museums],artifacts:b.artifacts||[],crafts:a.crafts,inquiries};
+const w=require('../dist/world-heritage-data.js'),d=require('../dist/beijing-museums.js'),c=require('../dist/city-museums.js'),inquiries=require('../dist/inquiries-data.js');
+const catalog={museums:[...a.museums,...(b.museums||[]),...c.museums,...d.museums],artifacts:b.artifacts||[],crafts:a.crafts,inquiries,heritage:w.sites};
 const types={'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.png':'image/png','.svg':'image/svg+xml','.mp3':'audio/mpeg','.webp':'image/webp'};
 const server=http.createServer(async(req,res)=>{
   const url=new URL(req.url,'http://localhost:4173');

@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 103.348558,
+    "LATITUDE": 29.546104
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        3,
+        "Mount Emei Scenic Area",
+        29.546104,
+        103.348558,
+        "779-001",
+        779,
+        "China"
+      ],
+      [
+        0,
+        3,
+        "Leshan Giant Buddha Scenic Area",
+        29.5447222222,
+        103.7733333333,
+        "779-002",
+        779,
+        "China"
+      ]
+    ]
+  }
+}

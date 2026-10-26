@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 100.0075,
+    "LATITUDE": 22.1841666667
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er",
+        22.1841666667,
+        100.0075,
+        "1665",
+        1665,
+        "China"
+      ]
+    ]
+  }
+}

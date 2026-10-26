@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 120.1408333333,
+    "LATITUDE": 30.2375
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "West Lake Cultural Landscape of Hangzhou",
+        30.2375,
+        120.1408333333,
+        "1334-001",
+        1334,
+        "China"
+      ]
+    ]
+  }
+}

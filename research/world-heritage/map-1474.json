@@ -1,0 +1,51 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 109.9669444444,
+    "LATITUDE": 28.9986111111
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Site of Laosicheng Tusi Domain",
+        28.9986111111,
+        109.9669444444,
+        "1474-001",
+        1474,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Tangya Tusi Domain",
+        29.6905555556,
+        109.0052777778,
+        "1474-002",
+        1474,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Hailongtun Tusi Fortress",
+        27.8116666667,
+        106.8169444444,
+        "1474-003",
+        1474,
+        "China"
+      ]
+    ]
+  }
+}

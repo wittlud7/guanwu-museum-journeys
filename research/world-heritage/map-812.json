@@ -1,0 +1,51 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 112.1790555556,
+    "LATITUDE": 37.2036944444
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Ancient City of Ping Yao",
+        37.2036944444,
+        112.1790555556,
+        "812-001",
+        812,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Zhen Guo Temple",
+        37.286204,
+        112.278907,
+        "812-002",
+        812,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shuang Lin Temple",
+        37.170739,
+        112.131745,
+        "812-003",
+        812,
+        "China"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 102.7799805556,
+    "LATITUDE": 23.0932777778
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Cultural Landscape of Honghe Hani Rice Terraces",
+        23.0932777778,
+        102.7799805556,
+        "1111",
+        1111,
+        "China"
+      ]
+    ]
+  }
+}

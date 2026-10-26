@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 118.0619444444,
+    "LATITUDE": 24.4475
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Kulangsu, a Historic International Settlement",
+        24.4475,
+        118.0619444444,
+        "1541",
+        1541,
+        "China"
+      ]
+    ]
+  }
+}

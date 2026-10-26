@@ -1,0 +1,71 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 105.7,
+    "LATITUDE": 29.7
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Beishan Cliffside Carvings",
+        29.7,
+        105.7,
+        "912-00",
+        912,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Baodingshan Cliffside Carvings",
+        29.75,
+        105.7833333333,
+        "912-001",
+        912,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Nanshan Cliffside Carvings",
+        29.6833333333,
+        105.7,
+        "912-002",
+        912,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shizhuanshan Cliffside Carvings",
+        29.5833333333,
+        105.5666666667,
+        "912-003",
+        912,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shimenshan Cliffside Carvings",
+        29.65,
+        105.85,
+        "912-004",
+        912,
+        "China"
+      ]
+    ]
+  }
+}

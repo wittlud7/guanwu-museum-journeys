@@ -1,0 +1,32 @@
+{
+  "hash": "50a3b0f3e8803afb2c17f160a1d92cef51c99ca3b9adc0d3b2dbfc279ee0e592",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "synthetic": true,
+  "provider": "Microsoft Edge neural TTS via edge-tts",
+  "text": "离开织机之前，记住一个观看线索：织锦的纹样在织造时形成，而刺绣通常是在已有的底布上运针。两者都能呈现精致图案，但制作路径不同。下一次看到丝织品，不妨先问自己：图案与底布，是怎样相遇的？带着这个问题，你也可以继续看看成都的蜀锦与蜀绣。",
+  "sentences": [
+    {
+      "start": 0.1,
+      "end": 10.244,
+      "text": "离开织机之前，记住一个观看线索：织锦的纹样在织造时形成，而刺绣通常是在已有的底布上运针。"
+    },
+    {
+      "start": 10.194,
+      "end": 14.667,
+      "text": "两者都能呈现精致图案，但制作路径不同。"
+    },
+    {
+      "start": 14.667,
+      "end": 20.944,
+      "text": "下一次看到丝织品，不妨先问自己：图案与底布，是怎样相遇的？"
+    },
+    {
+      "start": 20.944,
+      "end": 27.236,
+      "text": "带着这个问题，你也可以继续看看成都的蜀锦与蜀绣。"
+    }
+  ],
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass"
+}

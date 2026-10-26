@@ -1,0 +1,37 @@
+{
+  "hash": "af99de27856f3df9d4aef043f522c2376f25de64c02a309fd84dcba776b6d772",
+  "voice": "zh-CN-XiaoyiNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "synthetic": true,
+  "provider": "Microsoft Edge neural TTS via edge-tts",
+  "text": "离开前，再看一眼庭院与水面。博物馆让我们在城市的日常生活旁边，找到认识传统艺术的入口。如果遇到演出公告，可以按自己的行程选择一场，也可以仅仅记下一个还不熟悉的词。理解一种表演艺术，不必从全部听懂开始。愿意再听一次，就是一次新的相遇。",
+  "sentences": [
+    {
+      "start": 0.1,
+      "end": 3.627,
+      "text": "离开前，再看一眼庭院与水面。"
+    },
+    {
+      "start": 3.577,
+      "end": 9.747,
+      "text": "博物馆让我们在城市的日常生活旁边，找到认识传统艺术的入口。"
+    },
+    {
+      "start": 9.747,
+      "end": 17.66,
+      "text": "如果遇到演出公告，可以按自己的行程选择一场，也可以仅仅记下一个还不熟悉的词。"
+    },
+    {
+      "start": 17.66,
+      "end": 22.234,
+      "text": "理解一种表演艺术，不必从全部听懂开始。"
+    },
+    {
+      "start": 22.234,
+      "end": 26.13,
+      "text": "愿意再听一次，就是一次新的相遇。"
+    }
+  ],
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass"
+}

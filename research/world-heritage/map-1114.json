@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 114.325162,
+    "LATITUDE": 36.121978
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Palace and Royal Ancestral Shrines Area",
+        36.121978,
+        114.325162,
+        "1114-001",
+        1114,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Royal Tombs Area",
+        36.141976,
+        114.309229,
+        "1114-002",
+        1114,
+        "China"
+      ]
+    ]
+  }
+}

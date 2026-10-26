@@ -1,0 +1,71 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 117.201944444,
+    "LATITUDE": 29.2972222222
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Town Area Porcelain Production Center",
+        29.2972222222,
+        117.201944444,
+        "1765-001",
+        1765,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Hutian Ancient Kiln Site",
+        29.2863888889,
+        117.243333333,
+        "1765-002",
+        1765,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Gaoling Porcelain Clay Mining Site",
+        29.4866666666,
+        117.509166667,
+        "1765-003",
+        1765,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Changling Porcelain Stone Mining Site",
+        29.5625,
+        117.584722222,
+        "1765-004",
+        1765,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Jiaotan Firewood Production Area",
+        29.5844444444,
+        117.170833333,
+        "1765-005",
+        1765,
+        "China"
+      ]
+    ]
+  }
+}

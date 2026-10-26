@@ -1,0 +1,61 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 100.233333333,
+    "LATITUDE": 26.875
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Dayan Old Town",
+        26.875,
+        100.233333333,
+        "811-001",
+        811,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Heilongtan Pool",
+        26.8888888889,
+        100.233333333,
+        "811-002",
+        811,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Baisha Village",
+        26.9555555556,
+        100.2138888889,
+        "811-003",
+        811,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shuhe Town",
+        26.925,
+        100.202777778,
+        "811-004",
+        811,
+        "China"
+      ]
+    ]
+  }
+}

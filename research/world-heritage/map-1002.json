@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 117.9875,
+    "LATITUDE": 29.9044444444
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Xidi",
+        29.9044444444,
+        117.9875,
+        "1002-001",
+        1002,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Hongcun",
+        30.004863,
+        117.98408,
+        "1002-002",
+        1002,
+        "China"
+      ]
+    ]
+  }
+}

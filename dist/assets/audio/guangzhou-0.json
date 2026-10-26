@@ -25,5 +25,6 @@
       "end": 30.082,
       "text": "今天，不必急着听懂每一句唱词，先让眼睛和耳朵，各找到一个感兴趣的细节。"
     }
-  ]
+  ],
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass"
 }

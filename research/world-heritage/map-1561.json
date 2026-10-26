@@ -1,0 +1,181 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 118.59,
+    "LATITUDE": 24.9056666667
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "The Old City",
+        24.9056666667,
+        118.59,
+        "1561rev-001",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Shunji Bridge",
+        24.8932222222,
+        118.583194444,
+        "1561rev-002",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Zhenwu Temple and Estuary Docks",
+        24.8783333334,
+        118.623888889,
+        "1561rev-003",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shihu Dock",
+        24.8069694444,
+        118.715358333,
+        "1561rev-004",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Liusheng Pagoda",
+        24.8078305556,
+        118.725305556,
+        "1561rev-005",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Wanshou Pagoda",
+        24.7224972223,
+        118.672777778,
+        "1561rev-006",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Anping Bridge",
+        24.7102777778,
+        118.444166667,
+        "1561rev-007",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Statue of Mani in Cao'an Temple",
+        24.7733333334,
+        118.529444445,
+        "1561rev-008",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Luoyang Bridge",
+        24.9544416667,
+        118.676108333,
+        "1561rev-009",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Islamic Tombs",
+        24.9066916667,
+        118.620555556,
+        "1561rev-010",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Statue of Lao Tze",
+        24.947775,
+        118.594719444,
+        "1561rev-011",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Jiuri Mountain Wind-Praying Inscriptions",
+        24.9523611111,
+        118.52925,
+        "1561rev-012",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Sites of Cizao Kilns (Jinjiaoyishan Kilns)",
+        24.8536083333,
+        118.467777778,
+        "1561rev-013",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Sites of Dehua Kilns (Weilin-Neiban Kilns)",
+        25.4745833334,
+        118.296525,
+        "1561rev-014",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Sites of Dehua Kilns (Qudougong Kiln)",
+        25.4897194444,
+        118.251108333,
+        "1561rev-015",
+        1561,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Xiacaopu Iron Production Site of Qingyang Village in Anxi",
+        25.1861111111,
+        117.955555556,
+        "1561rev-016",
+        1561,
+        "China"
+      ]
+    ]
+  }
+}

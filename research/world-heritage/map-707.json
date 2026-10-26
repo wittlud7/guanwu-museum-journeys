@@ -1,0 +1,51 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 91.118418,
+    "LATITUDE": 29.655485
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Potala Palace",
+        29.655485,
+        91.118418,
+        "707-001",
+        707,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Jokhang Temple Monastery",
+        29.650248,
+        91.133788,
+        "707-002",
+        707,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Norbulingka",
+        29.651529,
+        91.09312,
+        "707-003",
+        707,
+        "China"
+      ]
+    ]
+  }
+}

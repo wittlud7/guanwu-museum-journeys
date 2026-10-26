@@ -1,0 +1,331 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 112.468333333,
+    "LATITUDE": 34.6938888889
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "No.160 Site of Hanjia Granary",
+        34.6938888889,
+        112.468333333,
+        "1443bis-001",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Huiloa Granary",
+        34.7130555556,
+        112.492777778,
+        "1443bis-002",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Zhengzhou Section of Tongji Canal",
+        34.8936111111,
+        113.636944444,
+        "1443bis-003",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shangqiu Nanguan Section of Tongji Canal ",
+        34.3480555556,
+        115.607777778,
+        "1443bis-004",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shangqiu Xiayi  Section of Tongji Canal",
+        34.1572222222,
+        115.976388889,
+        "1443bis-005",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Canal Site at Liuzi",
+        33.8211111111,
+        116.603888889,
+        "1443bis-006",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Si County Section of Tongji Canal",
+        33.4972222222,
+        117.919722222,
+        "1443bis-007",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Hua County and Xun County Section of Wei Canal (Yongji Canal)",
+        35.6261111111,
+        114.501944444,
+        "1443bis-008",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Liyang Granary",
+        35.6697222222,
+        114.539444444,
+        "1443bis-009",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Qingkou Complex",
+        33.4027777778,
+        118.894444444,
+        "1443bis-010",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Site of Caoyun Governor’s Mansion",
+        33.5080555556,
+        119.139722222,
+        "1443bis-011",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Yangzhou Section of Huaiyang Canal",
+        32.7725,
+        119.425833333,
+        "1443bis-012",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Changzhou City Section of Jiangnan Canal",
+        31.7791666667,
+        119.944722222,
+        "1443bis-013",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Wuxi City Section of Jiangnan Canal",
+        31.5611111111,
+        120.309166667,
+        "1443bis-014",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Suzhou Section of Jiangnan Canal",
+        31.1969444444,
+        120.660555556,
+        "1443bis-015",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Jiaxing-Hangzhou Section of Jiangnan Canal\t",
+        30.5511111111,
+        120.429166667,
+        "1443bis-016",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Nanxun Section of Jiangnan Canal",
+        30.8805555556,
+        120.427222222,
+        "1443bis-017",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Hangzhou Xiaoshan – Shaoxing Section of Zhedong Canal",
+        30.0163888889,
+        120.564166667,
+        "1443bis-018",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shangyu-YuyaoSection of Zhedong Canal",
+        30.0630555556,
+        120.995,
+        "1443bis-019",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Ningbo Section of Zhedong Canal",
+        29.9875,
+        121.386666667,
+        "1443bis-020",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Ningbo Sanjiangkou",
+        29.8747222222,
+        121.557222222,
+        "1443bis-021",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Old Beijing City Section of Tonghui Canal",
+        39.9413888889,
+        116.380833333,
+        "1443bis-022",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Tongzhou Section of Tonghui Canal",
+        39.9091666667,
+        116.64,
+        "1443bis-023",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Sanchkou Section of Bei Canal and Nana Canal in Tianjin",
+        39.2722222222,
+        117.089722222,
+        "1443bis-024",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Cangzhou-Dezhou Section of Nan Canal",
+        37.6044444444,
+        116.325555556,
+        "1443bis-025",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Linqing Section of Huitong Canal",
+        36.8311111111,
+        115.709722222,
+        "1443bis-026",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Yanggu Section of Huitong Canal",
+        36.1258333333,
+        116.015555556,
+        "1443bis-027",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Nanwang Complex",
+        35.7211111111,
+        116.417777778,
+        "1443bis-028",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Weishan Section of Huitong Canal",
+        35.0777777778,
+        116.697222222,
+        "1443bis-029",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Taierzhuang Section of Zhong Canal",
+        34.5580555556,
+        117.730833333,
+        "1443bis-030",
+        1443,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Suqian Section of Zhong Canal",
+        34.02,
+        118.165,
+        "1443bis-031",
+        1443,
+        "China"
+      ]
+    ]
+  }
+}

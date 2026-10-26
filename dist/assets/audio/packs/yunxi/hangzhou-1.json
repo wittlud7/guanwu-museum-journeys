@@ -1,0 +1,37 @@
+{
+  "hash": "874843e4fd53cb444dbb84fbddec6b2cff49abe4e922fe0fc4e114d1f00d1b13",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "synthetic": true,
+  "provider": "Microsoft Edge neural TTS via edge-tts",
+  "text": "看看折扇与醒木，再想象讲述者的动作。扇子可以展开、收拢，也可以成为手势的一部分；醒木则让我们的注意力回到讲述。再看看锣与板，形状和材质怎样影响声音？这里没有要你背下的标准答案。试着先观察，再把一个问题带到现场的工艺说明或展演中去。",
+  "sentences": [
+    {
+      "start": 0.1,
+      "end": 4.564,
+      "text": "看看折扇与醒木，再想象讲述者的动作。"
+    },
+    {
+      "start": 4.514,
+      "end": 12.458,
+      "text": "扇子可以展开、收拢，也可以成为手势的一部分；醒木则让我们的注意力回到讲述。"
+    },
+    {
+      "start": 12.458,
+      "end": 17.194,
+      "text": "再看看锣与板，形状和材质怎样影响声音？"
+    },
+    {
+      "start": 17.194,
+      "end": 19.931,
+      "text": "这里没有要你背下的标准答案。"
+    },
+    {
+      "start": 19.931,
+      "end": 26.694,
+      "text": "试着先观察，再把一个问题带到现场的工艺说明或展演中去。"
+    }
+  ],
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass"
+}

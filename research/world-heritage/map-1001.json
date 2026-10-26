@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 103.60528,
+    "LATITUDE": 31.00167
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Mount Qingcheng and the Dujiangyan Irrigation System",
+        31.00167,
+        103.60528,
+        "1001",
+        1001,
+        "China"
+      ]
+    ]
+  }
+}

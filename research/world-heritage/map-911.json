@@ -1,0 +1,41 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 117.725277778,
+    "LATITUDE": 27.7263888889
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        3,
+        "Mount Wuyi (Part 1)",
+        27.7263888889,
+        117.725277778,
+        "911bis-001",
+        911,
+        "China"
+      ],
+      [
+        0,
+        3,
+        "Mount Wuyi (Part 2)",
+        27.5544444444,
+        118.043055556,
+        "911bis-002",
+        911,
+        "China"
+      ]
+    ]
+  }
+}

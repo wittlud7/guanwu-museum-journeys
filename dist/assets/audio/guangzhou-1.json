@@ -25,5 +25,6 @@
       "end": 29.47,
       "text": "这里的讲解为普通话合成导览，不是粤语唱段。"
     }
-  ]
+  ],
+  "audioProcessing": "EBU R128 I=-18 LUFS TP=-1.5 dBTP LRA=11 two-pass"
 }

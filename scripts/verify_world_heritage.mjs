@@ -1,0 +1,33 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {createRequire} from 'node:module';
+const require=createRequire(import.meta.url);
+const data=require('../dist/world-heritage-data.js');
+const source=JSON.parse(fs.readFileSync(new URL('../research/world-heritage/china-unesco-rows.json',import.meta.url),'utf8')).filter(x=>['Cultural','Mixed'].includes(x.category));
+assert.equal(data.sites.length,46);
+assert.deepEqual(new Set(data.sites.map(x=>x.unescoId)),new Set(source.map(x=>x.id_number)));
+assert.equal(data.sites.filter(x=>x.category==='cultural').length,42);
+assert.equal(data.sites.filter(x=>x.category==='mixed').length,4);
+const museumIds=new Set(['heritage-data','expansion-data','city-museums','beijing-museums'].flatMap(f=>(require('../dist/'+f+'.js').museums||[]).map(x=>x.id)));
+for(const x of data.sites){
+ const official=source.find(y=>y.id_number===x.unescoId);
+ assert.equal(x.year,Number(official.date_inscribed));
+ assert.equal(x.official,`https://whc.unesco.org/en/list/${x.unescoId}/`);
+ assert.equal(x.id,`wh-${x.unescoId}`);
+ assert.equal(x.image,`${x.id}-photo`);
+ assert.equal(x.highlights.length,3);assert.equal(x.chapters.length,3);
+ assert.ok(x.chapters.every(c=>c.audio===false&&c.text.length>90));
+ assert.ok(x.narrationText.length>=100&&x.narrationText.length<=180);
+ assert.ok(x.highlights.every(h=>h.source.url===x.official));
+ assert.ok(x.provinces.length&&x.componentsNote&&x.provinceScope);
+ assert.ok(x.relatedMuseums.every(id=>museumIds.has(id)));
+ const query=JSON.parse(fs.readFileSync(new URL(`../research/world-heritage/map-${x.unescoId}.json`,import.meta.url),'utf8')).QUERYRESULT;
+ const rows=query.DATA.map(row=>Object.fromEntries(query.COLUMNS.map((name,i)=>[name.toLowerCase(),row[i]])));
+ assert.ok(rows.some(r=>r.stateparty.includes('China')&&r.latitude===x.location.lat&&r.longitude===x.location.lng),`coordinate must match official Chinese reference: ${x.id}`);
+ assert.ok(x.location.note.includes('不是入口'));
+}
+assert.equal(data.sites.find(x=>x.unescoId==='1765').year,2026);
+assert.equal(data.sites.find(x=>x.unescoId==='1765').name,'景德镇手工瓷业遗存');
+assert.deepEqual(data.sites.find(x=>x.unescoId==='438').provinces,['北京','河北','甘肃']);
+assert.equal(data.sites.find(x=>x.unescoId==='1442').components.filter(x=>x.country==='China').length,22);
+console.log('PASS: all 46 official cultural/mixed properties, 138 highlights, 138 reading chapters, 46 source-matched Chinese reference coordinates; serial counts and scope explicit.');

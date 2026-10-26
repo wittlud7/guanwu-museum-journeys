@@ -1,16 +1,22 @@
 # 观物 · 城市博物馆指南
 
-11 城 80 馆、18 件真实文物与 8 个工艺专题，连接影像、阅读、语音与 DeepSeek 随行伴游。浏览器小程序尺寸预览为 `mini.html`；微信原生工程在 `miniprogram/`。
+11 城 80 馆、46 项中国世界文化及混合遗产、18 件真实文物与 8 个工艺专题，连接影像、阅读、语音与 DeepSeek 随行伴游。浏览器小程序尺寸预览为 `mini.html`；微信原生工程在 `miniprogram/`。
 
 2026-10-25 更新：现有每城增加两馆，新增22张对应许可照片、66个有来源的观察看点。“博物馆”用于按城市、主题、关键词选馆；“城市漫游”先选城市，再组合半天一馆或一天两馆。新增三组跨馆对看主题、18件文物的自由比较、观察手记和带图片署名的PNG观物卡导出。AI支持多馆组合与来源对照，不生成虚构馆内/馆间导航。核查清单见 `research/city-museums-verification.md`。
 
-2026-10-24 更新：新增西安、上海、苏州、武汉、郑州、长沙。DeepSeek 已真实验证资料查询、来源回答和确认加入行程。新增场馆提供阅读导览；原有 23 段音频保留。三件文物缺可靠同物照片，清楚标注馆舍配图。接入与发布说明见 [DEEPSEEK.md](DEEPSEEK.md)。
+2026-10-24 更新：新增西安、上海、苏州、武汉、郑州、长沙。DeepSeek 已真实验证资料查询、来源回答和确认加入行程。新增场馆提供阅读导览；原有 23 段音频支持三套声音。三件文物缺可靠同物照片，清楚标注馆舍配图。接入与发布说明见 [DEEPSEEK.md](DEEPSEEK.md)。
 
 本轮进一步加入地图与自定义路线：可调整多馆顺序、日期、开始时间、停留时长及自行预留的交通时间，保存后随时编辑；可分享路线，其他人可另存自己的版本。77馆有经核对的WGS84参考点，蜀锦织绣馆、海淀新馆及永定河馆暂以地址检索代替。虚线仅表示游览顺序，实际道路路线由每一段的百度地图导航入口提供，时间表是个人预算。地图瓦片联网使用，不做离线下载。坐标依据见 `research/museum-locations-verification.md`。
 
 “同行交流”使用服务端D1数据库保存真实帖子、回复、点赞与举报。访客可浏览，使用站点的ChatGPT登录后设置公开昵称并发帖；邮箱不公开。支持删除自己的内容、分享路线和管理员审核，不填充虚构用户或互动。个人行程、收藏和手记仍保存在当前浏览器，公开分享路线不包含私人日期和时间安排。
 
 北京扩充至50处可独立参观的馆或馆区（包含首都博物馆东馆，明确机构关系）：新增47家馆的城区、主题、地址、官方参观入口、141个有出处的看点与141章阅读内容。其余10城保持各3家，总计80馆。选馆页增加北京城区筛选，城市路线页增加馆名/主题检索与城区过滤；自定义路线最多8站，可分多天，公开分享与AI工具保持相同上限。新馆阅读不冒充语音，暂缺合适许可图片的馆明确显示待补充。核查记录见 `research/beijing-museums-verification.md` 与 `research/beijing-locations-verification.md`。
+
+2026-10-26 世界遗产与声音更新：按 UNESCO 当前中国正式名录完整收录42项文化遗产和4项混合遗产（合计46），包含2026年景德镇手工瓷业遗存，不包含15项纯自然遗产、预备名单或非遗名录。增加世界遗产入口、28个省级地区标签筛选、类型与关键词搜索、46张许可照片、138个来源看点、138段文字阅读、参考地图、收藏及手记。串联/跨国遗产按一个整体计数；长城省份仅采用已确认代表地，不把15省资源分布当成认定边界。证据见 `research/world-heritage-verification.md`。
+
+三套 AI 合成普通话语音包：温润讲述（晓晓）、沉静男声（云希）、清亮女声（晓伊）。每包支持原有23段讲解及46段遗产简介，合计207段正文和3段试听。支持试听、记住选择、播放器切换并按相对进度续播；切换会停止上一个声音，试听会暂停正在播放的导览。统一响度处理，保留句级文稿。离线保存仅下载当前语音包，其他声音需联网或另行下载。其余博物馆的阅读章节及世界遗产完整章节不冒充语音。
+
+微信原生工程也含46项遗产的省份浏览、文字阅读、收藏和手记，以及原23段讲解的三套本地语音包（新增声音按需分包下载）。遗产的三声简介、完整地图与社区在网页/浏览器小程序预览体验；原生遗产页为阅读版。主包约1.60MB，所有声明分包合计约22.06MB，每包均低于2MB；尚未通过微信开发者工具编译或真机验收。
 
 ## 本地体验
 
@@ -53,11 +59,11 @@
 
 场馆基础信息附馆方、政府、UNESCO或相关机构资料。文字与观察提示为原创编辑。`dist/assets/heritage/credits.json` 保存图片作者、原始链接、许可与处理说明，页面及微信详情均可查看。不同图片保留各自的CC许可，不能将许可误当成整应用统一授权。
 
-语音为 `zh-CN-XiaoxiaoNeural`，以较舒缓的语速预生成，不依赖访客设备的系统声音。OpenAI语音生成曾因现有凭据401失败，本版使用 edge-tts 作为替代；没有把任何访客信息发送给语音服务。详见 `dist/assets/audio/manifest.json` 与 `scripts/build_audio.py`。界面明确标注为AI合成普通话，不是真人录音或戏曲唱段。正式商业运营应使用已确认相应使用条款的语音来源。
+语音使用 `zh-CN-XiaoxiaoNeural`、`zh-CN-YunxiNeural` 与 `zh-CN-XiaoyiNeural` 三种内置声音，以适合导览的语速预生成，不依赖访客设备的系统声音。OpenAI语音生成曾因现有凭据401失败，本版使用 edge-tts 作为替代；没有把任何访客信息发送给语音服务。旧版核心文稿清单见 `dist/assets/audio/manifest.json`；完整语音包使用 `scripts/build_voice_packs.py` 重建和核验，逐段测量见 `research/voice-packs-measurements.json`，说明见 `research/voice-packs-verification.md`。界面明确标注为AI合成普通话，不是真人录音或戏曲唱段。正式商业运营应使用已确认相应使用条款的语音来源。
 
 ## 验证
 
-运行 `node tests/beijing-catalog.mjs`、`node tests/native-guide.cjs`、`python tests/validate_assets.py`、`node tests/guide-server.mjs` 、`node tests/community-server.mjs` 和 `node tests/city-guide-server.mjs`。网页可用 Playwright CLI 执行 `tests/browser-guide.cjs`、`tests/browser-cities.cjs`、`tests/browser-beijing.cjs`、`tests/browser-cities-ai.cjs`、`tests/browser-route-planner.cjs`、`tests/browser-community.cjs`。地图自动化检查拦截瓦片请求，避免批量获取公共地图；社区写入仅在本地D1测试，未向生产社区添加测试内容。其中AI用例会产生少量真实模型请求，其他服务端测试用模拟传输。
+运行 `node scripts/verify_world_heritage.mjs`、`node tests/world-heritage-server.mjs`、`node tests/native-world-voices.cjs`、`node tests/beijing-catalog.mjs`、`node tests/native-guide.cjs`、`python tests/validate_assets.py`、`node tests/guide-server.mjs` 、`node tests/community-server.mjs` 和 `node tests/city-guide-server.mjs`。网页可用 Playwright CLI 执行 `tests/browser-guide.cjs`、`tests/browser-cities.cjs`、`tests/browser-beijing.cjs`、`tests/browser-world-voices.cjs`、`tests/browser-cities-ai.cjs`、`tests/browser-route-planner.cjs`、`tests/browser-community.cjs`。地图自动化检查拦截瓦片请求，避免批量获取公共地图；社区写入仅在本地D1测试，未向生产社区添加测试内容。其中AI用例会产生少量真实模型请求，其他服务端测试用模拟传输。
 
 浏览器检查覆盖四种宽度、13类页面、图片加载、真实音频播放/暂停/跳转/倍速、文稿、收藏/行程/手记/问答、断网下载与播放。另逐一解码23段MP3，检查时长、非静音、削波比例和字幕时间。微信端已检查JSON/WXML结构、逻辑适配、媒体路径和各分包大小；当前环境没有微信开发者工具，原生编译、渲染和真机音频仍待设备验收。
 

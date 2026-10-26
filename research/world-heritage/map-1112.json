@@ -1,0 +1,61 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 112.6138861111,
+    "LATITUDE": 22.3572194444
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Yinglong Lou (at Sanmenli Village)",
+        22.3572194444,
+        112.6138861111,
+        "1112-001",
+        1112,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Zili Village and the Fang Clan Watch Tower",
+        22.3732388889,
+        112.579125,
+        "1112-002",
+        1112,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Majianlong Village Cluster",
+        22.2855194444,
+        112.5658611111,
+        "1112-003",
+        1112,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Jingjiangli Village",
+        22.258774,
+        112.525727,
+        "1112-004",
+        1112,
+        "China"
+      ]
+    ]
+  }
+}

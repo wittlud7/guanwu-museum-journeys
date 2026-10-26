@@ -1,0 +1,31 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 116.3913888889,
+    "LATITUDE": 39.9072222222
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital",
+        39.9072222222,
+        116.3913888889,
+        "1714",
+        1714,
+        "China"
+      ]
+    ]
+  }
+}

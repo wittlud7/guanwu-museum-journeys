@@ -1,0 +1,101 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 113.0677194444,
+    "LATITUDE": 34.4587472222
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Taishi Que Gates, Zhongue Temple",
+        34.4587472222,
+        113.0677194444,
+        "1305-001",
+        1305,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Shaoshi Que Gates",
+        34.4930388889,
+        112.9770027778,
+        "1305-002",
+        1305,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Qimu Que Gates",
+        34.4741444444,
+        113.0412444444,
+        "1305-003",
+        1305,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Songye Temple Pagoda",
+        34.5016194444,
+        113.0159277778,
+        "1305-004",
+        1305,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Architectural Complex of Shaolin Temple (Kernel Compound, Chuzu Temple, Pagoda Forest)",
+        34.5072388889,
+        112.9355138889,
+        "1305-005",
+        1305,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Huishan Temple",
+        34.4933888889,
+        112.9988666667,
+        "1305-006",
+        1305,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Songyang Academy of Classical Learning",
+        34.4819444444,
+        113.0272027778,
+        "1305-007",
+        1305,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Observatory",
+        34.3997138889,
+        113.1412444444,
+        "1305-008",
+        1305,
+        "China"
+      ]
+    ]
+  }
+}

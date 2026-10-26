@@ -1,0 +1,51 @@
+{
+  "CENTROIDRESULT": {
+    "LONGITUDE": 107.031388889,
+    "LATITUDE": 22.2555555556
+  },
+  "HTMLRESULT": "",
+  "QUERYRESULT": {
+    "COLUMNS": [
+      "DANGER",
+      "CAT_ID",
+      "NAME",
+      "LATITUDE",
+      "LONGITUDE",
+      "SERIAL_NUMBER",
+      "ID_NO",
+      "STATEPARTY"
+    ],
+    "DATA": [
+      [
+        0,
+        1,
+        "Ningming and Longzhou County rock art",
+        22.2555555556,
+        107.031388889,
+        "1508-001",
+        1508,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Longhzou County rock art",
+        22.3925,
+        107.092777778,
+        "1508-002",
+        1508,
+        "China"
+      ],
+      [
+        0,
+        1,
+        "Jiangzhou District, Fusui County rock art",
+        22.545,
+        107.594166667,
+        "1508-003",
+        1508,
+        "China"
+      ]
+    ]
+  }
+}
