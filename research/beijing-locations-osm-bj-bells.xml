@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2725141 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="12069511906" visible="true" version="1" changeset="154295728" timestamp="2024-07-23T08:47:04Z" user="Richard Billyham" uid="21767964" lat="39.9671433" lon="116.3321549"/>
+ <node id="12069511907" visible="true" version="1" changeset="154295728" timestamp="2024-07-23T08:47:04Z" user="Richard Billyham" uid="21767964" lat="39.9671001" lon="116.3315255"/>
+ <node id="12069511908" visible="true" version="1" changeset="154295728" timestamp="2024-07-23T08:47:04Z" user="Richard Billyham" uid="21767964" lat="39.9688937" lon="116.3313158"/>
+ <node id="12069511909" visible="true" version="1" changeset="154295728" timestamp="2024-07-23T08:47:04Z" user="Richard Billyham" uid="21767964" lat="39.9689370" lon="116.3319447"/>
+ <way id="1303228717" visible="true" version="1" changeset="154295728" timestamp="2024-07-23T08:47:04Z" user="Richard Billyham" uid="21767964">
+  <nd ref="12069511906"/>
+  <nd ref="12069511907"/>
+  <nd ref="12069511908"/>
+  <nd ref="12069511909"/>
+  <nd ref="12069511906"/>
+  <tag k="landuse" v="religious"/>
+  <tag k="name" v="大钟寺古钟博物馆"/>
+ </way>
+</osm>

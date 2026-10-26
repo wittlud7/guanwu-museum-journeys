@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2471376 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="269701186" visible="true" version="7" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8684505" lon="116.3481937"/>
+ <node id="269701187" visible="true" version="6" changeset="127839134" timestamp="2022-10-20T13:22:59Z" user="booktiger" uid="4794671" lat="39.8684661" lon="116.3510868"/>
+ <node id="269701188" visible="true" version="4" changeset="127839134" timestamp="2022-10-20T13:22:59Z" user="booktiger" uid="4794671" lat="39.8696581" lon="116.3510503"/>
+ <node id="269701189" visible="true" version="4" changeset="127839134" timestamp="2022-10-20T13:22:59Z" user="booktiger" uid="4794671" lat="39.8696894" lon="116.3520759"/>
+ <node id="269701190" visible="true" version="5" changeset="69263108" timestamp="2019-04-16T09:16:24Z" user="学问大了" uid="9052151" lat="39.8713669" lon="116.3517589"/>
+ <node id="269701191" visible="true" version="4" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8716364" lon="116.3492833"/>
+ <node id="269701192" visible="true" version="4" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8708724" lon="116.3491335"/>
+ <node id="269701193" visible="true" version="5" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8708374" lon="116.3480715"/>
+ <node id="6209729428" visible="true" version="1" changeset="66323908" timestamp="2019-01-15T07:37:19Z" user="学问大了" uid="9052151" lat="39.8716409" lon="116.3494054"/>
+ <node id="6209729429" visible="true" version="1" changeset="66323908" timestamp="2019-01-15T07:37:19Z" user="学问大了" uid="9052151" lat="39.8717507" lon="116.3493991"/>
+ <node id="6209729430" visible="true" version="2" changeset="69263108" timestamp="2019-04-16T09:16:24Z" user="学问大了" uid="9052151" lat="39.8717313" lon="116.3503779"/>
+ <node id="6209729431" visible="true" version="2" changeset="69263108" timestamp="2019-04-16T09:16:24Z" user="学问大了" uid="9052151" lat="39.8715755" lon="116.3503700"/>
+ <node id="6277859926" visible="true" version="2" changeset="69263108" timestamp="2019-04-16T09:16:24Z" user="学问大了" uid="9052151" lat="39.8715250" lon="116.3517560"/>
+ <node id="6277859927" visible="true" version="1" changeset="67183161" timestamp="2019-02-14T05:57:24Z" user="学问大了" uid="9052151" lat="39.8713671" lon="116.3520372"/>
+ <node id="6408721004" visible="true" version="1" changeset="69263108" timestamp="2019-04-16T09:16:24Z" user="学问大了" uid="9052151" lat="39.8715796" lon="116.3508846"/>
+ <node id="6408721005" visible="true" version="1" changeset="69263108" timestamp="2019-04-16T09:16:24Z" user="学问大了" uid="9052151" lat="39.8715355" lon="116.3512576"/>
+ <node id="8513795535" visible="true" version="1" changeset="100955983" timestamp="2021-03-13T14:41:54Z" user="shanhulittle" uid="11213533" lat="39.8697638" lon="116.3520718"/>
+ <node id="8847322443" visible="true" version="1" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8683498" lon="116.3500504"/>
+ <node id="8847322444" visible="true" version="1" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8684500" lon="116.3483888"/>
+ <node id="8847322445" visible="true" version="1" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8683663" lon="116.3483910"/>
+ <node id="8847322446" visible="true" version="1" changeset="106613910" timestamp="2021-06-19T01:24:04Z" user="ZJJ86" uid="11578389" lat="39.8709688" lon="116.3492621"/>
+ <way id="24825443" visible="true" version="14" changeset="163690849" timestamp="2025-03-16T14:17:19Z" user="user_14299743" uid="14299743">
+  <nd ref="269701186"/>
+  <nd ref="8847322444"/>
+  <nd ref="8847322445"/>
+  <nd ref="8847322443"/>
+  <nd ref="269701187"/>
+  <nd ref="269701188"/>
+  <nd ref="269701189"/>
+  <nd ref="8513795535"/>
+  <nd ref="6277859927"/>
+  <nd ref="269701190"/>
+  <nd ref="6277859926"/>
+  <nd ref="6408721005"/>
+  <nd ref="6408721004"/>
+  <nd ref="6209729431"/>
+  <nd ref="6209729430"/>
+  <nd ref="6209729429"/>
+  <nd ref="6209729428"/>
+  <nd ref="269701191"/>
+  <nd ref="8847322446"/>
+  <nd ref="269701192"/>
+  <nd ref="269701193"/>
+  <nd ref="269701186"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="北京大观园"/>
+  <tag k="name:en" v="Beijing Grand View Garden"/>
+  <tag k="wikidata" v="Q10902197"/>
+  <tag k="wikimedia_commons" v="Category:Beijing Daguanyuan"/>
+  <tag k="wikipedia" v="zh:北京大观园"/>
+ </way>
+</osm>

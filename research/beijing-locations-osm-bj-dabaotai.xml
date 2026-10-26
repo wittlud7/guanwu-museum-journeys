@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2356397 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="7884553640" visible="true" version="3" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8043264" lon="116.2923860"/>
+ <node id="7884553641" visible="true" version="3" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8034872" lon="116.2923744"/>
+ <node id="7884553642" visible="true" version="3" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8035104" lon="116.2904012"/>
+ <node id="7884553643" visible="true" version="4" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8043553" lon="116.2902832"/>
+ <node id="9342717818" visible="true" version="1" changeset="114991360" timestamp="2021-12-16T07:10:24Z" user="学问大了" uid="9052151" lat="39.8046723" lon="116.2922016"/>
+ <node id="9342717819" visible="true" version="2" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8046561" lon="116.2914634"/>
+ <node id="9342717820" visible="true" version="2" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8053196" lon="116.2913132"/>
+ <node id="9342717821" visible="true" version="2" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8052887" lon="116.2911576"/>
+ <node id="9342717822" visible="true" version="2" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8046850" lon="116.2912300"/>
+ <node id="9342717823" visible="true" version="2" changeset="137241819" timestamp="2023-06-12T11:59:15Z" user="HolloWorld" uid="6946532" lat="39.8046232" lon="116.2902456"/>
+ <node id="10970946065" visible="true" version="1" changeset="137241819" timestamp="2023-06-12T11:58:41Z" user="HolloWorld" uid="6946532" lat="39.8047756" lon="116.2913588"/>
+ <node id="10970946071" visible="true" version="1" changeset="137241819" timestamp="2023-06-12T11:58:41Z" user="HolloWorld" uid="6946532" lat="39.8043306" lon="116.2925416"/>
+ <node id="10970946072" visible="true" version="1" changeset="137241819" timestamp="2023-06-12T11:58:41Z" user="HolloWorld" uid="6946532" lat="39.8046918" lon="116.2925257"/>
+ <way id="1012672989" visible="true" version="4" changeset="167227994" timestamp="2025-06-05T15:15:27Z" user="booktiger" uid="4794671">
+  <nd ref="7884553641"/>
+  <nd ref="7884553640"/>
+  <nd ref="10970946071"/>
+  <nd ref="10970946072"/>
+  <nd ref="9342717818"/>
+  <nd ref="9342717819"/>
+  <nd ref="10970946065"/>
+  <nd ref="9342717820"/>
+  <nd ref="9342717821"/>
+  <nd ref="9342717822"/>
+  <nd ref="9342717823"/>
+  <nd ref="7884553643"/>
+  <nd ref="7884553642"/>
+  <nd ref="7884553641"/>
+  <tag k="museum" v="history"/>
+  <tag k="name" v="大葆台遗址博物馆"/>
+  <tag k="old_name" v="大葆台西汉墓博物馆"/>
+  <tag k="start_date" v="2025-05-20"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+</osm>

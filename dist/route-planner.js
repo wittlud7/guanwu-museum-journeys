@@ -1,7 +1,7 @@
 window.GuanwuRoutePlanner=(()=>{
  const savedKey='guanwu-city-routes-v1',drafts={};let map=null,mapRoute='',mapFrame=0;
- const valid=id=>{const p=GUANWU_LOCATIONS[id];return p&&!p.unavailable&&Number.isFinite(p.lat)&&Number.isFinite(p.lng)?p:null};
- const locations=()=>GUANWU_LOCATIONS;
+ const valid=id=>{const p=locations()[id];return p&&!p.unavailable&&Number.isFinite(p.lat)&&Number.isFinite(p.lng)?p:null};
+ const locations=()=>({...GUANWU_LOCATIONS,...GUANWU_BEIJING_LOCATIONS});
  const routeStore=()=>stored(savedKey,{});
  function draft(c){if(!drafts[c.id])drafts[c.id]={name:c.city+'的博物之旅',date:'',start:'09:30',gap:30,mode:'transit',durations:{},...(routeStore()[c.id]||{})};return drafts[c.id]}
  const load=id=>routeStore()[id]||null;

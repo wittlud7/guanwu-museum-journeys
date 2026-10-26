@@ -20,7 +20,7 @@ export function executeTool(name,args,catalog){
   }
   if(name==='get_item'){
     if(typeof args.id==='string'&&args.id.startsWith('inquiry:')){const q=(catalog.inquiries||[]).find(q=>q.id===args.id.slice(8));if(q)return {...q,objects:q.items.map(id=>catalog.artifacts.find(a=>a.id===id)).filter(Boolean).map(plainItem)}}
-    if(typeof args.id==='string'&&args.id.startsWith('city:'))return {city:args.id.slice(5),museums:catalog.museums.filter(m=>m.city===args.id.slice(5)).map(plainItem)};
+    if(typeof args.id==='string'&&args.id.startsWith('city:'))return {city:args.id.slice(5),museums:catalog.museums.filter(m=>m.city===args.id.slice(5)).map(m=>({id:m.id,name:m.name,city:m.city,district:m.district,kind:m.kind,theme:m.theme,address:m.address,official:m.official}))};
     const item=all.find(x=>x.id===args.id);return item?plainItem(item):{error:'未收录该条目，不可编造'};
   }
   if(name==='compare_items'){
@@ -30,10 +30,10 @@ export function executeTool(name,args,catalog){
   }
   if(name==='plan_city_visit'){
     if(typeof args.city!=='string'||!['half','day','custom'].includes(args.pace))throw Error('请提供城市及half/day/custom节奏');
-    const available=catalog.museums.filter(m=>m.city===args.city&&m.active!==false),limit=args.pace==='half'?1:args.pace==='day'?2:available.length;
+    const available=catalog.museums.filter(m=>m.city===args.city&&m.active!==false),limit=args.pace==='half'?1:args.pace==='day'?2:Math.min(8,available.length);
     if(!available.length)return {error:'暂未收录这座城市的可选馆'};
     if(args.museum_ids!==undefined&&(!Array.isArray(args.museum_ids)||args.museum_ids.length>limit||new Set(args.museum_ids).size!==args.museum_ids.length||args.museum_ids.some(id=>!available.some(m=>m.id===id))))throw Error('选择的场馆不属于本城市或超出当前节奏');
-    const selected=args.museum_ids?.length?args.museum_ids.map(id=>available.find(m=>m.id===id)):available.slice(0,limit);
+    const selected=args.museum_ids?.length?args.museum_ids.map(id=>available.find(m=>m.id===id)):available.slice(0,args.pace==='custom'?Math.min(2,limit):limit);
     return {city:args.city,pace:args.pace==='half'?'半天一馆':args.pace==='day'?'一天最多两馆':'自定义组合，不承诺同一天完成',museums:selected.map(m=>({id:m.id,name:m.name,address:m.address,viewingSuggestion:m.duration,highlights:m.highlights||[],sources:m.sources,official:m.official})),otherChoices:available.filter(m=>!selected.includes(m)).map(m=>({id:m.id,name:m.name,theme:m.theme,official:m.official})),note:'只提供观看组合，不是导航或预约。请游客核对各馆馆区、开放、预约与交通。半天一馆，一天最多两馆；custom自定义可以更多，但不得假定同一天完成。不要编造馆间距离或通行时间。',requiresConfirmation:true};
   }
   const museum=catalog.museums.find(x=>x.id===args.museum||x.name===args.museum);

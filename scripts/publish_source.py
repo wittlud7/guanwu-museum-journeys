@@ -38,7 +38,7 @@ def git(args,network=False):
   raise RuntimeError(detail)
  return p.stdout.strip()
 git(['add','--all','--','.'])
-if git(['diff','--cached','--name-only']):git(['-c','user.name=Sites','-c','user.email=sites@users.noreply.openai.com','commit','-m','Expand to 33 museums with custom map routes, cross-museum observations and persistent community'])
+if git(['diff','--cached','--name-only']):git(['-c','user.name=Sites','-c','user.email=sites@users.noreply.openai.com','commit','-m','Expand Beijing to 50 sourced museums with district discovery and route search'])
 sha=git(['rev-parse','HEAD']);assert not git(['status','--porcelain'])
 git(['push',remote,sha+':refs/heads/'+branch],network=True)
 pushed=git(['ls-remote','--heads',remote,'refs/heads/'+branch],network=True).split()[0]

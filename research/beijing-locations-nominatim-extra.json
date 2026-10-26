@@ -1,0 +1,96 @@
+{
+  "bj-red-chamber": [
+    {
+      "place_id": 222151360,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24825443,
+      "lat": "39.8703006",
+      "lon": "116.3500796",
+      "category": "leisure",
+      "type": "park",
+      "place_rank": 24,
+      "importance": 0.3015950553092256,
+      "addresstype": "park",
+      "name": "北京大观园",
+      "display_name": "北京大观园, 菜园街社区, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+      "boundingbox": [
+        "39.8683498",
+        "39.8717507",
+        "116.3480715",
+        "116.3520759"
+      ]
+    }
+  ],
+  "bj-yongding": [],
+  "bj-haidian": [],
+  "bj-archaeology": [
+    {
+      "place_id": 221010955,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 610079824,
+      "lat": "39.9976929",
+      "lon": "116.3925689",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 8.344167238875436e-05,
+      "addresstype": "tourism",
+      "name": "中国考古博物馆",
+      "display_name": "中国考古博物馆, 国家体育场北路, 岔道口, 奥运村街道, 朝阳区, 北京市, 100101, 中国",
+      "boundingbox": [
+        "39.9970332",
+        "39.9981750",
+        "116.3913399",
+        "116.3937454"
+      ]
+    }
+  ],
+  "bj-agriculture": [
+    {
+      "place_id": 221672553,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 129187924,
+      "lat": "39.9391895",
+      "lon": "116.4589809",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 0.3538242275522032,
+      "addresstype": "tourism",
+      "name": "全国农业展览馆;中国农业博物馆",
+      "display_name": "全国农业展览馆;中国农业博物馆, 16, 东三环北路, 麦子店街道, 朝阳区, 北京市, 100125, 中国",
+      "boundingbox": [
+        "39.9362587",
+        "39.9424903",
+        "116.4562524",
+        "116.4630991"
+      ]
+    }
+  ],
+  "bj-dabaotai": [
+    {
+      "place_id": 221742494,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1012672989,
+      "lat": "39.8044893",
+      "lon": "116.2913995",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 8.344167238875436e-05,
+      "addresstype": "tourism",
+      "name": "大葆台遗址博物馆",
+      "display_name": "大葆台遗址博物馆, 丰科路, 花乡街道, 丰台区, 北京市, 100070, 中国",
+      "boundingbox": [
+        "39.8034872",
+        "39.8053196",
+        "116.2902456",
+        "116.2925416"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2471376 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="5778219552" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9970429" lon="116.3919059"/>
+ <node id="5778221253" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9970332" lon="116.3915415"/>
+ <node id="5778221254" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9972551" lon="116.3915314"/>
+ <node id="5778221255" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9972525" lon="116.3914321"/>
+ <node id="5778221256" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9980597" lon="116.3913399"/>
+ <node id="5778221257" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9980630" lon="116.3914638"/>
+ <node id="5778221258" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9981173" lon="116.3914613"/>
+ <node id="5778221259" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9981750" lon="116.3935876"/>
+ <node id="5778221264" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9981105" lon="116.3935910"/>
+ <node id="5778221265" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9981136" lon="116.3936894"/>
+ <node id="5778221266" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9970954" lon="116.3937454"/>
+ <node id="5778221268" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9970781" lon="116.3932248"/>
+ <node id="5778221270" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9979257" lon="116.3934296"/>
+ <node id="5778221271" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9979139" lon="116.3930426"/>
+ <node id="5778221272" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973807" lon="116.3930658"/>
+ <node id="5778221273" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973549" lon="116.3921010"/>
+ <node id="5778221274" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9978992" lon="116.3920762"/>
+ <node id="5778221275" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9978871" lon="116.3916231"/>
+ <node id="5778221276" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973002" lon="116.3917263"/>
+ <node id="5778221277" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973046" lon="116.3918940"/>
+ <node id="5778221278" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973548" lon="116.3934606"/>
+ <node id="5778221279" visible="true" version="2" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973460" lon="116.3932096"/>
+ <node id="13395691590" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9981332" lon="116.3920618"/>
+ <node id="13395691591" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9981580" lon="116.3930299"/>
+ <node id="13395693936" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9974966" lon="116.3916409"/>
+ <node id="13395693938" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973126" lon="116.3913736"/>
+ <node id="13395693939" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9974987" lon="116.3917173"/>
+ <node id="13395693940" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973141" lon="116.3914293"/>
+ <node id="13395693943" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9971090" lon="116.3919029"/>
+ <node id="13395693945" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973634" lon="116.3937302"/>
+ <node id="13395693946" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9973492" lon="116.3933052"/>
+ <node id="13395693947" visible="true" version="1" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253" lat="39.9971302" lon="116.3932218"/>
+ <way id="610079824" visible="true" version="7" changeset="176275463" timestamp="2025-12-22T17:45:39Z" user="A Viscacha" uid="12299253">
+  <nd ref="5778219552"/>
+  <nd ref="5778221253"/>
+  <nd ref="5778221254"/>
+  <nd ref="5778221255"/>
+  <nd ref="13395693940"/>
+  <nd ref="13395693938"/>
+  <nd ref="5778221256"/>
+  <nd ref="5778221257"/>
+  <nd ref="5778221258"/>
+  <nd ref="13395691590"/>
+  <nd ref="13395691591"/>
+  <nd ref="5778221259"/>
+  <nd ref="5778221264"/>
+  <nd ref="5778221265"/>
+  <nd ref="13395693945"/>
+  <nd ref="5778221266"/>
+  <nd ref="5778221268"/>
+  <nd ref="13395693947"/>
+  <nd ref="5778221279"/>
+  <nd ref="13395693946"/>
+  <nd ref="5778221278"/>
+  <nd ref="5778221270"/>
+  <nd ref="5778221271"/>
+  <nd ref="5778221272"/>
+  <nd ref="5778221273"/>
+  <nd ref="5778221274"/>
+  <nd ref="5778221275"/>
+  <nd ref="13395693936"/>
+  <nd ref="13395693939"/>
+  <nd ref="5778221276"/>
+  <nd ref="5778221277"/>
+  <nd ref="13395693943"/>
+  <nd ref="5778219552"/>
+  <tag k="alt_name" v="中国国学中心"/>
+  <tag k="building" v="yes"/>
+  <tag k="museum" v="archaeological;history"/>
+  <tag k="name" v="中国考古博物馆"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+</osm>

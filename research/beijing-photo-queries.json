@@ -1,0 +1,234 @@
+[
+  {
+    "id": "bj-capital",
+    "name": "首都博物馆",
+    "query": "\"Capital Museum\" Beijing"
+  },
+  {
+    "id": "bj-grand-canal",
+    "name": "北京大运河博物馆",
+    "query": "\"Beijing Grand Canal Museum\""
+  },
+  {
+    "id": "bj-art",
+    "name": "中国美术馆",
+    "query": "\"National Art Museum of China\""
+  },
+  {
+    "id": "bj-geology",
+    "name": "中国地质博物馆",
+    "query": "\"Geological Museum of China\""
+  },
+  {
+    "id": "bj-agriculture",
+    "name": "中国农业博物馆",
+    "query": "\"China Agricultural Museum\""
+  },
+  {
+    "id": "bj-paleozoo",
+    "name": "中国古动物馆",
+    "query": "\"Paleozoological Museum of China\""
+  },
+  {
+    "id": "bj-science",
+    "name": "中国科学技术馆",
+    "query": "\"China Science and Technology Museum\""
+  },
+  {
+    "id": "bj-military",
+    "name": "中国人民革命军事博物馆",
+    "query": "\"Military Museum\" Beijing"
+  },
+  {
+    "id": "bj-planetarium",
+    "name": "北京天文馆",
+    "query": "\"Beijing Planetarium\""
+  },
+  {
+    "id": "bj-nature",
+    "name": "国家自然博物馆",
+    "query": "\"Beijing Museum of Natural History\""
+  },
+  {
+    "id": "bj-bells",
+    "name": "大钟寺古钟博物馆",
+    "query": "\"Great Bell Temple\" Beijing"
+  },
+  {
+    "id": "bj-wanshou",
+    "name": "北京艺术博物馆",
+    "query": "\"Wanshou Temple\" Beijing"
+  },
+  {
+    "id": "bj-architecture",
+    "name": "北京古代建筑博物馆",
+    "query": "\"Temple of Agriculture\" Beijing"
+  },
+  {
+    "id": "bj-stone",
+    "name": "北京石刻艺术博物馆",
+    "query": "\"Zhenjue Temple\" Beijing"
+  },
+  {
+    "id": "bj-luxun",
+    "name": "北京鲁迅博物馆",
+    "query": "\"Lu Xun Museum\" Beijing"
+  },
+  {
+    "id": "bj-xubeihong",
+    "query": "\"Xu Beihong Memorial\""
+  },
+  {
+    "id": "bj-guomoruo",
+    "name": "郭沫若纪念馆",
+    "query": "\"Guo Moruo\" Beijing residence"
+  },
+  {
+    "id": "bj-meilanfang",
+    "name": "梅兰芳纪念馆",
+    "query": "\"Mei Lanfang\" Beijing residence"
+  },
+  {
+    "id": "bj-laoshe",
+    "name": "老舍纪念馆",
+    "query": "\"Lao She Memorial\""
+  },
+  {
+    "id": "bj-red-chamber",
+    "name": "北京红楼文化艺术博物馆",
+    "query": "\"Grand View Garden\" Beijing"
+  },
+  {
+    "id": "bj-folk",
+    "name": "北京民俗博物馆",
+    "query": "\"Dongyue Temple\" Beijing"
+  },
+  {
+    "id": "bj-opera",
+    "name": "北京戏曲博物馆",
+    "query": "\"Huguang Guild Hall\" Beijing"
+  },
+  {
+    "id": "bj-gongwang",
+    "name": "恭王府博物馆",
+    "query": "\"Prince Gong Mansion\""
+  },
+  {
+    "id": "bj-guozijian",
+    "name": "孔庙和国子监博物馆",
+    "query": "\"Beijing Guozijian\""
+  },
+  {
+    "id": "bj-guanfu",
+    "query": "\"Guanfu Museum\" Beijing"
+  },
+  {
+    "id": "bj-poly",
+    "name": "保利艺术博物馆",
+    "query": "\"Poly Art Museum\""
+  },
+  {
+    "id": "bj-zitan",
+    "name": "中国紫檀博物馆",
+    "query": "\"China Red Sandalwood Museum\""
+  },
+  {
+    "id": "bj-garden",
+    "name": "中国园林博物馆",
+    "query": "\"Museum of Chinese Gardens\""
+  },
+  {
+    "id": "bj-film",
+    "name": "中国电影博物馆",
+    "query": "\"China National Film Museum\""
+  },
+  {
+    "id": "bj-railway",
+    "name": "中国铁道博物馆东郊展馆",
+    "query": "\"China Railway Museum\" Dongjiao"
+  },
+  {
+    "id": "bj-auto",
+    "name": "北京汽车博物馆",
+    "query": "\"Beijing Auto Museum\""
+  },
+  {
+    "id": "bj-aviation",
+    "name": "中国航空博物馆",
+    "query": "\"Chinese Aviation Museum\""
+  },
+  {
+    "id": "bj-civil-aviation",
+    "name": "民航博物馆",
+    "query": "\"China Civil Aviation Museum\""
+  },
+  {
+    "id": "bj-printing",
+    "name": "中国印刷博物馆",
+    "query": "\"China Printing Museum\""
+  },
+  {
+    "id": "bj-women",
+    "name": "中国妇女儿童博物馆",
+    "query": "\"China National Museum of Women and Children\""
+  },
+  {
+    "id": "bj-overseas",
+    "name": "中国华侨历史博物馆",
+    "query": "\"Overseas Chinese History Museum\""
+  },
+  {
+    "id": "bj-customs",
+    "name": "中国海关博物馆",
+    "query": "\"China Customs Museum\""
+  },
+  {
+    "id": "bj-coins",
+    "name": "中国钱币博物馆",
+    "query": "\"China Numismatic Museum\""
+  },
+  {
+    "id": "bj-ethnic",
+    "name": "民族文化宫博物馆",
+    "query": "\"Cultural Palace of Nationalities\""
+  },
+  {
+    "id": "bj-literature",
+    "name": "中国现代文学馆",
+    "query": "\"National Museum of Modern Chinese Literature\""
+  },
+  {
+    "id": "bj-tsinghua",
+    "name": "清华大学艺术博物馆",
+    "query": "\"Tsinghua University Art Museum\""
+  },
+  {
+    "id": "bj-archaeology",
+    "name": "中国考古博物馆",
+    "query": "\"Chinese Archaeological Museum\""
+  },
+  {
+    "id": "bj-zhoukoudian",
+    "name": "周口店北京人遗址博物馆",
+    "query": "\"Zhoukoudian\" museum"
+  },
+  {
+    "id": "bj-yunju",
+    "name": "北京房山云居寺石经博物馆",
+    "query": "\"Yunju Temple\" museum"
+  },
+  {
+    "id": "bj-dabaotai",
+    "name": "北京大葆台遗址博物馆",
+    "query": "\"Dabaotai\" museum"
+  },
+  {
+    "id": "bj-yongding",
+    "query": "\"Yongding River\" museum"
+  },
+  {
+    "id": "bj-haidian",
+    "name": "海淀区博物馆",
+    "query": "\"Haidian\" museum"
+  }
+]

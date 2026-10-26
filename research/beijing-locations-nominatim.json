@@ -1,0 +1,136 @@
+{
+  "bj-bells": [
+    {
+      "place_id": 221926089,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1303228717,
+      "lat": "39.9680185",
+      "lon": "116.3317352",
+      "category": "landuse",
+      "type": "religious",
+      "place_rank": 24,
+      "importance": 0.08008344167238877,
+      "addresstype": "religious",
+      "name": "大钟寺古钟博物馆",
+      "display_name": "大钟寺古钟博物馆, 中关村街道, 海淀区, 北京市, 中国",
+      "boundingbox": [
+        "39.9671001",
+        "39.9689370",
+        "116.3313158",
+        "116.3321549"
+      ]
+    }
+  ],
+  "bj-red-chamber": [],
+  "bj-zhoukoudian": [
+    {
+      "place_id": 221469863,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1090515798,
+      "lat": "39.6863399",
+      "lon": "115.9309486",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 5.949568932626867e-05,
+      "addresstype": "tourism",
+      "name": "周口店北京人遗址博物馆",
+      "display_name": "周口店北京人遗址博物馆, 京周路, 周口店镇, 房山区, 北京市, 102400, 中国",
+      "boundingbox": [
+        "39.6859041",
+        "39.6867605",
+        "115.9304875",
+        "115.9314420"
+      ]
+    }
+  ],
+  "bj-yongding": [],
+  "bj-haidian": [
+    {
+      "place_id": 219795535,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 963097,
+      "lat": "39.9083591",
+      "lon": "116.3178611",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 0.46345383833304,
+      "addresstype": "tourism",
+      "name": "中国人民革命军事博物馆",
+      "display_name": "中国人民革命军事博物馆, 9, 复兴路, 羊坊店街道, 海淀区, 北京市, 100038, 中国",
+      "boundingbox": [
+        "39.9074431",
+        "39.9090659",
+        "116.3165855",
+        "116.3191348"
+      ]
+    },
+    {
+      "place_id": 221574856,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12438117726,
+      "lat": "39.9061612",
+      "lon": "116.3152771",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3678453393566702,
+      "addresstype": "railway",
+      "name": "军事博物馆",
+      "display_name": "军事博物馆, 羊坊店路, 羊坊店街道, 海淀区, 北京市, 100862, 中国",
+      "boundingbox": [
+        "39.9011612",
+        "39.9111612",
+        "116.3102771",
+        "116.3202771"
+      ]
+    },
+    {
+      "place_id": 220502412,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5430417411,
+      "lat": "39.9061218",
+      "lon": "116.3178241",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.3678453393566702,
+      "addresstype": "railway",
+      "name": "军事博物馆",
+      "display_name": "军事博物馆, 复兴路, 羊坊店街道, 海淀区, 北京市, 100038, 中国",
+      "boundingbox": [
+        "39.9011218",
+        "39.9111218",
+        "116.3128241",
+        "116.3228241"
+      ]
+    },
+    {
+      "place_id": 221569075,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9007682644,
+      "lat": "39.9418409",
+      "lon": "116.3177326",
+      "category": "tourism",
+      "type": "museum",
+      "place_rank": 30,
+      "importance": 0.1507975276546128,
+      "addresstype": "tourism",
+      "name": "国家典籍博物馆",
+      "display_name": "国家典籍博物馆, 33, 中关村南大街, 紫竹院街道, 海淀区, 北京市, 100081, 中国",
+      "boundingbox": [
+        "39.9417909",
+        "39.9418909",
+        "116.3176826",
+        "116.3177826"
+      ]
+    }
+  ]
+}

@@ -8,8 +8,10 @@ expansion=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stri
 credits.update(expansion['images'])
 city_museums=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/city-museums.js')))"],cwd=root,encoding='utf-8'))
 credits.update(city_museums['images'])
-for item in data['museums']+data['crafts']+expansion['museums']+expansion['artifacts']+city_museums['museums']:
- assert item['cover']==item['gallery'][0],item['id']+' cover/gallery mismatch'
+beijing=json.loads(subprocess.check_output(['node','-e',"console.log(JSON.stringify(require('./dist/beijing-museums.js')))"],cwd=root,encoding='utf-8'))
+credits.update(beijing['images'])
+for item in data['museums']+data['crafts']+expansion['museums']+expansion['artifacts']+city_museums['museums']+beijing['museums']:
+ assert item['cover']==(item['gallery'][0] if item['gallery'] else None),item['id']+' cover/gallery mismatch'
  for key in item['gallery']:
   credit=credits[key];assert credit['license'] and credit['source'] and credit['author']
   with Image.open(root/'dist'/credit['src']) as im:im.verify()

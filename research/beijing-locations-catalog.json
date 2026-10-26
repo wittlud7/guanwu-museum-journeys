@@ -1,0 +1,190 @@
+[
+  {
+    "id": "bj-capital",
+    "name": "首都博物馆"
+  },
+  {
+    "id": "bj-grand-canal",
+    "name": "北京大运河博物馆"
+  },
+  {
+    "id": "bj-art",
+    "name": "中国美术馆"
+  },
+  {
+    "id": "bj-geology",
+    "name": "中国地质博物馆"
+  },
+  {
+    "id": "bj-agriculture",
+    "name": "中国农业博物馆"
+  },
+  {
+    "id": "bj-paleozoo",
+    "name": "中国古动物馆"
+  },
+  {
+    "id": "bj-science",
+    "name": "中国科学技术馆"
+  },
+  {
+    "id": "bj-military",
+    "name": "中国人民革命军事博物馆"
+  },
+  {
+    "id": "bj-planetarium",
+    "name": "北京天文馆"
+  },
+  {
+    "id": "bj-nature",
+    "name": "国家自然博物馆"
+  },
+  {
+    "id": "bj-bells",
+    "name": "大钟寺古钟博物馆"
+  },
+  {
+    "id": "bj-wanshou",
+    "name": "北京艺术博物馆"
+  },
+  {
+    "id": "bj-architecture",
+    "name": "北京古代建筑博物馆"
+  },
+  {
+    "id": "bj-stone",
+    "name": "北京石刻艺术博物馆"
+  },
+  {
+    "id": "bj-luxun",
+    "name": "北京鲁迅博物馆"
+  },
+  {
+    "id": "bj-xubeihong",
+    "name": "徐悲鸿纪念馆"
+  },
+  {
+    "id": "bj-guomoruo",
+    "name": "郭沫若纪念馆"
+  },
+  {
+    "id": "bj-meilanfang",
+    "name": "梅兰芳纪念馆"
+  },
+  {
+    "id": "bj-laoshe",
+    "name": "老舍纪念馆"
+  },
+  {
+    "id": "bj-red-chamber",
+    "name": "北京红楼文化艺术博物馆"
+  },
+  {
+    "id": "bj-folk",
+    "name": "北京民俗博物馆"
+  },
+  {
+    "id": "bj-opera",
+    "name": "北京戏曲博物馆"
+  },
+  {
+    "id": "bj-gongwang",
+    "name": "恭王府博物馆"
+  },
+  {
+    "id": "bj-guozijian",
+    "name": "孔庙和国子监博物馆"
+  },
+  {
+    "id": "bj-guanfu",
+    "name": "观复博物馆"
+  },
+  {
+    "id": "bj-poly",
+    "name": "保利艺术博物馆"
+  },
+  {
+    "id": "bj-zitan",
+    "name": "中国紫檀博物馆"
+  },
+  {
+    "id": "bj-garden",
+    "name": "中国园林博物馆"
+  },
+  {
+    "id": "bj-film",
+    "name": "中国电影博物馆"
+  },
+  {
+    "id": "bj-railway",
+    "name": "中国铁道博物馆东郊展馆"
+  },
+  {
+    "id": "bj-auto",
+    "name": "北京汽车博物馆"
+  },
+  {
+    "id": "bj-beihang",
+    "name": "北京航空航天博物馆"
+  },
+  {
+    "id": "bj-civil-aviation",
+    "name": "民航博物馆"
+  },
+  {
+    "id": "bj-printing",
+    "name": "中国印刷博物馆"
+  },
+  {
+    "id": "bj-women",
+    "name": "中国妇女儿童博物馆"
+  },
+  {
+    "id": "bj-overseas",
+    "name": "中国华侨历史博物馆"
+  },
+  {
+    "id": "bj-customs",
+    "name": "中国海关博物馆"
+  },
+  {
+    "id": "bj-coins",
+    "name": "中国钱币博物馆"
+  },
+  {
+    "id": "bj-ethnic",
+    "name": "民族文化宫博物馆"
+  },
+  {
+    "id": "bj-literature",
+    "name": "中国现代文学馆"
+  },
+  {
+    "id": "bj-tsinghua",
+    "name": "清华大学艺术博物馆"
+  },
+  {
+    "id": "bj-archaeology",
+    "name": "中国考古博物馆"
+  },
+  {
+    "id": "bj-zhoukoudian",
+    "name": "周口店北京人遗址博物馆"
+  },
+  {
+    "id": "bj-yunju",
+    "name": "北京房山云居寺石经博物馆"
+  },
+  {
+    "id": "bj-dabaotai",
+    "name": "北京大葆台遗址博物馆"
+  },
+  {
+    "id": "bj-yongding",
+    "name": "永定河文化博物馆"
+  },
+  {
+    "id": "bj-haidian",
+    "name": "海淀区博物馆"
+  }
+]

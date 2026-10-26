@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2660276 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="9988511735" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6860125" lon="115.9306205"/>
+ <node id="9988511736" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6859041" lon="115.9309628"/>
+ <node id="9988511737" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6859508" lon="115.9311877"/>
+ <node id="9988511738" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6859673" lon="115.9312934"/>
+ <node id="9988511739" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6861374" lon="115.9314420"/>
+ <node id="9988511740" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6862368" lon="115.9313070"/>
+ <node id="9988511741" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6863572" lon="115.9312758"/>
+ <node id="9988511742" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6864986" lon="115.9313814"/>
+ <node id="9988511743" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6865619" lon="115.9314029"/>
+ <node id="9988511744" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6867440" lon="115.9314127"/>
+ <node id="9988511745" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6867605" lon="115.9311780"/>
+ <node id="9988511746" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6867109" lon="115.9309706"/>
+ <node id="9988511747" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6865513" lon="115.9307887"/>
+ <node id="9988511748" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6863225" lon="115.9306029"/>
+ <node id="9988511749" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6862172" lon="115.9304875"/>
+ <node id="9988511750" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222" lat="39.6860727" lon="115.9304973"/>
+ <way id="1090515798" visible="true" version="1" changeset="125571129" timestamp="2022-08-30T13:45:49Z" user="hikerake" uid="16028222">
+  <nd ref="9988511735"/>
+  <nd ref="9988511736"/>
+  <nd ref="9988511737"/>
+  <nd ref="9988511738"/>
+  <nd ref="9988511739"/>
+  <nd ref="9988511740"/>
+  <nd ref="9988511741"/>
+  <nd ref="9988511742"/>
+  <nd ref="9988511743"/>
+  <nd ref="9988511744"/>
+  <nd ref="9988511745"/>
+  <nd ref="9988511746"/>
+  <nd ref="9988511747"/>
+  <nd ref="9988511748"/>
+  <nd ref="9988511749"/>
+  <nd ref="9988511750"/>
+  <nd ref="9988511735"/>
+  <tag k="building" v="yes"/>
+  <tag k="museum" v="history"/>
+  <tag k="name" v="周口店北京人遗址博物馆"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+</osm>

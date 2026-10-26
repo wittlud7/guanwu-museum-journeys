@@ -6,6 +6,7 @@ const data={
   "museums": [
     {
       "id": "palace",
+      "district": "东城区",
       "city": "北京",
       "roman": "BEIJING",
       "name": "故宫博物院",
@@ -90,6 +91,7 @@ const data={
     },
     {
       "id": "national-china",
+      "district": "东城区",
       "city": "北京",
       "roman": "BEIJING",
       "name": "中国国家博物馆",

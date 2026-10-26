@@ -1,0 +1,6774 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "coord"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109434044"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.579462 40.024537)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Song Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15310035"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.52816 40.00594)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "观复博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42309961"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.49609 39.98413)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "M Woods Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259001"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.497 39.9853)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aura Gallery"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7812188"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.467673 39.899999)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "今日美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873736"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39124 40.00238)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国工艺美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852272"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40697 39.94398)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大都美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30946532"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.404039 39.922075)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "嘉德艺术中心"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1189666"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.336 39.905)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "首都博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056441"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.315207 39.910211)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华世纪坛"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945748"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.27296 39.90921)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京时代美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118490497"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2311594 39.9541933)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Inside-Out Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117437112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.312788 39.911314)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宋庆龄儿童科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3431658"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45224 39.77605)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京南海子麋鹿苑"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651841"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.305922 39.995528)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大学赛克勒考古与艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16699149"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42502 39.909465)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国邮政邮票博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15907893"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.431969438 39.94492778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京自来水博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2047427"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39083333 39.91555556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074318"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.395 39.903611111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国国家博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.464613 39.941472)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45861111 39.94)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165193"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3832 39.933212)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "郭沫若故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109434044"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.579462 40.024537)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Song Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15310035"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.52816 40.00594)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "观复博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42309961"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.49609 39.98413)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "M Woods Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259001"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.497 39.9853)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aura Gallery"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7812188"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.467673 39.899999)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "今日美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873736"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39124 40.00238)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国工艺美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852272"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40697 39.94398)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大都美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30946532"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.404039 39.922075)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "嘉德艺术中心"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1189666"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.336 39.905)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "首都博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056441"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.315207 39.910211)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华世纪坛"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945748"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.27296 39.90921)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京时代美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118490497"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2311594 39.9541933)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Inside-Out Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117437112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.312788 39.911314)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宋庆龄儿童科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3431658"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45224 39.77605)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京南海子麋鹿苑"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651841"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.305922 39.995528)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大学赛克勒考古与艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16699149"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42502 39.909465)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国邮政邮票博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15907893"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.431969438 39.94492778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京自来水博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2047427"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39083333 39.91555556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074318"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.395 39.903611111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国国家博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.464613 39.941472)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45861111 39.94)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165193"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3832 39.933212)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "郭沫若故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109434044"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.579462 40.024537)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Song Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15310035"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.52816 40.00594)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "观复博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42309961"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.49609 39.98413)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "M Woods Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259001"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.497 39.9853)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aura Gallery"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7812188"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.467673 39.899999)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "今日美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873736"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39124 40.00238)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国工艺美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852272"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40697 39.94398)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大都美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30946532"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.404039 39.922075)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "嘉德艺术中心"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1189666"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.336 39.905)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "首都博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056441"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.315207 39.910211)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华世纪坛"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945748"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.27296 39.90921)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京时代美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118490497"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2311594 39.9541933)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Inside-Out Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117437112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.312788 39.911314)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宋庆龄儿童科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3431658"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45224 39.77605)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京南海子麋鹿苑"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651841"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.305922 39.995528)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大学赛克勒考古与艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16699149"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42502 39.909465)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国邮政邮票博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15907893"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.431969438 39.94492778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京自来水博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2047427"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39083333 39.91555556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074318"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.395 39.903611111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国国家博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.464613 39.941472)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45861111 39.94)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165193"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3832 39.933212)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "郭沫若故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109434044"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.579462 40.024537)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Song Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15310035"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.52816 40.00594)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "观复博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42309961"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.49609 39.98413)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "M Woods Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259001"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.497 39.9853)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aura Gallery"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7812188"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.467673 39.899999)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "今日美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873736"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39124 40.00238)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国工艺美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852272"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40697 39.94398)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大都美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30946532"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.404039 39.922075)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "嘉德艺术中心"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1189666"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.336 39.905)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "首都博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056441"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.315207 39.910211)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华世纪坛"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945748"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.27296 39.90921)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京时代美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118490497"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2311594 39.9541933)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Inside-Out Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117437112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.312788 39.911314)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宋庆龄儿童科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3431658"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45224 39.77605)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京南海子麋鹿苑"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651841"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.305922 39.995528)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大学赛克勒考古与艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16699149"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42502 39.909465)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国邮政邮票博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15907893"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.431969438 39.94492778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京自来水博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2047427"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39083333 39.91555556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074318"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.395 39.903611111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国国家博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.464613 39.941472)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45861111 39.94)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165193"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3832 39.933212)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "郭沫若故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109434044"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.579462 40.024537)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Song Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15310035"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.52816 40.00594)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "观复博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42309961"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.49609 39.98413)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "M Woods Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259001"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.497 39.9853)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aura Gallery"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7812188"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.467673 39.899999)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "今日美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873736"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39124 40.00238)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国工艺美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852272"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40697 39.94398)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大都美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30946532"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.404039 39.922075)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "嘉德艺术中心"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1189666"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.336 39.905)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "首都博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056441"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.315207 39.910211)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华世纪坛"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945748"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.27296 39.90921)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京时代美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118490497"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2311594 39.9541933)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Inside-Out Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117437112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.312788 39.911314)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宋庆龄儿童科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3431658"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45224 39.77605)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京南海子麋鹿苑"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651841"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.305922 39.995528)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大学赛克勒考古与艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16699149"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42502 39.909465)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国邮政邮票博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15907893"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.431969438 39.94492778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京自来水博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2047427"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39083333 39.91555556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074318"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.395 39.903611111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国国家博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.464613 39.941472)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45861111 39.94)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165193"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3832 39.933212)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "郭沫若故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872856"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2273006 39.847612)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争雕塑园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846583"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39365 39.88165)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国家自然博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28413664"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.66555556 39.93583333)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民兵武器装备陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789184"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31772222 39.90766944)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民革命军事博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q822338"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.20305556 39.98388889)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "团城演武厅"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q700376"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.219896229 39.850815109)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872452"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4087 39.799)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9384146"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.325 39.7419)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国印刷博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28412420"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.335609 39.999822)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学黄如论艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131279094"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.401083 39.905114)"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q131279094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872856"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2273006 39.847612)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争雕塑园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846583"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39365 39.88165)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国家自然博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28413664"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.66555556 39.93583333)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民兵武器装备陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789184"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31772222 39.90766944)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民革命军事博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q822338"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.20305556 39.98388889)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "团城演武厅"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q700376"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.219896229 39.850815109)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872452"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4087 39.799)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9384146"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.325 39.7419)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国印刷博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28412420"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.335609 39.999822)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学黄如论艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131279094"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.401083 39.905114)"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q131279094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872856"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2273006 39.847612)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争雕塑园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846583"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39365 39.88165)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国家自然博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28413664"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.66555556 39.93583333)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民兵武器装备陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789184"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31772222 39.90766944)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民革命军事博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q822338"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.20305556 39.98388889)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "团城演武厅"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q700376"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.219896229 39.850815109)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872452"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4087 39.799)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9384146"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.325 39.7419)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国印刷博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28412420"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.335609 39.999822)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学黄如论艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131279094"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.401083 39.905114)"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q131279094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872856"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2273006 39.847612)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争雕塑园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846583"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39365 39.88165)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国家自然博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28413664"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.66555556 39.93583333)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民兵武器装备陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789184"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31772222 39.90766944)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民革命军事博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q822338"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.20305556 39.98388889)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "团城演武厅"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q700376"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.219896229 39.850815109)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872452"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4087 39.799)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9384146"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.325 39.7419)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国印刷博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28412420"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.335609 39.999822)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学黄如论艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131279094"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.401083 39.905114)"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q131279094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872856"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2273006 39.847612)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争雕塑园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846583"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39365 39.88165)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国家自然博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28413664"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.66555556 39.93583333)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民兵武器装备陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789184"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31772222 39.90766944)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民革命军事博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q822338"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.20305556 39.98388889)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "团城演武厅"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q700376"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.219896229 39.850815109)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872452"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4087 39.799)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9384146"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.325 39.7419)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国印刷博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28412420"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.335609 39.999822)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学黄如论艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131279094"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.401083 39.905114)"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q131279094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697123"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.391968 39.895876)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京杜莎夫人蜡像馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099678"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.363694444 39.951566666)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影资料馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099799"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.514930555 39.9951)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418442"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2648 39.9443)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京御仙都皇家菜博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873151"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4 39.98111111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国体育博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q585544"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36527778 39.92194444)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国地质博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1504916"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.327846 39.936193)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学院古脊椎动物与古人类研究所"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697123"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.391968 39.895876)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京杜莎夫人蜡像馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099678"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.363694444 39.951566666)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影资料馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099799"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.514930555 39.9951)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418442"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2648 39.9443)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京御仙都皇家菜博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873151"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4 39.98111111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国体育博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q585544"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36527778 39.92194444)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国地质博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1504916"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.327846 39.936193)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学院古脊椎动物与古人类研究所"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697123"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.391968 39.895876)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京杜莎夫人蜡像馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099678"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.363694444 39.951566666)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影资料馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099799"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.514930555 39.9951)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418442"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2648 39.9443)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京御仙都皇家菜博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873151"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4 39.98111111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国体育博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q585544"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36527778 39.92194444)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国地质博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1504916"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.327846 39.936193)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学院古脊椎动物与古人类研究所"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697123"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.391968 39.895876)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京杜莎夫人蜡像馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099678"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.363694444 39.951566666)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影资料馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099799"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.514930555 39.9951)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418442"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2648 39.9443)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京御仙都皇家菜博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873151"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4 39.98111111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国体育博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q585544"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36527778 39.92194444)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国地质博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1504916"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.327846 39.936193)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学院古脊椎动物与古人类研究所"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697123"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.391968 39.895876)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京杜莎夫人蜡像馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099678"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.363694444 39.951566666)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影资料馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099799"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.514930555 39.9951)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418442"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2648 39.9443)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京御仙都皇家菜博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873151"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4 39.98111111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国体育博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q585544"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36527778 39.92194444)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国地质博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1504916"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.327846 39.936193)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学院古脊椎动物与古人类研究所"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15912181"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.398644 39.900611)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京警察博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074280"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.5103 39.9963)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆东郊展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11123621"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39414 39.89841)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆正阳门展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15912181"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.398644 39.900611)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京警察博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074280"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.5103 39.9963)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆东郊展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11123621"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39414 39.89841)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆正阳门展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109434044"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.579462 40.024537)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Song Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15310035"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.52816 40.00594)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "观复博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42309961"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.49609 39.98413)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "M Woods Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259001"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.497 39.9853)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aura Gallery"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7812188"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.467673 39.899999)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "今日美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873736"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39124 40.00238)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国工艺美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852272"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40697 39.94398)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大都美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30946532"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.404039 39.922075)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "嘉德艺术中心"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1189666"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.336 39.905)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "首都博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056441"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.315207 39.910211)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华世纪坛"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30945748"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.27296 39.90921)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京时代美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118490497"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2311594 39.9541933)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Inside-Out Art Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117437112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.312788 39.911314)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宋庆龄儿童科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3431658"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45224 39.77605)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京南海子麋鹿苑"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875112"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.465065 39.984369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651841"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.305922 39.995528)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大学赛克勒考古与艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16699149"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42502 39.909465)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国邮政邮票博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15907893"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.431969438 39.94492778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京自来水博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233705"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40275 39.92382)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2047427"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39083333 39.91555556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074318"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.395 39.903611111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国国家博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.464613 39.941472)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074285"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.45861111 39.94)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165193"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3832 39.933212)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "郭沫若故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15912181"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.398644 39.900611)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京警察博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074280"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.5103 39.9963)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆东郊展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11123621"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39414 39.89841)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆正阳门展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15912181"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.398644 39.900611)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京警察博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074280"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.5103 39.9963)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆东郊展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11123621"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39414 39.89841)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆正阳门展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15912181"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.398644 39.900611)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京警察博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074280"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.5103 39.9963)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆东郊展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11123621"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39414 39.89841)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆正阳门展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872856"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2273006 39.847612)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争雕塑园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846583"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39365 39.88165)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国家自然博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39244 40.005)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386315 39.96856)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28413664"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.66555556 39.93583333)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民兵武器装备陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789184"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31772222 39.90766944)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民革命军事博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q822338"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.20305556 39.98388889)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "团城演武厅"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q700376"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.219896229 39.850815109)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民抗日战争纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872452"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4087 39.799)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9384146"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.325 39.7419)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国印刷博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28412420"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.335609 39.999822)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学黄如论艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131279094"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.401083 39.905114)"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q131279094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55697123"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.391968 39.895876)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京杜莎夫人蜡像馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099678"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.363694444 39.951566666)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影资料馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099799"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.514930555 39.9951)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国电影博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418442"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.2648 39.9443)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京御仙都皇家菜博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418440"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31212 39.9477)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873151"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4 39.98111111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国体育博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q585544"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36527778 39.92194444)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国地质博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1504916"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.327846 39.936193)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学院古脊椎动物与古人类研究所"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15925208"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.206199 39.830771)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "长辛店二七纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19841770"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(115.986291 39.627198)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "贾公祠"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15927057"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(115.89974976 40.51460648)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "山戎文化陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776446"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36361111 40.1825)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15912181"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.398644 39.900611)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京警察博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074280"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.5103 39.9963)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆东郊展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11123621"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39414 39.89841)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国铁道博物馆正阳门展馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19851728"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.00362 40.3567)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国长城博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16928955"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.00679016 40.35815811)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "詹天佑纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15928303"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.864039 40.232531)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京焦庄户地道战遗址纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136116252"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.9 40.463888888)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国航空工业历史博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65171962"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.53225 40.01677)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民航博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651550"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.5482 39.99746)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "何扬·吴茜现代绘画馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15942415"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.71915 39.96013)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大戚收音机电影机博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133155377"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.665555555 39.935833333)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Militia Weaponry and Equipment Exhibition Hall"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105718642"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.7108 39.8795)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京大运河博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15933481"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.6673629 39.9077673)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "通州博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852643"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.21973 40.09678)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院北院区"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15941384"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.12452 40.16184)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军坦克博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15916280"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.826434 40.565606)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "白乙化烈士纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10952574"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.835477 40.377381)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "密云博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15913107"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(117.157541 40.247089)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "鱼子山抗日战争纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074271"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.199829 40.005578)"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q1074271"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q605463"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.488 39.9891)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "UCCA尤伦斯当代艺术中心"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852139"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.46519 39.95939)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "和苑博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126373489"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.520312 39.908812)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国紫檀博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16928721"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.6302088 40.3169509)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "怀柔博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15928838"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.67236 40.2982)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京老爷车博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11070647"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.371478 39.944929)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "徐悲鸿纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15924082"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4751714 39.9357877)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京金台艺术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165212"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.373177777 39.934169444)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京梅兰芳故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19851959"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4419 39.93936)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京奥加美术馆酒店"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107292018"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39284 40.00244)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国共产党历史展览馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15954855"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.25536346 40.22106934)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京市昌平区博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35136521"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.280562 39.998662)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "德和园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10926010"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.375 40.00111111)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国家动物博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873736"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39124 40.00238)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国工艺美术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18669398"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.441543 39.91709)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "马骏烈士墓"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873917"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42378 39.98291)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国现代文学馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099673"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39027778 39.98388889)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华民族园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4502140"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4023 39.9938)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "炎黄艺术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q950677"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.408193 39.987925)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西藏文化博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24131484"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.384083 39.888833)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Beijing Opera Museum"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18234308"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.390755 39.894285)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "护国观音寺"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15929487"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.374291 39.889672)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "京报馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10902453"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.379397 39.890031)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京通信电信博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10902206"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.376659 39.89236)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京安徽会馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19851717"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.426505 39.905687)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国海关博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17010215"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42914 39.90014)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京明城墙遗址公园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16928719"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40441 39.91234)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "张秉贵纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15921471"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40582 39.90948)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "工美大厦"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15909717"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.412611 39.908929)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "王府井古人类文化遗址博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4306266"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.41729 39.90909)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国妇女儿童博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418208"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.418885 39.941542)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国华侨历史博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28417597"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40762 39.94522)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "孔庙和国子监博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651572"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.429438 39.9332369)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "保利艺术博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15909476"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.41 39.94425)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京松堂斋民间雕刻博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15907893"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.431969438 39.94492778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京自来水博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10926235"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.419967 39.945748)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国际友谊博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000780"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.42222222 39.93833333)"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chinese Museum of Medical History"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16929051"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.403653 39.934452)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "顺天府学"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15933292"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3945362 39.9423908)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "安定门京城老物件陈列室"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11180272"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.401654 39.935651)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "齐白石旧居纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11133073"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3740921 39.94800568)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "汇通祠"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11079676"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.403991666 39.934302777)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "文天祥祠"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11066499"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.38954163 39.93933868)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "张伯驹潘素故居纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10902406"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3983611 39.93722222)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京茅盾故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q341718"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.386227868 39.876847036)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "先农坛"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15938407"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.435979 39.875511)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京教学植物园"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15930746"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4378 39.897923)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "睦明唐古瓷标本博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10887268"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.419158 39.925143)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "侯宝林故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28411331"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.40099 39.90133)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国法院博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10949821"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.396858 39.921127)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宣仁庙"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10902402"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3445 39.98082)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19852087"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.416145 39.916691)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "史家胡同博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15910798"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.418505 39.914261)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "蔡元培旧居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10902396"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.408362 39.918643)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京老舍故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56272905"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39918 39.90745)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京皇城艺术馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7124400"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.36686563 39.92111385)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "万松老人塔"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2047427"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39083333 39.91555556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫博物院"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80290"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.390833333 39.915833333)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "故宫"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10874154"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.38875 39.90075)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国钱币博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1126265"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.39503 39.898416)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京市规划展览馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15916904"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.43173 39.8936)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "袁崇焕纪念馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10902252"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.31236111 39.97527778)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京市海淀区博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873856"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3092147 39.9736718)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民族博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11095756"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.310441 39.945125)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "李四光纪念馆 (北京)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q846592"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.32777778 39.93625)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国古动物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418397"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.35204 39.88886)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京空竹博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15931190"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.3618611 39.92655556)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "程砚秋故居"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4881160"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.35234 39.92445)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京鲁迅博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4165228"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.364267 39.914496)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "齐白石故居 (北京)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28418395"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.34594 39.86951)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国消防博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651994"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.357276 39.873402)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "古陶文明博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872452"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.4087 39.799)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华航天博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15918892"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.158298 39.934779)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "田义墓"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10874045"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.162103 39.9374983)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国第四纪冰川遗迹陈列馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19853941"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.0968215 39.9432891)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "门头沟区博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18651344"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.1764225 39.879603)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国园林博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1538571"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.22 39.85)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宛平城"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16928682"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.29617 39.82752)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京汽车博物馆"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10937871"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.291 39.805)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大葆台汉墓"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15925720"
+        },
+        "coord": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(116.195623 39.826689)"
+        },
+        "itemLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "长辛店留法勤工俭学旧址"
+        }
+      }
+    ]
+  }
+}

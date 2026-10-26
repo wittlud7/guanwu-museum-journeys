@@ -1,0 +1,12 @@
+[
+ {"id":"bj-grand-canal","name":"北京大运河博物馆","query":"\"北京大运河博物馆\""},
+ {"id":"bj-guanfu","name":"观复博物馆","query":"\"Guanfu\" museum Beijing"},
+ {"id":"bj-civil-aviation","name":"民航博物馆","query":"\"民航博物馆\""},
+ {"id":"bj-dabaotai","name":"北京大葆台遗址博物馆","query":"\"Dabaotai\""},
+ {"id":"bj-yongding","name":"永定河文化博物馆","query":"\"永定河文化博物馆\""},
+ {"id":"bj-yunju","name":"北京房山云居寺石经博物馆","query":"\"Yunju Temple\""},
+ {"id":"bj-xubeihong","name":"徐悲鸿纪念馆","query":"\"徐悲鸿纪念馆\""},
+ {"id":"bj-red-chamber","name":"北京红楼文化艺术博物馆","query":"\"Beijing\" \"Daguanyuan\""},
+ {"id":"bj-zhoukoudian","name":"周口店北京人遗址博物馆","query":"\"Zhoukoudian\" \"new museum\""},
+ {"id":"bj-military","name":"中国人民革命军事博物馆","query":"\"Military Museum of the Chinese People's Revolution\" building"}
+]

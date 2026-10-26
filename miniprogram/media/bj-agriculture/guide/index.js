@@ -1,0 +1,1 @@
+Page(require('../../../shared/guide-page.js')('bj-agriculture'));

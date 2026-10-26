@@ -1,0 +1,607 @@
+[
+  {
+    "id": "bj-capital",
+    "name": "首都博物馆",
+    "address": "北京市西城区复兴门外大街16号",
+    "coordinate": {
+      "lat": 39.905,
+      "lng": 116.336
+    },
+    "source": "https://www.wikidata.org/wiki/Q1189666",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-grand-canal",
+    "name": "北京大运河博物馆（首都博物馆东馆）",
+    "address": "北京市通州区绿心路1号院5号楼",
+    "coordinate": {
+      "lat": 39.8795,
+      "lng": 116.7108
+    },
+    "source": "https://www.wikidata.org/wiki/Q105718642",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-art",
+    "name": "中国美术馆",
+    "address": "北京市东城区五四大街1号",
+    "coordinate": {
+      "lat": 39.92382,
+      "lng": 116.40275
+    },
+    "source": "https://www.wikidata.org/wiki/Q233705",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-geology",
+    "name": "中国地质博物馆",
+    "address": "北京市西城区西四羊肉胡同15号",
+    "coordinate": {
+      "lat": 39.92194444,
+      "lng": 116.36527778
+    },
+    "source": "https://www.wikidata.org/wiki/Q585544",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-agriculture",
+    "name": "中国农业博物馆",
+    "address": "北京市朝阳区东三环北路16号",
+    "coordinate": {
+      "lat": 39.9391895,
+      "lng": 116.4589809
+    },
+    "source": "https://www.openstreetmap.org/way/129187924",
+    "result": "same museum/campus reference; not entrance",
+    "note": "以农展馆同址园区OSM替代冲突Wikidata点。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-paleozoo",
+    "name": "中国古动物馆",
+    "address": "北京市西城区西直门外大街142号",
+    "coordinate": {
+      "lat": 39.93625,
+      "lng": 116.32777778
+    },
+    "source": "https://www.wikidata.org/wiki/Q846592",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-science",
+    "name": "中国科学技术馆",
+    "address": "北京市朝阳区北辰东路5号",
+    "coordinate": {
+      "lat": 40.005,
+      "lng": 116.39244
+    },
+    "source": "https://www.wikidata.org/wiki/Q1074292",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-military",
+    "name": "中国人民革命军事博物馆",
+    "address": "北京市海淀区复兴路9号",
+    "coordinate": {
+      "lat": 39.90766944,
+      "lng": 116.31772222
+    },
+    "source": "https://www.wikidata.org/wiki/Q1789184",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-planetarium",
+    "name": "北京天文馆",
+    "address": "北京市西城区西直门外大街138号",
+    "coordinate": {
+      "lat": 39.9362,
+      "lng": 116.3304
+    },
+    "source": "https://www.wikidata.org/wiki/Q4348118",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-nature",
+    "name": "国家自然博物馆",
+    "address": "北京市东城区天桥南大街126号",
+    "coordinate": {
+      "lat": 39.88165,
+      "lng": 116.39365
+    },
+    "source": "https://www.wikidata.org/wiki/Q846583",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-bells",
+    "name": "大钟寺古钟博物馆",
+    "address": "北京市海淀区北三环西路甲31号",
+    "coordinate": {
+      "lat": 39.9680185,
+      "lng": 116.3317352
+    },
+    "source": "https://www.openstreetmap.org/way/1303228717",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-wanshou",
+    "name": "万寿寺博物馆（原北京艺术博物馆）",
+    "address": "北京市海淀区西三环北路万寿寺内",
+    "coordinate": {
+      "lat": 39.945282,
+      "lng": 116.305226
+    },
+    "source": "https://www.wikidata.org/wiki/Q2063448",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-architecture",
+    "name": "北京古代建筑博物馆",
+    "address": "北京市西城区东经路21号先农坛内",
+    "coordinate": {
+      "lat": 39.87684703676186,
+      "lng": 116.38622786863257
+    },
+    "source": "https://www.wikidata.org/wiki/Q341718",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-stone",
+    "name": "北京石刻艺术博物馆",
+    "address": "北京市海淀区五塔寺村24号",
+    "coordinate": {
+      "lat": 39.944166666667,
+      "lng": 116.32416666667
+    },
+    "source": "https://www.wikidata.org/wiki/Q1208573",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-luxun",
+    "name": "北京鲁迅博物馆",
+    "address": "北京市西城区阜成门内大街宫门口二条19号",
+    "coordinate": {
+      "lat": 39.92445,
+      "lng": 116.35234
+    },
+    "source": "https://www.wikidata.org/wiki/Q4881160",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-xubeihong",
+    "name": "徐悲鸿纪念馆",
+    "address": "北京市西城区新街口北大街53号",
+    "coordinate": {
+      "lat": 39.944929,
+      "lng": 116.371478
+    },
+    "source": "https://www.wikidata.org/wiki/Q11070647",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-guomoruo",
+    "name": "郭沫若纪念馆",
+    "address": "北京市西城区前海西街18号",
+    "coordinate": {
+      "lat": 39.933212,
+      "lng": 116.3832
+    },
+    "source": "https://www.wikidata.org/wiki/Q4165193",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-meilanfang",
+    "name": "梅兰芳纪念馆",
+    "address": "北京市西城区护国寺街9号",
+    "coordinate": {
+      "lat": 39.93416944444444,
+      "lng": 116.37317777777778
+    },
+    "source": "https://www.wikidata.org/wiki/Q4165212",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-laoshe",
+    "name": "老舍纪念馆",
+    "address": "北京市东城区灯市口西街丰富胡同19号",
+    "coordinate": {
+      "lat": 39.918643,
+      "lng": 116.408362
+    },
+    "source": "https://www.wikidata.org/wiki/Q10902396",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-red-chamber",
+    "name": "北京红楼文化艺术博物馆",
+    "address": "北京市西城区南菜园街12号大观园内",
+    "coordinate": {
+      "lat": 39.8703006,
+      "lng": 116.3500796
+    },
+    "source": "https://www.openstreetmap.org/way/24825443",
+    "result": "same museum/campus reference; not entrance",
+    "note": "对应馆所在大观园园区，非单独展厅。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-folk",
+    "name": "北京民俗博物馆",
+    "address": "北京市朝阳区朝阳门外大街141号东岳庙内",
+    "coordinate": {
+      "lat": 39.923611111111,
+      "lng": 116.43777777778
+    },
+    "source": "https://www.wikidata.org/wiki/Q814721",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-opera",
+    "name": "北京戏曲博物馆",
+    "address": "北京市西城区虎坊路3号湖广会馆内",
+    "coordinate": {
+      "lat": 39.888833,
+      "lng": 116.384083
+    },
+    "source": "https://www.wikidata.org/wiki/Q24131484",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-gongwang",
+    "name": "恭王府博物馆",
+    "address": "北京市西城区前海西街17号、柳荫街甲14号恭王府",
+    "coordinate": {
+      "lat": 39.936636,
+      "lng": 116.379862
+    },
+    "source": "https://www.wikidata.org/wiki/Q2666344",
+    "result": "same museum/campus reference; not entrance",
+    "note": "同一恭王府馆区；前海西街馆址与柳荫街入口可并列，参考点不是入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-guozijian",
+    "name": "孔庙和国子监博物馆",
+    "address": "北京市东城区国子监街13号、15号",
+    "coordinate": {
+      "lat": 39.94522,
+      "lng": 116.40762
+    },
+    "source": "https://www.wikidata.org/wiki/Q28417597",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-guanfu",
+    "name": "观复博物馆",
+    "address": "北京市朝阳区金盏乡张万坟金南路18号",
+    "coordinate": {
+      "lat": 40.00594,
+      "lng": 116.52816
+    },
+    "source": "https://www.wikidata.org/wiki/Q15310035",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-poly",
+    "name": "保利艺术博物馆",
+    "address": "北京市东城区朝阳门北大街1号新保利大厦云楼9层",
+    "coordinate": {
+      "lat": 39.9332369,
+      "lng": 116.429438
+    },
+    "source": "https://www.wikidata.org/wiki/Q18651572",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-zitan",
+    "name": "中国紫檀博物馆",
+    "address": "北京市朝阳区兴隆西街9号",
+    "coordinate": {
+      "lat": 39.908812,
+      "lng": 116.520312
+    },
+    "source": "https://www.wikidata.org/wiki/Q126373489",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-garden",
+    "name": "中国园林博物馆",
+    "address": "北京市丰台区射击场路15号",
+    "coordinate": {
+      "lat": 39.879603,
+      "lng": 116.1764225
+    },
+    "source": "https://www.wikidata.org/wiki/Q18651344",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-film",
+    "name": "中国电影博物馆",
+    "address": "北京市朝阳区南影路9号",
+    "coordinate": {
+      "lat": 39.9951,
+      "lng": 116.51493055555555
+    },
+    "source": "https://www.wikidata.org/wiki/Q5099799",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-railway",
+    "name": "中国铁道博物馆（东郊展馆）",
+    "address": "北京市朝阳区酒仙桥北路1号院北侧",
+    "coordinate": {
+      "lat": 39.9963,
+      "lng": 116.5103
+    },
+    "source": "https://www.wikidata.org/wiki/Q1074280",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-auto",
+    "name": "北京汽车博物馆",
+    "address": "北京市丰台区南四环西路126号",
+    "coordinate": {
+      "lat": 39.82752,
+      "lng": 116.29617
+    },
+    "source": "https://www.wikidata.org/wiki/Q16928682",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-beihang",
+    "name": "北京航空航天博物馆",
+    "address": "北京市海淀区学院路37号北京航空航天大学学院路校区内",
+    "coordinate": {
+      "lat": 39.98082,
+      "lng": 116.3445
+    },
+    "source": "https://www.wikidata.org/wiki/Q10902402",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-civil-aviation",
+    "name": "民航博物馆",
+    "address": "北京市朝阳区首都机场辅路民航200号地区",
+    "coordinate": {
+      "lat": 40.01677,
+      "lng": 116.53225
+    },
+    "source": "https://www.wikidata.org/wiki/Q65171962",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-printing",
+    "name": "中国印刷博物馆",
+    "address": "北京市大兴区兴华大街二段1号",
+    "coordinate": {
+      "lat": 39.7419,
+      "lng": 116.325
+    },
+    "source": "https://www.wikidata.org/wiki/Q9384146",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-women",
+    "name": "中国妇女儿童博物馆",
+    "address": "北京市东城区建国门内大街23号",
+    "coordinate": {
+      "lat": 39.90909,
+      "lng": 116.41729
+    },
+    "source": "https://www.wikidata.org/wiki/Q4306266",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-overseas",
+    "name": "中国华侨历史博物馆",
+    "address": "北京市东城区北新桥三条东口",
+    "coordinate": {
+      "lat": 39.941542,
+      "lng": 116.418885
+    },
+    "source": "https://www.wikidata.org/wiki/Q28418208",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-customs",
+    "name": "中国海关博物馆",
+    "address": "北京市东城区建国门内大街6号",
+    "coordinate": {
+      "lat": 39.905687,
+      "lng": 116.426505
+    },
+    "source": "https://www.wikidata.org/wiki/Q19851717",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-coins",
+    "name": "中国钱币博物馆",
+    "address": "北京市西城区西交民巷17号院",
+    "coordinate": {
+      "lat": 39.90075,
+      "lng": 116.38875
+    },
+    "source": "https://www.wikidata.org/wiki/Q10874154",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-ethnic",
+    "name": "民族文化宫博物馆",
+    "address": "北京市西城区复兴门内大街49号",
+    "coordinate": {
+      "lat": 39.90683,
+      "lng": 116.36266
+    },
+    "source": "https://www.wikidata.org/wiki/Q1791802",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-literature",
+    "name": "中国现代文学馆",
+    "address": "北京市朝阳区文学馆路45号",
+    "coordinate": {
+      "lat": 39.98291,
+      "lng": 116.42378
+    },
+    "source": "https://www.wikidata.org/wiki/Q10873917",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-tsinghua",
+    "name": "清华大学艺术博物馆",
+    "address": "北京市海淀区清华园1号清华大学艺术博物馆",
+    "coordinate": {
+      "lat": 39.999822,
+      "lng": 116.335609
+    },
+    "source": "https://www.wikidata.org/wiki/Q28412420",
+    "result": "same museum/campus reference; not entrance",
+    "note": "对应清华大学艺博馆区；源精度粗，不表示校门。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-archaeology",
+    "name": "中国考古博物馆",
+    "address": "北京市朝阳区国家体育场北路1号院1号楼",
+    "coordinate": {
+      "lat": 39.9976929,
+      "lng": 116.3925689
+    },
+    "source": "https://www.openstreetmap.org/way/610079824",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-zhoukoudian",
+    "name": "周口店北京人遗址博物馆",
+    "address": "北京市房山区周口店大街1号",
+    "coordinate": {
+      "lat": 39.6863399,
+      "lng": 115.9309486
+    },
+    "source": "https://www.openstreetmap.org/way/1090515798",
+    "result": "same museum/campus reference; not entrance",
+    "note": "对应独立博物馆馆舍，非猿人洞遗址总点。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-yunju",
+    "name": "北京房山云居寺石经博物馆",
+    "address": "北京市房山区大石窝镇水头村云居寺",
+    "coordinate": {
+      "lat": 39.60805556,
+      "lng": 115.76777778
+    },
+    "source": "https://www.wikidata.org/wiki/Q1528443",
+    "result": "same museum/campus reference; not entrance",
+    "note": "场馆名称与当前目录馆址所在馆区一致；参考点不代表入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-dabaotai",
+    "name": "北京大葆台遗址博物馆",
+    "address": "北京市丰台区郭公庄707号",
+    "coordinate": {
+      "lat": 39.8044893,
+      "lng": 116.2913995
+    },
+    "source": "https://www.openstreetmap.org/way/1012672989",
+    "result": "same museum/campus reference; not entrance",
+    "note": "2025新馆位于同一大葆台遗址馆区；点位不表示新馆入口。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-yongding",
+    "name": "永定河文化博物馆",
+    "address": "北京市门头沟区门头沟路8号",
+    "coordinate": "unavailable",
+    "source": null,
+    "result": "address-only",
+    "note": "没有可信公开WGS84点；目录馆址可更新，但不添加猜测坐标。",
+    "checked": "2026-10-25"
+  },
+  {
+    "id": "bj-haidian",
+    "name": "北京市海淀区博物馆（三山五园文化艺术中心）",
+    "address": "北京市海淀区海淀公园路6号",
+    "coordinate": "unavailable",
+    "source": null,
+    "result": "address-only",
+    "note": "固定三山五园新馆；拒绝旧中关村馆坐标。",
+    "checked": "2026-10-25"
+  }
+]

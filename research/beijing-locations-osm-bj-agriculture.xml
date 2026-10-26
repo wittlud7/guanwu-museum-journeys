@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2229424 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1425854605" visible="true" version="2" changeset="11670214" timestamp="2012-05-22T10:41:13Z" user="R438" uid="376715" lat="39.9412306" lon="116.4614920"/>
+ <node id="1425854607" visible="true" version="2" changeset="11670214" timestamp="2012-05-22T10:41:13Z" user="R438" uid="376715" lat="39.9387922" lon="116.4617427"/>
+ <node id="1425854610" visible="true" version="3" changeset="11670214" timestamp="2012-05-22T10:41:13Z" user="R438" uid="376715" lat="39.9421929" lon="116.4607956"/>
+ <node id="1425854612" visible="true" version="2" changeset="11670214" timestamp="2012-05-22T10:41:13Z" user="R438" uid="376715" lat="39.9413614" lon="116.4609709"/>
+ <node id="1762059282" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9362587" lon="116.4562746"/>
+ <node id="1762059286" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9362794" lon="116.4594058"/>
+ <node id="1762059296" visible="true" version="2" changeset="11696606" timestamp="2012-05-25T09:09:28Z" user="R438" uid="376715" lat="39.9363534" lon="116.4595039"/>
+ <node id="1762059299" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9363730" lon="116.4615650"/>
+ <node id="1762059302" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9364865" lon="116.4622517"/>
+ <node id="1762059306" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9365348" lon="116.4604152"/>
+ <node id="1762059310" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9365397" lon="116.4602766"/>
+ <node id="1762059314" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9365445" lon="116.4611366"/>
+ <node id="1762059318" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9365735" lon="116.4605349"/>
+ <node id="1762059322" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9366073" lon="116.4601632"/>
+ <node id="1762059325" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:02Z" user="R438" uid="376715" lat="39.9367039" lon="116.4600970"/>
+ <node id="1762059329" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:03Z" user="R438" uid="376715" lat="39.9367184" lon="116.4595143"/>
+ <node id="1762059332" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:03Z" user="R438" uid="376715" lat="39.9367571" lon="116.4621730"/>
+ <node id="1762059353" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:03Z" user="R438" uid="376715" lat="39.9367812" lon="116.4622864"/>
+ <node id="1762059412" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:03Z" user="R438" uid="376715" lat="39.9372961" lon="116.4562577"/>
+ <node id="1762059448" visible="true" version="2" changeset="11696606" timestamp="2012-05-25T09:09:28Z" user="R438" uid="376715" lat="39.9374010" lon="116.4562578">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1762059458" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:04Z" user="R438" uid="376715" lat="39.9374700" lon="116.4623525"/>
+ <node id="1762059491" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:04Z" user="R438" uid="376715" lat="39.9378541" lon="116.4630361"/>
+ <node id="1762059511" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:05Z" user="R438" uid="376715" lat="39.9382405" lon="116.4630991"/>
+ <node id="1762059517" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:05Z" user="R438" uid="376715" lat="39.9383295" lon="116.4629626"/>
+ <node id="1762059529" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:05Z" user="R438" uid="376715" lat="39.9385445" lon="116.4629359"/>
+ <node id="1762059532" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:05Z" user="R438" uid="376715" lat="39.9386399" lon="116.4628492"/>
+ <node id="1762059541" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:05Z" user="R438" uid="376715" lat="39.9387305" lon="116.4627437"/>
+ <node id="1762059544" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:05Z" user="R438" uid="376715" lat="39.9387981" lon="116.4625768"/>
+ <node id="1762059606" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:06Z" user="R438" uid="376715" lat="39.9396334" lon="116.4565677"/>
+ <node id="1762059609" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:06Z" user="R438" uid="376715" lat="39.9396336" lon="116.4562604"/>
+ <node id="1762059627" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:06Z" user="R438" uid="376715" lat="39.9397162" lon="116.4565678">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1762059640" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:06Z" user="R438" uid="376715" lat="39.9403365" lon="116.4565685"/>
+ <node id="1762059644" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:06Z" user="R438" uid="376715" lat="39.9403368" lon="116.4562524"/>
+ <node id="1762059753" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:07Z" user="R438" uid="376715" lat="39.9423981" lon="116.4596275"/>
+ <node id="1762059755" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9423982" lon="116.4595008">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1762059758" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9423983" lon="116.4593936"/>
+ <node id="1762059760" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9424230" lon="116.4603035"/>
+ <node id="1762059762" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9424234" lon="116.4596275"/>
+ <node id="1762059764" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9424235" lon="116.4593936"/>
+ <node id="1762059767" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9424256" lon="116.4562548"/>
+ <node id="1762059770" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9424899" lon="116.4608834"/>
+ <node id="1762059773" visible="true" version="1" changeset="11670214" timestamp="2012-05-22T10:41:08Z" user="R438" uid="376715" lat="39.9424903" lon="116.4603035"/>
+ <node id="2408401258" visible="true" version="1" changeset="17235640" timestamp="2013-08-06T02:46:12Z" user="m17design" uid="486052" lat="39.9375486" lon="116.4624923"/>
+ <node id="2408401265" visible="true" version="1" changeset="17235640" timestamp="2013-08-06T02:46:12Z" user="m17design" uid="486052" lat="39.9365622" lon="116.4608854"/>
+ <node id="2415661473" visible="true" version="1" changeset="17313106" timestamp="2013-08-12T07:29:12Z" user="m17design" uid="486052" lat="39.9378060" lon="116.4628459"/>
+ <node id="2415661477" visible="true" version="1" changeset="17313106" timestamp="2013-08-12T07:29:12Z" user="m17design" uid="486052" lat="39.9376954" lon="116.4626435"/>
+ <node id="2415661496" visible="true" version="1" changeset="17313106" timestamp="2013-08-12T07:29:12Z" user="m17design" uid="486052" lat="39.9395808" lon="116.4616616"/>
+ <way id="129187924" visible="true" version="9" changeset="145206286" timestamp="2023-12-17T08:04:06Z" user="tg4567" uid="12500589">
+  <nd ref="1425854607"/>
+  <nd ref="2415661496"/>
+  <nd ref="1425854605"/>
+  <nd ref="1425854612"/>
+  <nd ref="1425854610"/>
+  <nd ref="1762059770"/>
+  <nd ref="1762059773"/>
+  <nd ref="1762059760"/>
+  <nd ref="1762059762"/>
+  <nd ref="1762059753"/>
+  <nd ref="1762059755"/>
+  <nd ref="1762059758"/>
+  <nd ref="1762059764"/>
+  <nd ref="1762059767"/>
+  <nd ref="1762059644"/>
+  <nd ref="1762059640"/>
+  <nd ref="1762059627"/>
+  <nd ref="1762059606"/>
+  <nd ref="1762059609"/>
+  <nd ref="1762059448"/>
+  <nd ref="1762059412"/>
+  <nd ref="1762059282"/>
+  <nd ref="1762059286"/>
+  <nd ref="1762059296"/>
+  <nd ref="1762059329"/>
+  <nd ref="1762059325"/>
+  <nd ref="1762059322"/>
+  <nd ref="1762059310"/>
+  <nd ref="1762059306"/>
+  <nd ref="1762059318"/>
+  <nd ref="2408401265"/>
+  <nd ref="1762059314"/>
+  <nd ref="1762059299"/>
+  <nd ref="1762059302"/>
+  <nd ref="1762059332"/>
+  <nd ref="1762059353"/>
+  <nd ref="1762059458"/>
+  <nd ref="2408401258"/>
+  <nd ref="2415661477"/>
+  <nd ref="2415661473"/>
+  <nd ref="1762059491"/>
+  <nd ref="1762059511"/>
+  <nd ref="1762059517"/>
+  <nd ref="1762059529"/>
+  <nd ref="1762059532"/>
+  <nd ref="1762059541"/>
+  <nd ref="1762059544"/>
+  <nd ref="1425854607"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:street" v="东三环北路"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="全国农业展览馆;中国农业博物馆"/>
+  <tag k="name:en" v="Agricultural Exhibition Center"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="wikidata" v="Q15703418"/>
+  <tag k="wikimedia_commons" v="Category:China Agricultural Museum"/>
+  <tag k="wikipedia" v="en:China Agricultural Museum"/>
+ </way>
+</osm>
