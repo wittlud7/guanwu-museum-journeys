@@ -11,10 +11,10 @@ config=json.loads((root/'.openai/project-sync.json').read_text(encoding='utf-8')
 env=os.environ.copy();env['GIT_TERMINAL_PROMPT']='0';env['GCM_INTERACTIVE']='never'
 
 def git(*args,progress=False):
- result=subprocess.run(['git',*args],cwd=root,env=env,text=True,stdout=subprocess.PIPE,stderr=None if progress else subprocess.PIPE,encoding='utf-8',timeout=600)
+ result=subprocess.run(['git',*args],cwd=root,env=env,text=True,stdout=None if progress else subprocess.PIPE,stderr=None if progress else subprocess.PIPE,encoding='utf-8',timeout=1200 if progress else 90)
  if result.returncode:
   raise RuntimeError('Git operation failed: '+(result.stderr or 'See transfer output above.').strip())
- return result.stdout.strip()
+ return (result.stdout or '').strip()
 
 def main():
  remote=config['github_remote'];branch=config['github_branch']
@@ -24,7 +24,12 @@ def main():
  if git('status','--porcelain'):raise RuntimeError('Commit the completed update first; working tree must be clean.')
  subprocess.run([sys.executable,str(root/'scripts/check_private_release.py')],cwd=root,env=env,check=True)
  sha=git('rev-parse','HEAD')
- git('-c','http.postBuffer=134217728','-c','http.version=HTTP/2','-c','http.lowSpeedLimit=1024','-c','http.lowSpeedTime=120','push','--progress',remote,'HEAD:refs/heads/'+branch,progress=True)
+ try:
+  git('-c','http.postBuffer=134217728','-c','http.version=HTTP/2','-c','http.lowSpeedLimit=1024','-c','http.lowSpeedTime=120','push','--progress',remote,'HEAD:refs/heads/'+branch,progress=True)
+ except subprocess.TimeoutExpired:
+  # The server may have accepted the commit before the local acknowledgement timed out.
+  # Resolve remote state before retrying or reporting failure.
+  print('Transfer acknowledgement timed out; checking GitHub commit before reporting the result.',flush=True)
  refs=git('ls-remote','--heads',remote,'refs/heads/'+branch).split()
  if not refs or refs[0]!=sha:raise RuntimeError('GitHub SHA differs from the local project; synchronization is incomplete.')
  if git('status','--porcelain') or git('rev-parse','HEAD')!=sha:raise RuntimeError('Local project changed during synchronization; recheck before reporting completion.')
