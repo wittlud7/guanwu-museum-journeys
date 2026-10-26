@@ -1,5 +1,7 @@
 # 观物 · 城市博物馆指南
 
+源码私有仓库：[wittlud7/guanwu-museum-journeys](https://github.com/wittlud7/guanwu-museum-journeys)。当前 Codex 项目与该仓库使用同一份 Git 历史。每次更新完成后执行相关检查、提交并运行 `python scripts/sync_github.py`，验证远端 `main` 与本地 HEAD 一致；完整要求见 [AGENTS.md](AGENTS.md)。网页发布继续沿用既有 Sites 项目。密钥、私密配置与本地运行数据不进入仓库。
+
 11 城 80 馆、46 项中国世界文化及混合遗产、18 件真实文物与 8 个工艺专题，连接影像、阅读、语音与 DeepSeek 随行伴游。浏览器小程序尺寸预览为 `mini.html`；微信原生工程在 `miniprogram/`。
 
 2026-10-25 更新：现有每城增加两馆，新增22张对应许可照片、66个有来源的观察看点。“博物馆”用于按城市、主题、关键词选馆；“城市漫游”先选城市，再组合半天一馆或一天两馆。新增三组跨馆对看主题、18件文物的自由比较、观察手记和带图片署名的PNG观物卡导出。AI支持多馆组合与来源对照，不生成虚构馆内/馆间导航。核查清单见 `research/city-museums-verification.md`。
