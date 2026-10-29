@@ -1,0 +1,46 @@
+[
+  {
+    "id": "tea-met-42455",
+    "src": "assets/knowledge/42455.jpg",
+    "sourceUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42455/1551585/main-image",
+    "collectionUrl": "https://www.metmuseum.org/art/collection/search/42455",
+    "license": "CC0",
+    "policyUrl": "https://www.metmuseum.org/policies/image-resources",
+    "credit": "The Metropolitan Museum of Art · 91.1.226",
+    "checkedAt": "2026-10-29",
+    "sha256": "af2c1d7a20a247f8ed07d28bb5cad0d1797b9072ed12e46dbb1a852ee7bdd898"
+  },
+  {
+    "id": "tea-met-48117",
+    "src": "assets/knowledge/48117.jpg",
+    "sourceUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/48117/1912447/main-image",
+    "collectionUrl": "https://www.metmuseum.org/art/collection/search/48117",
+    "license": "CC0",
+    "policyUrl": "https://www.metmuseum.org/policies/image-resources",
+    "credit": "The Metropolitan Museum of Art · 79.2.1358",
+    "checkedAt": "2026-10-29",
+    "sha256": "628452bdeda5e3cdc6df992c363b3697667270947c3a5afa26ab941515c94a89"
+  },
+  {
+    "id": "tea-met-51226",
+    "src": "assets/knowledge/51226.jpg",
+    "sourceUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/51226/195524/main-image",
+    "collectionUrl": "https://www.metmuseum.org/art/collection/search/51226",
+    "license": "CC0",
+    "policyUrl": "https://www.metmuseum.org/policies/image-resources",
+    "credit": "The Metropolitan Museum of Art · 93.1.2",
+    "checkedAt": "2026-10-29",
+    "sha256": "cc1a5c204d69ab8845532757a4f8dfcac615b4eea8a1b1c782ba0a41f02735d9"
+  },
+  {
+    "id": "tea-met-47545",
+    "src": "assets/knowledge/47545.jpg",
+    "sourceUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/47545/66579/main-image",
+    "collectionUrl": "https://www.metmuseum.org/art/collection/search/47545",
+    "license": "CC0",
+    "policyUrl": "https://www.metmuseum.org/policies/image-resources",
+    "credit": "The Metropolitan Museum of Art · 79.2.510a, b",
+    "checkedAt": "2026-10-29",
+    "sha256": "16c007ed18fcb9e1fadd4b1a7829ca3a3283b3d36bbcaa6e8c1a06449ab53ec6"
+  }
+]

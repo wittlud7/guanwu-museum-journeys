@@ -5,19 +5,21 @@ import {resolve,extname,sep} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {createRequire} from 'node:module';
 import {handleGuide} from '../server-app/lib/guide.mjs';
+import {handleKnowledge} from '../server-app/lib/knowledge.mjs';
 import {privateConfig} from './private_config.mjs';
 const privateEnv=privateConfig();
 const require=createRequire(import.meta.url),root=fileURLToPath(new URL('../dist/',import.meta.url));
 const a=require('../dist/heritage-data.js');let b={};try{b=require('../dist/expansion-data.js')}catch(e){if(e.code!=='MODULE_NOT_FOUND')throw e}
 const w=require('../dist/world-heritage-data.js'),d=require('../dist/beijing-museums.js'),c=require('../dist/city-museums.js'),inquiries=require('../dist/inquiries-data.js');
 const catalog={museums:[...a.museums,...(b.museums||[]),...c.museums,...d.museums],artifacts:b.artifacts||[],crafts:a.crafts,inquiries,heritage:w.sites};
+catalog.knowledge=require('../dist/knowledge-data.js');
 const types={'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.png':'image/png','.svg':'image/svg+xml','.mp3':'audio/mpeg','.webp':'image/webp'};
 const server=http.createServer(async(req,res)=>{
   const url=new URL(req.url,'http://localhost:4173');
-  if(url.pathname.startsWith('/api/guide')){
+  if(url.pathname.startsWith('/api/guide')||url.pathname.startsWith('/api/knowledge')){
     const chunks=[];let size=0;for await(const chunk of req){size+=chunk.length;if(size>24000){res.writeHead(413);res.end();return}chunks.push(chunk)}
     const request=new Request(url,{method:req.method,headers:req.headers,...(req.method==='POST'?{body:Buffer.concat(chunks)}:{})});
-    const result=await handleGuide(request,privateEnv,catalog);res.writeHead(result.status,Object.fromEntries(result.headers));res.end(Buffer.from(await result.arrayBuffer()));return;
+    const result=await (url.pathname.startsWith('/api/knowledge')?handleKnowledge:handleGuide)(request,privateEnv,catalog);res.writeHead(result.status,Object.fromEntries(result.headers));res.end(Buffer.from(await result.arrayBuffer()));return;
   }
   let path;try{path=resolve(root,'.'+decodeURIComponent(url.pathname==='/'?'/index.html':url.pathname))}catch{res.writeHead(400);res.end();return}
   if(!path.startsWith(root.endsWith(sep)?root:root+sep)){res.writeHead(403);res.end();return}
@@ -27,4 +29,5 @@ const server=http.createServer(async(req,res)=>{
   if(range){const start=Number(range[1]),end=Math.min(Number(range[2]||info.size-1),info.size-1);if(start>end||start>=info.size){res.writeHead(416,{'Content-Range':`bytes */${info.size}`});res.end();return}res.writeHead(206,{...headers,'Content-Length':end-start+1,'Content-Range':`bytes ${start}-${end}/${info.size}`});createReadStream(path,{start,end}).pipe(res)}
   else{res.writeHead(200,{...headers,'Content-Length':info.size});if(req.method==='HEAD')res.end();else createReadStream(path).pipe(res)}
 });
-server.listen(4173,'127.0.0.1',()=>console.log('Local: http://localhost:4173 · DeepSeek '+(privateEnv.DEEPSEEK_API_KEY?'configured':'not configured')));
+const port=Number(process.env.GUANWU_PREVIEW_PORT||4173);
+server.listen(port,'127.0.0.1',()=>console.log('Local: http://localhost:'+port+' · DeepSeek '+(privateEnv.DEEPSEEK_API_KEY?'configured':'not configured')));

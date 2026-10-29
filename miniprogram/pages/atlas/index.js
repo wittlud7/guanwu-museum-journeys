@@ -9,6 +9,7 @@ Page({
  chooseCity(){this.setData({modal:'city'})},chooseCityItem(e){this.setData({modal:''});this.city(e)},
  openCity(e){this.setData({city:e.currentTarget.dataset.city,journeyCity:true});this.refresh();wx.pageScrollTo({scrollTop:0,duration:150})},backCities(){this.setData({city:'全部',journeyCity:false});this.refresh()},
  search(e){this.setData({query:e.detail.value});this.refresh()},filter(e){this.setData({category:e.currentTarget.dataset.category});this.refresh()},
+ openKnowledge(){wx.navigateTo({url:'/knowledge/index'})},
  openHeritage(e){wx.navigateTo({url:'/media/'+e.currentTarget.dataset.id+'/guide/index'})},province(e){this.setData({province:this.data.provinces[Number(e.detail.value)]});this.refresh()},
  openMuseum(e){const id=e.currentTarget.dataset.id;wx.navigateTo({url:'/media/'+id+'/guide/index'})},
  openCraft(e){const id=e.currentTarget.dataset.id,c=crafts.find(c=>c.id===id);if(c)wx.navigateTo({url:'/media/'+c.museum+'/guide/index?craft='+id})},

@@ -66,11 +66,12 @@ for voice in ['yunxi','xiaoyi']:
   (guide/'index.wxss').write_text('',encoding='utf-8');(guide/'index.json').write_text('{}',encoding='utf-8')
   size=sum(f.stat().st_size for f in sub.rglob('*') if f.is_file());assert size<2*1024*1024,(name,size)
   config['subPackages'].append({'root':'media/'+name,'name':name,'pages':['guide/index']})
+config['subPackages'].append({'root':'knowledge','name':'knowledge','pages':['index']})
 (native/'app.json').write_text(json.dumps(config,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
 project=json.loads((native/'project.config.json').read_text(encoding='utf-8'))
 project['packOptions']={'ignore':[{'type':'folder','value':'assets'},{'type':'folder','value':'media/suzhou-brick'},{'type':'file','value':'README.md'}]}
 (native/'project.config.json').write_text(json.dumps(project,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
-main=sum(p.stat().st_size for p in native.rglob('*') if p.is_file() and 'media' not in p.relative_to(native).parts and 'assets' not in p.relative_to(native).parts)
+main=sum(p.stat().st_size for p in native.rglob('*') if p.is_file() and 'media' not in p.relative_to(native).parts and 'assets' not in p.relative_to(native).parts and 'knowledge' not in p.relative_to(native).parts)
 assert main<2*1024*1024,main
 print('main package',round(main/1024),'KB')
 

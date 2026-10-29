@@ -1,0 +1,25 @@
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';
+import {handleKnowledge,retrieveKnowledge} from '../server-app/lib/knowledge.mjs';
+const require=createRequire(import.meta.url),catalog=require('../server-app/lib/catalog.json'),data=catalog.knowledge;
+assert.equal(data.objects.length,20);assert.equal(data.documents.length,5);assert.equal(new Set(data.objects.map(o=>o.institution)).size,3);
+const sourceIds=new Set(data.sources.map(s=>s.id));assert.equal(sourceIds.size,data.sources.length);
+for(const o of data.objects){for(const f of Object.values(o.fields)){assert.ok(f.value===null?f.sourceIds.length===0:f.sourceIds.length>0,o.id);for(const id of f.sourceIds)assert.ok(sourceIds.has(id),id)}for(const id of o.summarySourceIds)assert.ok(sourceIds.has(id));assert.ok(o.image.status==='link_only'||o.image.status==='cc0')}
+const a=data.objects.find(o=>o.id==='tea-met-51071'),b=data.objects.find(o=>o.id==='tea-met-51072');assert.notEqual(a.fields.accession.value,b.fields.accession.value);assert.notEqual(a.id,b.id);
+assert.equal(data.objects.find(o=>o.id==='tea-dpm-227688').fields.dimensions.value,null);
+assert.equal(data.objects.find(o=>o.id==='tea-met-42455').dateViews.length,2);
+const q=(question,extra={})=>new Request('https://test/api/knowledge/ask',{method:'POST',body:JSON.stringify({question,...extra})});
+assert.equal((await handleKnowledge(q(''),{},catalog)).status,400);
+assert.equal((await handleKnowledge(q('兔毫'),{},catalog)).status,503);
+const search=await handleKnowledge(new Request('https://test/api/knowledge/search?institution='+encodeURIComponent('故宫博物院')),{},catalog);assert.equal((await search.json()).objects.length,4);
+assert.ok(retrieveKnowledge(data,{query:'兔毛是画上去的？'}).objects.some(o=>o.id==='tea-dpm-227128'));
+assert.ok(retrieveKnowledge(data,{query:'乾隆出门'}).objects.some(o=>o.id==='tea-dpm-227616'));
+assert.ok(retrieveKnowledge(data,{query:'茶',institution:'故宫博物院',period:'清'}).objects.every(o=>o.institution==='故宫博物院'&&o.period==='清'));
+assert.equal(retrieveKnowledge(data,{query:'zzunrelatedxyz'}).objects.length,0);
+const mock=answer=>async()=>Response.json({choices:[{message:{content:JSON.stringify(answer)}}]});
+const answer={explanation:'兔毫是釉中结晶。[src-tea-dpm-227128]',objects:[{id:'tea-dpm-227128',reason:'馆方资料说明釉中结晶。[src-tea-dpm-227128]'}],background:'不能仅凭兔毫认定产地。[src-tea-dpm-227128]',uncertainty:'当前资料未说明具体使用者。',citations:['src-tea-dpm-227128']};
+const result=await handleKnowledge(q('兔毫是画上去的吗？',{ids:['tea-dpm-227128']}),{DEEPSEEK_API_KEY:'test-only'},catalog,mock(answer));assert.equal(result.status,200);assert.equal((await result.json()).mode,'source_grounded');
+assert.equal((await handleKnowledge(q('兔毫'),{DEEPSEEK_API_KEY:'test-only'},catalog,mock({...answer,citations:['invented-source']}))).status,502);
+assert.equal((await handleKnowledge(q('兔毫'),{DEEPSEEK_API_KEY:'test-only'},catalog,mock({...answer,objects:[{id:'fake',reason:'fake'}]}))).status,502);
+assert.equal((await handleKnowledge(q('兔毫'),{DEEPSEEK_API_KEY:'test-only'},catalog,mock({...answer,explanation:'假引文[unknown]'}))).status,502);
+console.log('PASS: 20 sourced objects, 5 documents, unknown fields, independent identities, conflicting original dates, synonym retrieval, exact filters, source/object ID rejection, missing key and model contract. Mock provider only.');

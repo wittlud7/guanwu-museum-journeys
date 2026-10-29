@@ -5,3 +5,5 @@
 .native-photo-placeholder{height:100%;min-height:200rpx;display:flex;align-items:center;justify-content:center;background:#e6ebdd;color:#819175;font-size:20rpx}
 
 .bottom-nav{grid-template-columns:repeat(5,minmax(0,1fr))}.province-filter{margin:25rpx 0;padding:20rpx;border:1rpx solid #d4ddc8;color:#5e7954;font-size:24rpx}
+
+.knowledge-native-entry{background:#e9e3d6;padding:40rpx;margin:28rpx 0;color:#514b3d}.knowledge-native-entry text{font-size:20rpx;color:#88775e}.knowledge-native-entry view{font:40rpx/1.8 serif;margin:12rpx 0}
